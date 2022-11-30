@@ -1,0 +1,142 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>311</offset>
+<length>29</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>КРИСТИНА ФЕРНАНДЕС ДЕ КИРШНЕР</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>678</offset>
+<length>17</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЛУИС МАРИЯ КАРЕНА</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>745</offset>
+<length>22</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ХОРХЕ АЛЬБЕРТО ШЕВАЛЬЕ</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>830</offset>
+<length>12</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>СЕСАР МИЛАНИ</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>890</offset>
+<length>19</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЛУИС АЛЬБЕРТО ПОССИ</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>925</offset>
+<length>21</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ГАСТОН ФЕРНАНДО ЭРИСЕ</value>
+</attribute>
+</entry>
+<entry>
+<id>8</id>
+<offset>989</offset>
+<length>31</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ДАНИЭЛЬ АЛЬБЕРТО ЭНРИКЕ МАРТИН</value>
+</attribute>
+</entry>
+<entry>
+<id>15</id>
+<offset>1042</offset>
+<length>20</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>МАРИО МИГЕЛЬ КАЛЬЕХО</value>
+</attribute>
+</entry>
+<entry>
+<id>9</id>
+<offset>1134</offset>
+<length>20</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>НОРМАНДО КОНСТАНТИНО</value>
+</attribute>
+</entry>
+<entry>
+<id>10</id>
+<offset>1382</offset>
+<length>7</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>КИРШНЕР</value>
+</attribute>
+</entry>
+<entry>
+<id>11</id>
+<offset>1431</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АРТУР ПУРИЧЕЛЛИ</value>
+</attribute>
+</entry>
+<entry>
+<id>12</id>
+<offset>1456</offset>
+<length>13</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АГУСТИН РОССИ</value>
+</attribute>
+</entry>
+<entry>
+<id>13</id>
+<offset>1546</offset>
+<length>19</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>КАРЛОС АЛЬБЕРТО ПАС</value>
+</attribute>
+</entry>
+<entry>
+<id>14</id>
+<offset>1598</offset>
+<length>13</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЭНРИКЕ МАРТИН</value>
+</attribute>
+</entry>
+</markup>

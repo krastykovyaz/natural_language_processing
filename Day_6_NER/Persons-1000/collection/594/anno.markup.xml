@@ -1,0 +1,102 @@
+﻿<markup>
+<entry>
+<id>7</id>
+<offset>50</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Р ХВЕСЮК</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>69</offset>
+<length>7</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>А МАРЕЙ</value>
+</attribute>
+</entry>
+<entry>
+<id>1</id>
+<offset>109</offset>
+<length>13</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АЛЕКСЕЙ МАРЕЙ</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>253</offset>
+<length>12</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>РУШАН ХВЕСЮК</value>
+</attribute>
+</entry>
+<entry>
+<id>8</id>
+<offset>428</offset>
+<length>8</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Р ХВЕСЮК</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>718</offset>
+<length>7</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>А МАРЕЙ</value>
+</attribute>
+</entry>
+<entry>
+<id>9</id>
+<offset>1005</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Р ХВЕСЮК</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>1152</offset>
+<length>7</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>А МАРЕЙ</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>1341</offset>
+<length>7</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>А МАРЕЙ</value>
+</attribute>
+</entry>
+<entry>
+<id>10</id>
+<offset>1438</offset>
+<length>8</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Р ХВЕСЮК</value>
+</attribute>
+</entry>
+</markup>

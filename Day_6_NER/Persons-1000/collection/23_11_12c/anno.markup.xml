@@ -1,0 +1,62 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>0</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>МИЛОШ РЖИГА</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>153</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>МИЛОШ РЖИГА</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>520</offset>
+<length>12</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>МИЛОШ РЖИГА</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>631</offset>
+<length>13</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>МИХАИЛ КРАВЕЦ</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>911</offset>
+<length>5</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>РЖИГА</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>1092</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>МИЛОШ РЖИГА</value>
+</attribute>
+</entry>
+</markup>

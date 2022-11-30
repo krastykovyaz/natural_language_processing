@@ -1,0 +1,82 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>181</offset>
+<length>20</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АНДЕРС ФОГ РАСМУССЕН</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>277</offset>
+<length>17</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ДАВИД ДЖАЛАГАНИЯ</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>465</offset>
+<length>19</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>МИХАИЛ СААКАШВИЛИ</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>504</offset>
+<length>19</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>БИДЗИНА ИВАНИШВИЛИ</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>551</offset>
+<length>17</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>МАЙЯ ПАНДЖИКИДЗЕ</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>588</offset>
+<length>17</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ИРАКЛИЙ АЛАСАНИЯ</value>
+</attribute>
+</entry>
+<entry>
+<id>7</id>
+<offset>632</offset>
+<length>19</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ДАВИД УСУПАШВИЛИИ</value>
+</attribute>
+</entry>
+<entry>
+<id>8</id>
+<offset>698</offset>
+<length>13</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ГИГА БОКЕРИЯ</value>
+</attribute>
+</entry>
+</markup>

@@ -1,0 +1,112 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>101</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВЛАДИМИР КОРОЛЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>299</offset>
+<length>20</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АЛЕКСАНДР ФЕДОТЕНКОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>349</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ДМИТРИЙ МЕДВЕДЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>439</offset>
+<length>13</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>СЕРГЕЙ ПОПОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>660</offset>
+<length>17</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВИКТОР ГУМЕННЫЙ</value>
+</attribute>
+</entry>
+<entry>
+<id>7</id>
+<offset>800</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>МИХАИЛ СМОЛКИН</value>
+</attribute>
+</entry>
+<entry>
+<id>8</id>
+<offset>878</offset>
+<length>13</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ИГОРЬ МАКУШЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>9</id>
+<offset>1126</offset>
+<length>17</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АНДРЕЙ КОНДРАШОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>10</id>
+<offset>1302</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ДМИТРИЙ ГОМЕНКОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>11</id>
+<offset>1600</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>СЕРГЕЙ ГРИНЧЕНКО</value>
+</attribute>
+</entry>
+<entry>
+<id>12</id>
+<offset>1704</offset>
+<length>12</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЕВГЕНИЙ ИРЗА</value>
+</attribute>
+</entry>
+</markup>

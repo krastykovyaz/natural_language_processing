@@ -1,0 +1,32 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>88</offset>
+<length>19</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ХЕЛЛЕ ТОРНИНГ-ШМИДТ</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>330</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>НИКОЛАЙ ВАММЕН</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>422</offset>
+<length>12</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>НИК ХЕККЕРУП</value>
+</attribute>
+</entry>
+</markup>

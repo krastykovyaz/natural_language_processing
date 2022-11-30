@@ -1,0 +1,112 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>17</offset>
+<length>7</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>М ОРАБИ</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>111</offset>
+<length>20</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>МУХАММЕД ОСМАН ОРАБИ</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>196</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЭССАМ ШАРАФ</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>367</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ХАЗЕМ БЕБЛАВИ</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>384</offset>
+<length>13</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АЛИ АЛЬ-СИЛМИ</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>439</offset>
+<length>7</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Э ШАРАФ</value>
+</attribute>
+</entry>
+<entry>
+<id>7</id>
+<offset>594</offset>
+<length>7</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>М ОРАБИ</value>
+</attribute>
+</entry>
+<entry>
+<id>8</id>
+<offset>721</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>НАБИЛЬ АЛЬ-АРАБИ</value>
+</attribute>
+</entry>
+<entry>
+<id>11</id>
+<offset>960</offset>
+<length>13</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ХОСНИ МУБАРАК</value>
+</attribute>
+</entry>
+<entry>
+<id>9</id>
+<offset>1193</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Х МУБАРАК</value>
+</attribute>
+</entry>
+<entry>
+<id>10</id>
+<offset>1310</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Х МУБАРАК</value>
+</attribute>
+</entry>
+</markup>

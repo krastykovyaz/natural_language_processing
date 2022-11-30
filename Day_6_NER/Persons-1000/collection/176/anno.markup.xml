@@ -1,0 +1,82 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>0</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Д МЕДВЕДЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>20</offset>
+<length>12</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>А БАСТРЫКИН</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>66</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ДМИТРИЙ МЕДВЕДЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>105</offset>
+<length>21</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АЛЕКСАНДР БАСТРЫКИН</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>238</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>А БАСТРЫКИН</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>454</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>А БАСТРЫКИН</value>
+</attribute>
+</entry>
+<entry>
+<id>7</id>
+<offset>492</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>А БАСТРЫКИН</value>
+</attribute>
+</entry>
+<entry>
+<id>8</id>
+<offset>836</offset>
+<length>12</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Д МЕДВЕДЕВ</value>
+</attribute>
+</entry>
+</markup>

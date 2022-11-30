@@ -1,0 +1,72 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>428</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АНДРЕЙ ТРЕТЬЯК</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>548</offset>
+<length>13</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>СЕРГЕЙ СКОКОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>632</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ОЛЕГ ИВАНОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>1114</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>А ТРЕТЬЯК</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>1125</offset>
+<length>8</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>С СКОКОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>1136</offset>
+<length>8</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>О ИВАНОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>7</id>
+<offset>1243</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>НИКОЛАЙ МАКАРОВ</value>
+</attribute>
+</entry>
+</markup>

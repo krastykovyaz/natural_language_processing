@@ -1,0 +1,52 @@
+﻿<markup>
+<entry>
+<id>2</id>
+<offset>0</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Д МЕДВЕДЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>20</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>В ЧИРКОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>1</id>
+<offset>118</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ДМИТРИЙ МЕДВЕДЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>288</offset>
+<length>27</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВИКТОР ВИКТОРОВИЧ ЧИРКОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>526</offset>
+<length>19</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВЛАДИМИР ВЫСОЦКИЙ</value>
+</attribute>
+</entry>
+</markup>

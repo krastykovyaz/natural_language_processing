@@ -1,0 +1,22 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>81</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>СЕРГЕЙ СОБЯНИН</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>194</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ИЛЬЯ ПОНОЧЕВНЫЙ</value>
+</attribute>
+</entry>
+</markup>

@@ -1,0 +1,122 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>78</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЛАЙАМ ФОКС</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>205</offset>
+<length>6</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Л ФОКС</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>438</offset>
+<length>6</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Л ФОКС</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>531</offset>
+<length>13</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ДЭВИД КЭМЕРОН</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>576</offset>
+<length>6</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Л ФОКС</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>775</offset>
+<length>6</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Л ФОКС</value>
+</attribute>
+</entry>
+<entry>
+<id>7</id>
+<offset>901</offset>
+<length>12</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АДАМ УЭРРИТИ</value>
+</attribute>
+</entry>
+<entry>
+<id>8</id>
+<offset>1044</offset>
+<length>7</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Л ФОКС</value>
+</attribute>
+</entry>
+<entry>
+<id>9</id>
+<offset>1220</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>А УЭРРИТИ</value>
+</attribute>
+</entry>
+<entry>
+<id>10</id>
+<offset>1242</offset>
+<length>7</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Л ФОКС</value>
+</attribute>
+</entry>
+<entry>
+<id>11</id>
+<offset>1307</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>А УЭРРИТИ</value>
+</attribute>
+</entry>
+<entry>
+<id>12</id>
+<offset>1385</offset>
+<length>7</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Л ФОКС</value>
+</attribute>
+</entry>
+</markup>

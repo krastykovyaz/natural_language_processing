@@ -1,0 +1,112 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>0</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Д МЕДВЕДЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>72</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ДМИТРИЙ МЕДВЕДЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>277</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>МИХАИЛ НИКИТИН</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>413</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>М НИКИТИН</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>678</offset>
+<length>12</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЮРИЙ ДЕМИДОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>867</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЮРИЙ ДРАГУНЦОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>7</id>
+<offset>1009</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЮРИЙ КОКОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>8</id>
+<offset>1062</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Д МЕДВЕДЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>9</id>
+<offset>1270</offset>
+<length>19</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>МИХАИЛ СУХОДОЛЬСКИЙ</value>
+</attribute>
+</entry>
+<entry>
+<id>10</id>
+<offset>1333</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЕВГЕНИЙ ШКОЛОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>11</id>
+<offset>1391</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АЛЕКСЕЙ АНИЧИН</value>
+</attribute>
+</entry>
+</markup>

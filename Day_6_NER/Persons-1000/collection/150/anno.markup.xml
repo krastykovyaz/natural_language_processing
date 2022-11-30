@@ -1,0 +1,32 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>190</offset>
+<length>12</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>РОБЕРТ ГЕЙТС</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>258</offset>
+<length>12</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЛЯН ГУАНЛЕ</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>644</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ХУ ЦЗИНЬТАО</value>
+</attribute>
+</entry>
+</markup>

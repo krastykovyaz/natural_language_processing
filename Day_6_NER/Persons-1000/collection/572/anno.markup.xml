@@ -1,0 +1,102 @@
+﻿<markup>
+<entry>
+<id>3</id>
+<offset>150</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ОДЕС БАЙСУЛТАНОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>476</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>РАМЗАН КАДЫРОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>1</id>
+<offset>963</offset>
+<length>13</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ОЛЕГ ЖИДКОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>1168</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>О ЖИДКОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>1332</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АХМАТ КАДЫРОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>1350</offset>
+<length>12</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АЛУ АЛХАНОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>7</id>
+<offset>1596</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Р КАДЫРОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>12</id>
+<offset>1903</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЭЛИ ИСАЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>11</id>
+<offset>1916</offset>
+<length>21</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АБУБАКАР ТУМХАДЖИЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>8</id>
+<offset>2040</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Р КАДЫРОВ</value>
+</attribute>
+</entry>
+</markup>

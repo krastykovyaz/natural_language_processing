@@ -1,0 +1,112 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>0</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>В ВОЛОДИН</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>36</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>А КУДРИН</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>118</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВЯЧЕСЛАВ ВОЛОДИН</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>170</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АЛЕКСЕЙ КУДРИН</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>617</offset>
+<length>8</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>А КУДРИН</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>740</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>В ВОЛОДИН</value>
+</attribute>
+</entry>
+<entry>
+<id>7</id>
+<offset>751</offset>
+<length>8</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>А КУДРИН</value>
+</attribute>
+</entry>
+<entry>
+<id>8</id>
+<offset>1159</offset>
+<length>13</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>БОРИС ГРЫЗЛОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>9</id>
+<offset>1200</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>А КУДРИН</value>
+</attribute>
+</entry>
+<entry>
+<id>10</id>
+<offset>1378</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>А КУДРИН</value>
+</attribute>
+</entry>
+<entry>
+<id>11</id>
+<offset>1441</offset>
+<length>17</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВЛАДИМИР ПОЗНЕР</value>
+</attribute>
+</entry>
+</markup>

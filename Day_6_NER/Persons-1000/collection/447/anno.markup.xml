@@ -1,0 +1,92 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>9</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Н САРКОЗИ</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>297</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>НИКОЛЯ САРКОЗИ</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>312</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АНРИ ГЕНО</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>530</offset>
+<length>6</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>А ГЕНО</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>603</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЖАН-КЛОД ЮНКЕР</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>782</offset>
+<length>6</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>А ГЕНО</value>
+</attribute>
+</entry>
+<entry>
+<id>7</id>
+<offset>1029</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Н САРКОЗИ</value>
+</attribute>
+</entry>
+<entry>
+<id>9</id>
+<offset>1096</offset>
+<length>17</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>КЛАУС РЕГЛИНГ</value>
+</attribute>
+</entry>
+<entry>
+<id>8</id>
+<offset>2371</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>СЕРГЕЙ СТОРЧАК</value>
+</attribute>
+</entry>
+</markup>

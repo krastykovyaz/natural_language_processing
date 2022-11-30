@@ -1,0 +1,52 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>16</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>БАШАР АСАД</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>71</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>БАШАР АСАД</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>123</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АЛИ ХАБИБ</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>203</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>РАУД РАДЖХА</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>390</offset>
+<length>8</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>А ХАБИБ</value>
+</attribute>
+</entry>
+</markup>

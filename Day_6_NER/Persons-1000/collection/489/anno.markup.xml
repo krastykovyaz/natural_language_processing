@@ -1,0 +1,112 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>21</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>КИМ ЧЕН ИР</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>40</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>КИМ ЧЕН ЫН</value>
+</attribute>
+</entry>
+<entry>
+<id>12</id>
+<offset>121</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>КИМ ЧЕН ЫН</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>168</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>КИМ ЧЕН ИР</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>245</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>КИМ ЧЕН ЫН</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>273</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>КИМ ЧЕН ИР</value>
+</attribute>
+</entry>
+<entry>
+<id>7</id>
+<offset>411</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>КИМ ЧЕН ЫН</value>
+</attribute>
+</entry>
+<entry>
+<id>8</id>
+<offset>461</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>КИМ ЧЕН ИР</value>
+</attribute>
+</entry>
+<entry>
+<id>9</id>
+<offset>511</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>КИМ ЧЕН ИР</value>
+</attribute>
+</entry>
+<entry>
+<id>10</id>
+<offset>729</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>КИМ ЧЕН ИР</value>
+</attribute>
+</entry>
+<entry>
+<id>11</id>
+<offset>853</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>КИМ ЧЕН ЫН</value>
+</attribute>
+</entry>
+</markup>

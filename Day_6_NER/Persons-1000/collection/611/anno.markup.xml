@@ -1,0 +1,102 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>1752</offset>
+<length>12</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АНТОН УСАЧЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>4584</offset>
+<length>18</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АЛЕКСАНДР КОСТЮКОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>10</id>
+<offset>5511</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>А КОСТЮКОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>5862</offset>
+<length>12</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЛИЛИЯ БРУЕВА</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>6848</offset>
+<length>8</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Л БРУЕВА</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>7311</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АЛЕКСАНДР НОВАК</value>
+</attribute>
+</entry>
+<entry>
+<id>7</id>
+<offset>7727</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ОЛЕГ ШУТКИН</value>
+</attribute>
+</entry>
+<entry>
+<id>8</id>
+<offset>8329</offset>
+<length>8</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>О ШУТКИН</value>
+</attribute>
+</entry>
+<entry>
+<id>12</id>
+<offset>8878</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Л БРУЕВА</value>
+</attribute>
+</entry>
+<entry>
+<id>11</id>
+<offset>9327</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Л БРУЕВА</value>
+</attribute>
+</entry>
+</markup>

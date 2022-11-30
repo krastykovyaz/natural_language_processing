@@ -1,0 +1,22 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>204</offset>
+<length>17</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВАЛЕРИЙ МИХАЙЛОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>450</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>В МИХАЙЛОВ</value>
+</attribute>
+</entry>
+</markup>

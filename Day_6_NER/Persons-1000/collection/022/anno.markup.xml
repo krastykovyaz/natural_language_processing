@@ -1,0 +1,52 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>920</offset>
+<length>13</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ИГОРЬ ЮСУФОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>1092</offset>
+<length>6</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЮСУФОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>1269</offset>
+<length>20</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>СТАНИСЛАВ ЦЫГАНКОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>1320</offset>
+<length>13</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЮРИЙ КОМАРОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>1812</offset>
+<length>21</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ХОДЖАТОЛЛА ГАНИМИФАРД</value>
+</attribute>
+</entry>
+</markup>

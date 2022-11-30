@@ -1,0 +1,72 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>0</offset>
+<length>13</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>В КОЛОКОЛЬЦЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>64</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Р АЛХАНОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>113</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ДМИТРИЙ МЕДВЕДЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>253</offset>
+<length>22</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВЛАДИМИР КОЛОКОЛЬЦЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>336</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>РУСЛАН АЛХАНОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>429</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>В КОЛОКОЛЬЦЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>7</id>
+<offset>447</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Р АЛХАНОВ</value>
+</attribute>
+</entry>
+</markup>

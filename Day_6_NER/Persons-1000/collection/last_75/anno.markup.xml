@@ -1,0 +1,52 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>187</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВАЛЕРИЙ ЖУКОВЕЦ</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>394</offset>
+<length>13</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>СЕРГЕЙ ПАВЛОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>697</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>СЕРГЕЙ СЕМЁНОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>716</offset>
+<length>13</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>СЕРГЕЙ ПАВЛОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>953</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВАЛЕРИЙ ЖУКОВЕЦ</value>
+</attribute>
+</entry>
+</markup>

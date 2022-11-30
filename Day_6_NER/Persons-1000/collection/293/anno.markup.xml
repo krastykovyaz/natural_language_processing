@@ -1,0 +1,42 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>51</offset>
+<length>8</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>С БАГАПШ</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>134</offset>
+<length>13</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>СЕРГЕЙ БАГАПШ</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>364</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АЛЕКСАНДР АНКВАБ</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>385</offset>
+<length>8</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>С БАГАПШ</value>
+</attribute>
+</entry>
+</markup>

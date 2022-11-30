@@ -1,0 +1,112 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>52</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>В ПЕТРОСЯН</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>154</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЛЮДМИЛА ШЕВЦОВА</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>238</offset>
+<length>17</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВЛАДИМИР ПЕТРОСЯН</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>319</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Л ШВЕЦОВА</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>588</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Л ШВЕЦОВА</value>
+</attribute>
+</entry>
+<entry>
+<id>7</id>
+<offset>612</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Л ШВЕЦОВА</value>
+</attribute>
+</entry>
+<entry>
+<id>8</id>
+<offset>853</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЮРИЙ ЛУЖКОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>10</id>
+<offset>919</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>СЕРГЕЙ СОБЯНИН</value>
+</attribute>
+</entry>
+<entry>
+<id>9</id>
+<offset>935</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Л ШВЕЦОВА</value>
+</attribute>
+</entry>
+<entry>
+<id>11</id>
+<offset>1111</offset>
+<length>13</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ОЛЬГА ГОЛОДЕЦ</value>
+</attribute>
+</entry>
+<entry>
+<id>12</id>
+<offset>1128</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Л ШВЕЦОВА</value>
+</attribute>
+</entry>
+</markup>

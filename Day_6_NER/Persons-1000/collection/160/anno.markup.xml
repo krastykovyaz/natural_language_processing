@@ -1,0 +1,22 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>91</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АЛЕКСАНДР ЗЕЛИН</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>226</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВЛАДИМИР ДРИК</value>
+</attribute>
+</entry>
+</markup>

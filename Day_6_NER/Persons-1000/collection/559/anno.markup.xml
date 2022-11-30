@@ -1,0 +1,22 @@
+﻿<markup>
+<entry>
+<id>2</id>
+<offset>12</offset>
+<length>7</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>С ШОЙГУ</value>
+</attribute>
+</entry>
+<entry>
+<id>1</id>
+<offset>117</offset>
+<length>12</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>СЕРГЕЙ ШОЙГУ</value>
+</attribute>
+</entry>
+</markup>

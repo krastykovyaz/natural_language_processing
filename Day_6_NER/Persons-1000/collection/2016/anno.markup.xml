@@ -1,0 +1,22 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>514</offset>
+<length>25</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ХАМИД БЕН ДЖАСИМ АЛЬ ТАНИ</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>1626</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>БАРАК ОБАМА</value>
+</attribute>
+</entry>
+</markup>

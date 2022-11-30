@@ -1,0 +1,42 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>46</offset>
+<length>20</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АЛЕКСАНДРА ХОЛЛ ХОЛЛ</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>97</offset>
+<length>20</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АЛЕКСАНДРА ХОЛЛ ХОЛЛ</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>442</offset>
+<length>20</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АЛЕКСАНДРА ХОЛЛ ХОЛЛ</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>840</offset>
+<length>20</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АЛЕКСАНДРА ХОЛЛ ХОЛЛ</value>
+</attribute>
+</entry>
+</markup>

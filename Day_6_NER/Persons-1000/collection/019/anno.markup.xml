@@ -1,0 +1,62 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>44</offset>
+<length>13</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АНТОН ШАРОНОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>225</offset>
+<length>13</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ИГОРЬ ЩЕГОЛЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>285</offset>
+<length>18</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЕВГЕНИЙ БОРОДАВКИН</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>414</offset>
+<length>7</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ШАРОНОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>757</offset>
+<length>13</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АНТОН ШАРОНОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>927</offset>
+<length>13</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АНТОН ШАРОНОВ</value>
+</attribute>
+</entry>
+</markup>

@@ -1,0 +1,52 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>95</offset>
+<length>12</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЛАЙАМ ФОКС</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>117</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ФИЛИПП ХЭММОНД</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>604</offset>
+<length>6</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Л ФОКС</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>861</offset>
+<length>6</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Л ФОКС</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>961</offset>
+<length>6</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Л ФОКС</value>
+</attribute>
+</entry>
+</markup>

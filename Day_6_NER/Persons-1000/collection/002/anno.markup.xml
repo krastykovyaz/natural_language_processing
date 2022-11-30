@@ -1,0 +1,22 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>362</offset>
+<length>36</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ТОМАС ХАММАРБЕРГ (THOMAS HAMMARBERG)</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>624</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ХАММАРБЕРГ</value>
+</attribute>
+</entry>
+</markup>

@@ -1,0 +1,112 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>29</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Д КУДРЯВЦЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>147</offset>
+<length>18</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ДЕМЬЯН КУДРЯВЦЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>187</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Д КУДРЯВЦЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>626</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Д КУДРЯВЦЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>676</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Д КУДРЯВЦЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>909</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВЛАДИМИР ПУТИН</value>
+</attribute>
+</entry>
+<entry>
+<id>7</id>
+<offset>975</offset>
+<length>13</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АНДРЕЙ ГАЛИЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>8</id>
+<offset>1037</offset>
+<length>17</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>МАКСИМ КОВАЛЬСКИЙ</value>
+</attribute>
+</entry>
+<entry>
+<id>9</id>
+<offset>1145</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Д КУДРЯВЦЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>10</id>
+<offset>1175</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АЛИШЕР УСМАНОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>11</id>
+<offset>1467</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>А УСМАНОВ</value>
+</attribute>
+</entry>
+</markup>

@@ -1,0 +1,182 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>0</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Д МЕДВЕДЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>109</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ДМИТРИЙ МЕДВЕДЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>321</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АЛЕКСЕЙ АВДЕЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>391</offset>
+<length>17</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВЛАДИМИР АШИТОК</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>492</offset>
+<length>13</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ОЛЕГ БРАГИН</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>572</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АНДРЕЙ ГАГЛОЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>7</id>
+<offset>638</offset>
+<length>19</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АЛЕКСАНДР ГЛУЩЕНКО</value>
+</attribute>
+</entry>
+<entry>
+<id>8</id>
+<offset>719</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ОЛЕГ ДЕМЬЯНЕНКО</value>
+</attribute>
+</entry>
+<entry>
+<id>9</id>
+<offset>842</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>СЕРГЕЙ ИСТРАКОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>10</id>
+<offset>915</offset>
+<length>13</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ОЛЕГ КАРПОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>11</id>
+<offset>994</offset>
+<length>19</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АЛЕКСАНДР ЛОГАЧЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>12</id>
+<offset>1068</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ОЛЕГ ПОЛЬГУЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>13</id>
+<offset>1174</offset>
+<length>13</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЮРИЙ СВИНЦОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>14</id>
+<offset>1306</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>МИХАИЛ СМЫСЛОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>15</id>
+<offset>1482</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ИГОРЬ СОКОРЕНКО</value>
+</attribute>
+</entry>
+<entry>
+<id>16</id>
+<offset>1587</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЕВГЕНИЙ ТУЧКОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>17</id>
+<offset>1681</offset>
+<length>17</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЭДУАРД ЧЕРКАСОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>18</id>
+<offset>1790</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>СЕРГЕЙ ЧУВАКИН</value>
+</attribute>
+</entry>
+</markup>

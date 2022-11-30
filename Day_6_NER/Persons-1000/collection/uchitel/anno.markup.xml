@@ -1,0 +1,32 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>98</offset>
+<length>19</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВЛАДИМИР ГОРОДЕЦКИЙ</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>225</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>СЕРГЕЙ НЕЛЮБОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>305</offset>
+<length>13</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВЛАДИМИР ШТОП</value>
+</attribute>
+</entry>
+</markup>

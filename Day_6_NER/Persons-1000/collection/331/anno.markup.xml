@@ -1,0 +1,162 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>13</offset>
+<length>8</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>М КОТОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>266</offset>
+<length>12</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>МИХАИЛ КОТОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>422</offset>
+<length>8</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>М КОТОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>738</offset>
+<length>7</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>М КОТОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>923</offset>
+<length>8</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>М КОТОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>1225</offset>
+<length>12</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЮРИЙ СБИТНЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>7</id>
+<offset>1911</offset>
+<length>8</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>М КОТОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>8</id>
+<offset>2351</offset>
+<length>8</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>М КОТОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>9</id>
+<offset>2414</offset>
+<length>7</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>М КОТОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>10</id>
+<offset>2603</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ПАВЕЛ КОНДРАТЬЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>11</id>
+<offset>2708</offset>
+<length>8</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>М КОТОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>12</id>
+<offset>2736</offset>
+<length>12</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>П КОНДРАТЬЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>13</id>
+<offset>2920</offset>
+<length>7</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>М КОТОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>14</id>
+<offset>3169</offset>
+<length>7</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>М КОТОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>15</id>
+<offset>3334</offset>
+<length>7</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>М КОТОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>16</id>
+<offset>3678</offset>
+<length>12</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЮРИЙ СБИТНЕВ</value>
+</attribute>
+</entry>
+</markup>

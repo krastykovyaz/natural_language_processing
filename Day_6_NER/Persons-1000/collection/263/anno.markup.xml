@@ -1,0 +1,162 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>12</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Д МЕДВЕДЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>144</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ДМИТРИЙ МЕДВЕДЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>406</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВАСИЛИЙ ОЛЕЙНИК</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>546</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ИЛЬЯ ОЛЬХОВСКИЙ</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>634</offset>
+<length>18</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АЛЕКСАНДР ПЕРВУХИН</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>728</offset>
+<length>13</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЕФРЕМ РОМАНОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>7</id>
+<offset>821</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АНДРЕЙ СЕРГЕЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>8</id>
+<offset>912</offset>
+<length>17</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВЛАДИМИР СКАЛУНОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>9</id>
+<offset>1017</offset>
+<length>18</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АЛЕКСАНДР ГОЛУБЦОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>10</id>
+<offset>1115</offset>
+<length>18</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АЛЕКСАНДР СУРОВЦЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>11</id>
+<offset>1216</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЮРИЙ ТОМЧАК</value>
+</attribute>
+</entry>
+<entry>
+<id>12</id>
+<offset>1301</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АНАТОЛИЙ ЯКУНИН</value>
+</attribute>
+</entry>
+<entry>
+<id>13</id>
+<offset>1425</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЮРИЙ ПРОЩАЛЫКИН</value>
+</attribute>
+</entry>
+<entry>
+<id>14</id>
+<offset>1539</offset>
+<length>18</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВЛАДИМИР СТРУКОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>15</id>
+<offset>1658</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АНДРЕЙ ТАРАНОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>16</id>
+<offset>1785</offset>
+<length>13</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВИКТОР ПАУКОВ</value>
+</attribute>
+</entry>
+</markup>

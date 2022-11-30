@@ -1,0 +1,32 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>106</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ПИРЕТ ЯРВИС</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>480</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ПИРЕТ ЯРВИС</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>721</offset>
+<length>12</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>КАТРИН СИСКА</value>
+</attribute>
+</entry>
+</markup>

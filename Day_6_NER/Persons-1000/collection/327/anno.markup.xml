@@ -1,0 +1,62 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>27</offset>
+<length>8</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ШИШАЦКИЙ</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>57</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВИКТОР ЯНУКОВИЧ</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>82</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АНДРЕЙ ШИШАЦКИЙ</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>246</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>А ШИШАЦКИЙ</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>310</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>В ЯНУКОВИЧ</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>331</offset>
+<length>17</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АНАТОЛИЙ БЛИЗНЮК</value>
+</attribute>
+</entry>
+</markup>

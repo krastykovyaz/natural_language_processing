@@ -1,0 +1,82 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>0</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Д МЕДВЕДЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>79</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ДМИТРИЙ МЕДВЕДЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>245</offset>
+<length>17</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АНАТОЛИЙ САФОНОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>305</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>А САФОНОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>417</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>А САФОНОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>496</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>УСАМА БЕН ЛАДЕН</value>
+</attribute>
+</entry>
+<entry>
+<id>7</id>
+<offset>794</offset>
+<length>12</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ДОКУ УМАРОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>8</id>
+<offset>807</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>А САФОНОВ</value>
+</attribute>
+</entry>
+</markup>

@@ -1,0 +1,122 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>0</offset>
+<length>8</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>У БАФФЕТ</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>96</offset>
+<length>13</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>УОРРЕН БАФФЕТ</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>250</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ТЕД ВЕШЛЕР</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>321</offset>
+<length>8</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Т ВЕШЛЕР</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>623</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>У БАФФЕТ</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>683</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>У БАФФЕТ</value>
+</attribute>
+</entry>
+<entry>
+<id>7</id>
+<offset>790</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>У БАФФЕТ</value>
+</attribute>
+</entry>
+<entry>
+<id>8</id>
+<offset>815</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ТОДД КОМБС</value>
+</attribute>
+</entry>
+<entry>
+<id>9</id>
+<offset>898</offset>
+<length>8</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>У БАФФЕТ</value>
+</attribute>
+</entry>
+<entry>
+<id>12</id>
+<offset>933</offset>
+<length>8</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Т КОМБС</value>
+</attribute>
+</entry>
+<entry>
+<id>11</id>
+<offset>944</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Т ВЕШЛЕР</value>
+</attribute>
+</entry>
+<entry>
+<id>13</id>
+<offset>1025</offset>
+<length>8</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>У БАФФЕТ</value>
+</attribute>
+</entry>
+</markup>

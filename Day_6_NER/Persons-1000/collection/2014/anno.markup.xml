@@ -1,0 +1,22 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>572</offset>
+<length>17</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ПЕККА ВЕЛЬЯКАННЕН</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>1090</offset>
+<length>17</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ПЕККА ВЕЛЬЯКАННЕН</value>
+</attribute>
+</entry>
+</markup>

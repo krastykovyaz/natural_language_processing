@@ -1,0 +1,32 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>60</offset>
+<length>42</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>МАРИЯ ВАН ДЕР ХУВЕН (MARIA VAN DER HOEVEN)</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>315</offset>
+<length>27</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>НОБУО ТАНАКА (NOBUO TANAKA)</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>470</offset>
+<length>19</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>МАРИЯ ВАН ДЕР ХУВЕН</value>
+</attribute>
+</entry>
+</markup>

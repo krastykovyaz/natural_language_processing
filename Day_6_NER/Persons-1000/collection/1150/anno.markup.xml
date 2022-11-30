@@ -1,0 +1,272 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>86</offset>
+<length>26</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АБДАЛЛА БЕН НАСЕР АЛЬ ТАНИ</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>144</offset>
+<length>28</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ХАЛЕД БЕН МУХАММЕД АЛЬ-АТЫЙЯ</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>252</offset>
+<length>26</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ТАМИМ БЕН ХАМАД АЛЬ ТАНИ</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>319</offset>
+<length>26</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АБДАЛЛА БЕН НАСЕР АЛЬ ТАНИ</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>363</offset>
+<length>28</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ХАЛЕД БЕН МУХАММЕД АЛЬ-АТЫЙЯ</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>499</offset>
+<length>25</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ХАМАД БЕН ДЖАСЕМ АЛЬ ТАНИ</value>
+</attribute>
+</entry>
+<entry>
+<id>7</id>
+<offset>529</offset>
+<length>37</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АХМЕД БЕН АБДАЛЛА БЕН ЗЕЙД АЛЬ МАХМУД</value>
+</attribute>
+</entry>
+<entry>
+<id>8</id>
+<offset>660</offset>
+<length>23</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ХАМАД БЕН АЛИ АЛЬ-АЛТЫЙЯ</value>
+</attribute>
+</entry>
+<entry>
+<id>9</id>
+<offset>725</offset>
+<length>48</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АБДЕЛЬ РАХМАН БЕН ХАЛИФА БЕН АБДЕЛЬАЗИЗ АЛЬ ТАНИ</value>
+</attribute>
+</entry>
+<entry>
+<id>24</id>
+<offset>834</offset>
+<length>30</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>МУХАММЕД САЛЕХ АБДАЛЛА АС-САДА</value>
+</attribute>
+</entry>
+<entry>
+<id>10</id>
+<offset>922</offset>
+<length>19</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АЛИ ШАРИФ АЛЬ-УМАДИ</value>
+</attribute>
+</entry>
+<entry>
+<id>11</id>
+<offset>964</offset>
+<length>27</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ХАМАД АБДЕЛЬАЗИЗ АЛЬ-КАВАРИ</value>
+</attribute>
+</entry>
+<entry>
+<id>12</id>
+<offset>1052</offset>
+<length>31</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АБДАЛА ХАЛЕД НАСЕР АЛЬ-КАХТАНИ</value>
+</attribute>
+</entry>
+<entry>
+<id>13</id>
+<offset>1129</offset>
+<length>27</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ГЕЙС БЕН МУБАРАК АЛЬ-КАВАРИ</value>
+</attribute>
+</entry>
+<entry>
+<id>14</id>
+<offset>1214</offset>
+<length>29</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>САЛАХ БЕН ГАНИМ НАСЕР АЛЬ-АЛИ</value>
+</attribute>
+</entry>
+<entry>
+<id>15</id>
+<offset>1289</offset>
+<length>38</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АХМЕД БЕН ДЖАСЕМ БЕН МУХАММЕД АЛЬ ТАНИ</value>
+</attribute>
+</entry>
+<entry>
+<id>16</id>
+<offset>1362</offset>
+<length>29</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ХАСАН ЛАХДАР САКР АЛЬ-МАХНАДИ</value>
+</attribute>
+</entry>
+<entry>
+<id>17</id>
+<offset>1413</offset>
+<length>30</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ИСА СААД АЛЬ-ДЖАФАЛИ АН-НУЭЙМИ</value>
+</attribute>
+</entry>
+<entry>
+<id>18</id>
+<offset>1484</offset>
+<length>23</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ХЕССА СУЛТАН АЛЬ-ДЖАБЕР</value>
+</attribute>
+</entry>
+<entry>
+<id>19</id>
+<offset>1561</offset>
+<length>29</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>САЛЕХ МУХАММЕД САЛЕМ АН-НАБИТ</value>
+</attribute>
+</entry>
+<entry>
+<id>20</id>
+<offset>1639</offset>
+<length>36</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>МУХАММЕД АБДЕЛЬ ВАХИД АЛИ АЛЬ-ХАМАДИ</value>
+</attribute>
+</entry>
+<entry>
+<id>21</id>
+<offset>1720</offset>
+<length>32</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АБДАЛЛА САЛЕХ МУБАРАК АЛЬ-ХАЛИФИ</value>
+</attribute>
+</entry>
+<entry>
+<id>22</id>
+<offset>1797</offset>
+<length>30</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АХМЕД АМЕР МУХАММЕД АЛЬ-ХАМИДИ</value>
+</attribute>
+</entry>
+<entry>
+<id>23</id>
+<offset>1858</offset>
+<length>27</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ДЖАСЕМ СЕЙФ АХМЕД АС-САЛИТЫ</value>
+</attribute>
+</entry>
+<entry>
+<id>25</id>
+<offset>2388</offset>
+<length>25</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ХАМАД БЕН ХАЛИФА АЛЬ ТАНИ</value>
+</attribute>
+</entry>
+<entry>
+<id>26</id>
+<offset>2726</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЕЛЕНА СУПОНИНА</value>
+</attribute>
+</entry>
+<entry>
+<id>27</id>
+<offset>2792</offset>
+<length>25</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ХАМАД БЕН ХАЛИФА АЛЬ ТАНИ</value>
+</attribute>
+</entry>
+</markup>

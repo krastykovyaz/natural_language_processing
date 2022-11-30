@@ -1,0 +1,72 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>777</offset>
+<length>26</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЭНДРЮ СМИТ (ANDREW SMITH)</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>814</offset>
+<length>12</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>РОБЕРТО СЕБА</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>901</offset>
+<length>26</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АЛЛАН ДИКСОН (ALLAN DIXON)</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>1115</offset>
+<length>27</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЭЛИЗА ДЕТРЕЦ (ELISA DETREZ)</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>1201</offset>
+<length>19</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>РИЧ КИМ (RICH KEAM)</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>1313</offset>
+<length>23</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ГРЕГ СНЕЛЛ (GREG SNELL)</value>
+</attribute>
+</entry>
+<entry>
+<id>7</id>
+<offset>1554</offset>
+<length>12</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>БЕН САУТХОЛЛ</value>
+</attribute>
+</entry>
+</markup>

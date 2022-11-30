@@ -1,0 +1,42 @@
+﻿<markup>
+<entry>
+<id>2</id>
+<offset>0</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>С СОБЯНИН</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>120</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АНТОН ГУДЗЬ</value>
+</attribute>
+</entry>
+<entry>
+<id>1</id>
+<offset>225</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>СЕРГЕЙ СОБЯНИН</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>336</offset>
+<length>7</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>А ГУДЗЬ</value>
+</attribute>
+</entry>
+</markup>

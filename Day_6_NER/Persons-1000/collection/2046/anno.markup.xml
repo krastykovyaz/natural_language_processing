@@ -1,0 +1,92 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>382</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЛЕВ ПОНОМАРЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>454</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>СЕРГЕЙ МИТРОХИН</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>487</offset>
+<length>12</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Л ПОНОМАРЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>548</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВИТАЛИЙ ШУШКЕВИЧ</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>608</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>С МИТРОХИН</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>719</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЛЕВ ПОНОМАРЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>7</id>
+<offset>878</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>НИКОЛАЙ ПОЛОЗОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>8</id>
+<offset>896</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВИОЛЕТТА ВОЛКОВА</value>
+</attribute>
+</entry>
+<entry>
+<id>9</id>
+<offset>1115</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВЛАДИМИР ЛУКИН</value>
+</attribute>
+</entry>
+</markup>

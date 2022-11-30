@@ -1,0 +1,22 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>97</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВЯЧЕСЛАВ ХАУСТОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>426</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>В ХАУСТОВ</value>
+</attribute>
+</entry>
+</markup>

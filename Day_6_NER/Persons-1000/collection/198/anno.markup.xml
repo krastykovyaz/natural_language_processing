@@ -1,0 +1,192 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>19</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Х МУБАРАК</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>106</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ХОСНИ МУБАРАК</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>317</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Х МУБАРАК</value>
+</attribute>
+</entry>
+<entry>
+<id>20</id>
+<offset>398</offset>
+<length>20</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>МУХАММЕД ЭЛЬ-БАРАДЕИ</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>492</offset>
+<length>13</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>М ЭЛЬ-БАРАДЕИ</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>665</offset>
+<length>13</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>М ЭЛЬ-БАРАДЕИ</value>
+</attribute>
+</entry>
+<entry>
+<id>7</id>
+<offset>825</offset>
+<length>13</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>М ЭЛЬ-БАРАДЕИ</value>
+</attribute>
+</entry>
+<entry>
+<id>8</id>
+<offset>962</offset>
+<length>13</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>М ЭЛЬ-БАРАДЕИ</value>
+</attribute>
+</entry>
+<entry>
+<id>9</id>
+<offset>1140</offset>
+<length>13</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>М ЭЛЬ-БАРАДЕИ</value>
+</attribute>
+</entry>
+<entry>
+<id>10</id>
+<offset>1325</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ОМАР СУЛЕЙМАН</value>
+</attribute>
+</entry>
+<entry>
+<id>11</id>
+<offset>1382</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Х МУБАРАК</value>
+</attribute>
+</entry>
+<entry>
+<id>12</id>
+<offset>1480</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>О СУЛЕЙМАН</value>
+</attribute>
+</entry>
+<entry>
+<id>13</id>
+<offset>1617</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>О СУЛЕЙМАН</value>
+</attribute>
+</entry>
+<entry>
+<id>14</id>
+<offset>1657</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>О СУЛЕЙМАН</value>
+</attribute>
+</entry>
+<entry>
+<id>15</id>
+<offset>1675</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Х МУБАРАК</value>
+</attribute>
+</entry>
+<entry>
+<id>16</id>
+<offset>2014</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>О СУЛЕЙМАН</value>
+</attribute>
+</entry>
+<entry>
+<id>17</id>
+<offset>2206</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>МУХАММЕД БАДИ</value>
+</attribute>
+</entry>
+<entry>
+<id>18</id>
+<offset>2335</offset>
+<length>6</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>М БАДИ</value>
+</attribute>
+</entry>
+<entry>
+<id>19</id>
+<offset>2771</offset>
+<length>6</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>М БАДИ</value>
+</attribute>
+</entry>
+</markup>

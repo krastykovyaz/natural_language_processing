@@ -1,0 +1,32 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>260</offset>
+<length>12</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ХАМИД КАРЗАЙ</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>853</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ГРЕГ СМИТ</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>1360</offset>
+<length>6</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>КАРЗАЙ</value>
+</attribute>
+</entry>
+</markup>

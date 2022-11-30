@@ -1,0 +1,62 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>10</offset>
+<length>8</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>С ХЕСТЕР</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>83</offset>
+<length>13</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>СТИВЕН ХЕСТЕР</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>186</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>С ХЕСТЕР</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>439</offset>
+<length>8</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>С ХЕСТЕР</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>902</offset>
+<length>8</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>С ХЕСТЕР</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>1037</offset>
+<length>8</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>С ХЕСТЕР</value>
+</attribute>
+</entry>
+</markup>

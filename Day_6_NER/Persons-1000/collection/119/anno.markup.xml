@@ -1,0 +1,92 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>105</offset>
+<length>13</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ДМИТРИЙ ПОПОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>200</offset>
+<length>21</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВЛАДИМИР ЗМАНОВСКИЙ</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>295</offset>
+<length>5</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ПОПОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>488</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЛЕВ ТРАВНЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>575</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>САИД АМИРОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>792</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ПЕТР ВОЛЫНСКИЙ</value>
+</attribute>
+</entry>
+<entry>
+<id>7</id>
+<offset>915</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ДМИТРИЙ АЗАРОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>8</id>
+<offset>1095</offset>
+<length>12</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ИМАМ ЯРАЛИЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>9</id>
+<offset>1348</offset>
+<length>18</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ФЕЛИКС КАЗИАХМЕДОВ</value>
+</attribute>
+</entry>
+</markup>

@@ -1,0 +1,92 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>125</offset>
+<length>17</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ХЕРМАН ВАН РОМПЕЙ</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>261</offset>
+<length>12</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>КЭТРИН ЭШТОН</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>727</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЖАН-КЛОД ЮНКЕР</value>
+</attribute>
+</entry>
+<entry>
+<id>10</id>
+<offset>767</offset>
+<length>17</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ХЕРМАН ВАН РОМПЕЙ</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>806</offset>
+<length>19</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЯН ПЕТЕР БАЛКЕНЕНДЕ</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>854</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ТОНИ БЛЭР</value>
+</attribute>
+</entry>
+<entry>
+<id>7</id>
+<offset>888</offset>
+<length>17</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВОЛЬФГАНГ ШЮССЕЛЬ</value>
+</attribute>
+</entry>
+<entry>
+<id>8</id>
+<offset>934</offset>
+<length>20</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВАЙРА ВИКЕ-ФРЕЙБЕРГА</value>
+</attribute>
+</entry>
+<entry>
+<id>11</id>
+<offset>1132</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ТОНИ БЛЭР</value>
+</attribute>
+</entry>
+</markup>

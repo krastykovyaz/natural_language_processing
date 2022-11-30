@@ -1,0 +1,42 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>136</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ДЖЕЙМС СТАВРИДИС</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>406</offset>
+<length>12</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ДЖ СТАВРИДИС</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>786</offset>
+<length>12</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ДЖ СТАВРИДИС</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>1219</offset>
+<length>12</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ДЖ СТАВРИДИС</value>
+</attribute>
+</entry>
+</markup>

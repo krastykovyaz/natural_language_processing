@@ -1,0 +1,32 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>24</offset>
+<length>5</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Э БОК</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>74</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЭМИЛЬ БОК</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>392</offset>
+<length>5</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Э БОК</value>
+</attribute>
+</entry>
+</markup>

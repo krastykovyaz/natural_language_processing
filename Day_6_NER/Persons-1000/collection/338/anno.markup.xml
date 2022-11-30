@@ -1,0 +1,42 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>22</offset>
+<length>8</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Л ХИНТОН</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>119</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЛЕС ХИНТОН</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>297</offset>
+<length>8</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Л ХИНТОН</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>451</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Л ХИНТОН</value>
+</attribute>
+</entry>
+</markup>

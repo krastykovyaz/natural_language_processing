@@ -1,0 +1,572 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>306</offset>
+<length>8</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>В ПУТИН</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>411</offset>
+<length>30</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВЛАДИМИР ВЛАДИМИРОВИЧ ПУТИН</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>502</offset>
+<length>21</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВЛАДИМИР ВЛАДИМИРОВИЧ</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>671</offset>
+<length>13</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АЛЕКСЕЙ МУХИН</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>816</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВЛАДИМИР ПУТИН</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>1233</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВЛАДИМИР ПУТИН</value>
+</attribute>
+</entry>
+<entry>
+<id>7</id>
+<offset>1471</offset>
+<length>7</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>А МУХИН</value>
+</attribute>
+</entry>
+<entry>
+<id>8</id>
+<offset>1977</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>СЕРГЕЙ СОБЯНИН</value>
+</attribute>
+</entry>
+<entry>
+<id>9</id>
+<offset>1996</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>СЕРГЕЙ НАРЫШКИН</value>
+</attribute>
+</entry>
+<entry>
+<id>10</id>
+<offset>2013</offset>
+<length>13</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ИГОРЬ ШУВАЛОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>11</id>
+<offset>2232</offset>
+<length>28</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ГЕННАДИЙ АНДРЕЕВИЧ ЗЮГАНОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>12</id>
+<offset>2264</offset>
+<length>33</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВЛАДИМИР ВОЛЬФОВИЧ ЖИРИНОВСКИЙ</value>
+</attribute>
+</entry>
+<entry>
+<id>13</id>
+<offset>2301</offset>
+<length>27</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>СЕРГЕЙ МИХАЙЛОВИЧ МИРОНОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>14</id>
+<offset>2360</offset>
+<length>18</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>НИКОЛАЙ ЛЕВИЧЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>15</id>
+<offset>2412</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>НАВАЛЬНЫЙ</value>
+</attribute>
+</entry>
+<entry>
+<id>16</id>
+<offset>2469</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АНДРЕЙ БОГДАНОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>17</id>
+<offset>2514</offset>
+<length>18</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АЛЕКСЕЙ НАВАЛЬНЫЙ</value>
+</attribute>
+</entry>
+<entry>
+<id>18</id>
+<offset>2608</offset>
+<length>7</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>А МУХИН</value>
+</attribute>
+</entry>
+<entry>
+<id>19</id>
+<offset>2737</offset>
+<length>17</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АЛЕКСАНДР ШАТИЛОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>20</id>
+<offset>2861</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВЛАДИМИР ПУТИН</value>
+</attribute>
+</entry>
+<entry>
+<id>21</id>
+<offset>3059</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ДМИТРИЙ МЕДВЕДЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>22</id>
+<offset>3507</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>А ШАТИЛОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>23</id>
+<offset>3571</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>МАРК УРНОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>24</id>
+<offset>4428</offset>
+<length>7</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>М УРНОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>25</id>
+<offset>4482</offset>
+<length>7</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>М УРНОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>26</id>
+<offset>5080</offset>
+<length>20</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>СТАНИСЛАВ БЕЛКОВСКИЙ</value>
+</attribute>
+</entry>
+<entry>
+<id>27</id>
+<offset>5341</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ДМИТРИЙ МЕДВЕДЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>28</id>
+<offset>5371</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Г ЗЮГАНОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>29</id>
+<offset>5383</offset>
+<length>13</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>В ЖИРИНОВСКИЙ</value>
+</attribute>
+</entry>
+<entry>
+<id>30</id>
+<offset>5492</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>В ПУТИН</value>
+</attribute>
+</entry>
+<entry>
+<id>33</id>
+<offset>5518</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Г ЗЮГАНОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>34</id>
+<offset>5532</offset>
+<length>12</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Д МЕДВЕДЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>31</id>
+<offset>5571</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Г ЗЮГАНОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>32</id>
+<offset>5585</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>В ПУТИН</value>
+</attribute>
+</entry>
+<entry>
+<id>35</id>
+<offset>5799</offset>
+<length>22</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВЛАДИМИР ЖИРИНОВСКИЙ</value>
+</attribute>
+</entry>
+<entry>
+<id>36</id>
+<offset>5847</offset>
+<length>12</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>С БЕЛКОВСКИЙ</value>
+</attribute>
+</entry>
+<entry>
+<id>37</id>
+<offset>6051</offset>
+<length>8</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>В ПУТИН</value>
+</attribute>
+</entry>
+<entry>
+<id>38</id>
+<offset>6209</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Д МЕДВЕДЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>39</id>
+<offset>6417</offset>
+<length>18</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АЛЕКСЕЙ НАВАЛЬНЫЙ</value>
+</attribute>
+</entry>
+<entry>
+<id>40</id>
+<offset>6444</offset>
+<length>12</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>С БЕЛКОВСКИЙ</value>
+</attribute>
+</entry>
+<entry>
+<id>41</id>
+<offset>6635</offset>
+<length>12</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>А НАВАЛЬНЫЙ</value>
+</attribute>
+</entry>
+<entry>
+<id>42</id>
+<offset>7081</offset>
+<length>17</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>МИХАИЛ ВИНОГРАДОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>43</id>
+<offset>7171</offset>
+<length>12</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>А НАВАЛЬНЫЙ</value>
+</attribute>
+</entry>
+<entry>
+<id>44</id>
+<offset>7530</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВЛАДИМИР ПУТИН</value>
+</attribute>
+</entry>
+<entry>
+<id>45</id>
+<offset>7564</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>С МИРОНОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>46</id>
+<offset>7863</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Д МЕДВЕДЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>47</id>
+<offset>7900</offset>
+<length>8</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>В ПУТИН</value>
+</attribute>
+</entry>
+<entry>
+<id>48</id>
+<offset>8094</offset>
+<length>12</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>М ВИНОГРАДОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>49</id>
+<offset>8226</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АЛЕКСЕЙ МАКАРКИН</value>
+</attribute>
+</entry>
+<entry>
+<id>50</id>
+<offset>8321</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Г ЗЮГАНОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>51</id>
+<offset>8333</offset>
+<length>13</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>В ЖИРИНОВСКИЙ</value>
+</attribute>
+</entry>
+<entry>
+<id>52</id>
+<offset>8811</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>А МАКАРКИН</value>
+</attribute>
+</entry>
+<entry>
+<id>53</id>
+<offset>9332</offset>
+<length>7</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>В ПУТИН</value>
+</attribute>
+</entry>
+<entry>
+<id>54</id>
+<offset>9344</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Д МЕДВЕДЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>55</id>
+<offset>9382</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Д МЕДВЕДЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>56</id>
+<offset>9487</offset>
+<length>7</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>В ПУТИН</value>
+</attribute>
+</entry>
+<entry>
+<id>57</id>
+<offset>9742</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>А МАКАРКИН</value>
+</attribute>
+</entry>
+</markup>

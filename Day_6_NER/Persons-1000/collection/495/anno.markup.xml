@@ -1,0 +1,92 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>0</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>КИМ ЧЕН ЫН</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>85</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>КИМ ЧЕН ЫН</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>422</offset>
+<length>12</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>КИМ ЧЕН ЫН</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>511</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>КИМ ЧЕН ЫН</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>816</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>КИМ ЧЕН ЫН</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>1203</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>КИМ ЧЕН ЫН</value>
+</attribute>
+</entry>
+<entry>
+<id>7</id>
+<offset>1217</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>КИМ ИР СЕН</value>
+</attribute>
+</entry>
+<entry>
+<id>8</id>
+<offset>1230</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>КИМ ЧЕН ИР</value>
+</attribute>
+</entry>
+<entry>
+<id>9</id>
+<offset>1317</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>КИМ ЧЕН ИР</value>
+</attribute>
+</entry>
+</markup>

@@ -1,0 +1,52 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>122</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ПАК НАМ КИ</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>375</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ПАК НАМ КИ</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>592</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ПАК НАМ КИ</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>787</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ПАК НАМ КИ</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>1960</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ПАК НАМ КИ</value>
+</attribute>
+</entry>
+</markup>

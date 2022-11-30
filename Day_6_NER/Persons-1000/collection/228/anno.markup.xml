@@ -1,0 +1,32 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>348</offset>
+<length>13</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ИГОРЬ ШУВАЛОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>686</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>И ШУВАЛОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>1035</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>И ШУВАЛОВ</value>
+</attribute>
+</entry>
+</markup>

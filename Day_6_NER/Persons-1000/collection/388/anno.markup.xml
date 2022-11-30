@@ -1,0 +1,62 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>23</offset>
+<length>5</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Н КАН</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>98</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>НАОТО КАН</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>237</offset>
+<length>6</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Н КАН</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>548</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>СЭЙДЗИ МАЭХАРА</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>612</offset>
+<length>13</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЙОСИХИКО НОДА</value>
+</attribute>
+</entry>
+<entry>
+<id>7</id>
+<offset>999</offset>
+<length>6</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Н КАН</value>
+</attribute>
+</entry>
+</markup>

@@ -1,0 +1,42 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>120</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЮРГЕН ШТАРК</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>294</offset>
+<length>8</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Ю ШТАРК</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>480</offset>
+<length>8</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Ю ШТАРК</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>789</offset>
+<length>7</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Ю ШТАРК</value>
+</attribute>
+</entry>
+</markup>

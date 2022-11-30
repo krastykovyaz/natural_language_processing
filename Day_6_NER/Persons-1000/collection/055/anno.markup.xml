@@ -1,0 +1,42 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>346</offset>
+<length>18</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЛЕОНИД БОХАНОВСКИЙ</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>1328</offset>
+<length>27</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АБДУЛЛА БИН ХАМАД АЛЬ-АТТИЯ</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>1436</offset>
+<length>12</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ИГОРЬ ЮСУФОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>1570</offset>
+<length>20</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЛЕОНИД БОХАНОВСКИЙ</value>
+</attribute>
+</entry>
+</markup>

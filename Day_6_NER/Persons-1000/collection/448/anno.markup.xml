@@ -1,0 +1,102 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>0</offset>
+<length>7</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>М ДРАГИ</value>
+</attribute>
+</entry>
+<entry>
+<id>12</id>
+<offset>15</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Ж-К ТРИШЕ</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>122</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>МАРИО ДРАГИ</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>171</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЖАН-КЛОД ТРИШЕ</value>
+</attribute>
+</entry>
+<entry>
+<id>11</id>
+<offset>205</offset>
+<length>7</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>М ДРАГИ</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>287</offset>
+<length>7</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>М ДРАГИ</value>
+</attribute>
+</entry>
+<entry>
+<id>7</id>
+<offset>474</offset>
+<length>7</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>М ДРАГИ</value>
+</attribute>
+</entry>
+<entry>
+<id>8</id>
+<offset>513</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Ж-К ТРИШЕ</value>
+</attribute>
+</entry>
+<entry>
+<id>9</id>
+<offset>856</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Ж-К ТРИШЕ</value>
+</attribute>
+</entry>
+<entry>
+<id>10</id>
+<offset>879</offset>
+<length>7</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>М ДРАГИ</value>
+</attribute>
+</entry>
+</markup>

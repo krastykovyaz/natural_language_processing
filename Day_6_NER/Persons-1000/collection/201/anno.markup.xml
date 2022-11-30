@@ -1,0 +1,202 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>73</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Й ВАЙДМАН</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>93</offset>
+<length>13</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АКСЕЛЬ ВЕБЕР</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>168</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АНГЕЛА МЕРКЕЛЬ</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>209</offset>
+<length>12</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЙЕНС ВАЙДМАН</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>307</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Й ВАЙДМАН</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>388</offset>
+<length>7</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>А ВЕБЕР</value>
+</attribute>
+</entry>
+<entry>
+<id>7</id>
+<offset>442</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Й ВАЙДМАН</value>
+</attribute>
+</entry>
+<entry>
+<id>8</id>
+<offset>514</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>А МЕРКЕЛЬ</value>
+</attribute>
+</entry>
+<entry>
+<id>9</id>
+<offset>634</offset>
+<length>19</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>САБИНА ЛАУТЕНШЛЕГЕР</value>
+</attribute>
+</entry>
+<entry>
+<id>10</id>
+<offset>778</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ШТЕФАН ЗАЙБЕРТ</value>
+</attribute>
+</entry>
+<entry>
+<id>11</id>
+<offset>822</offset>
+<length>8</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>А ВЕБЕР</value>
+</attribute>
+</entry>
+<entry>
+<id>12</id>
+<offset>846</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>А МЕРКЕЛЬ</value>
+</attribute>
+</entry>
+<entry>
+<id>13</id>
+<offset>887</offset>
+<length>7</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>А ВЕБЕР</value>
+</attribute>
+</entry>
+<entry>
+<id>14</id>
+<offset>940</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Ш ЗАЙБЕРТ</value>
+</attribute>
+</entry>
+<entry>
+<id>15</id>
+<offset>952</offset>
+<length>7</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>А ВЕБЕР</value>
+</attribute>
+</entry>
+<entry>
+<id>16</id>
+<offset>1037</offset>
+<length>7</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>А ВЕБЕР</value>
+</attribute>
+</entry>
+<entry>
+<id>17</id>
+<offset>1219</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЖАН-КЛОД ТРИШЕ</value>
+</attribute>
+</entry>
+<entry>
+<id>18</id>
+<offset>1285</offset>
+<length>7</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>А ВЕБЕР</value>
+</attribute>
+</entry>
+<entry>
+<id>21</id>
+<offset>1372</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Ж-К ТРИШЕ</value>
+</attribute>
+</entry>
+<entry>
+<id>20</id>
+<offset>1438</offset>
+<length>8</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>А ВЕБЕР</value>
+</attribute>
+</entry>
+</markup>

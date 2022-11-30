@@ -1,0 +1,62 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>90</offset>
+<length>17</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АБДУСАМАД ГАМИДОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>193</offset>
+<length>23</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>РАМАЗАН АБДУЛАТИПОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>337</offset>
+<length>17</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АБДУСАМАД ГАМИДОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>484</offset>
+<length>13</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ГАМИД ГАМИДОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>575</offset>
+<length>19</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>МУХТАР МЕДЖИДОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>611</offset>
+<length>13</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АБДУЛАТИПОВ</value>
+</attribute>
+</entry>
+</markup>

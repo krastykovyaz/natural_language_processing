@@ -1,0 +1,52 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>32</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ДЖ СКИННЕР</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>146</offset>
+<length>12</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ДЖИМ СКИННЕР</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>225</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ДЖ СКИННЕР</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>347</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ДОН ТОМПСОН</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>363</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ДЖ СКИННЕР</value>
+</attribute>
+</entry>
+</markup>

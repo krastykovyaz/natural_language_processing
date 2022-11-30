@@ -1,0 +1,42 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>239</offset>
+<length>17</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АНАТОЛИЙ СЕРДЮКОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>413</offset>
+<length>18</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ГРИГОРИЙ НАГИНСКИЙ</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>606</offset>
+<length>17</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВЛАДИМИР ФИЛИППОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>674</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Г НАГИНСКИЙ</value>
+</attribute>
+</entry>
+</markup>

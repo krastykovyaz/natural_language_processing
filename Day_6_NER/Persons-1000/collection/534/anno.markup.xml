@@ -1,0 +1,82 @@
+﻿<markup>
+<entry>
+<id>2</id>
+<offset>41</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ИГОРЬ КУЗИН</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>358</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>СЕРГЕЙ ТИМОФЕЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>628</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ИГОРЬ КУЗИН</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>881</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ИГОРЬ КУЗИН</value>
+</attribute>
+</entry>
+<entry>
+<id>1</id>
+<offset>1126</offset>
+<length>13</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>СЕРГЕЙ ПОПОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>1270</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ИГОРЬ КИМ</value>
+</attribute>
+</entry>
+<entry>
+<id>8</id>
+<offset>1327</offset>
+<length>3</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>КИМ</value>
+</attribute>
+</entry>
+<entry>
+<id>7</id>
+<offset>1465</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ИГОРЬ КИМ</value>
+</attribute>
+</entry>
+</markup>

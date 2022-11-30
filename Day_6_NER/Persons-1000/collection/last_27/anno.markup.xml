@@ -1,0 +1,92 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>165</offset>
+<length>19</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>РАМАЗАН АБДУЛАТИПОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>356</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АБДУЛАТИПОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>554</offset>
+<length>19</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АБДУСАМАД ГАМИДОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>624</offset>
+<length>13</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>МАЛИК БАГЛИЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>647</offset>
+<length>18</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ТАКИБАТ МАХМУДОВА</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>692</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЗАРЕМА БУТАЕВА</value>
+</attribute>
+</entry>
+<entry>
+<id>7</id>
+<offset>716</offset>
+<length>19</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЗУМРУД СУЛЕЙМАНОВА</value>
+</attribute>
+</entry>
+<entry>
+<id>8</id>
+<offset>762</offset>
+<length>17</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АНТОНИНА ИДРИСОВА</value>
+</attribute>
+</entry>
+<entry>
+<id>9</id>
+<offset>872</offset>
+<length>18</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АЛЕКСАНДР ХАРЧЕНКО</value>
+</attribute>
+</entry>
+</markup>

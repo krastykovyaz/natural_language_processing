@@ -1,0 +1,152 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>0</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>С СОБЯНИН</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>75</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>СЕРГЕЙ СОБЯНИН</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>306</offset>
+<length>18</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВЛАДИМИР СТАРКОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>437</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>В СТАРКОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>506</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>В СТАРКОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>634</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>С СОБЯНИН</value>
+</attribute>
+</entry>
+<entry>
+<id>7</id>
+<offset>754</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АНАТОЛИЙ СМИРНОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>8</id>
+<offset>798</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВЛАДИМИР ЗОТОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>9</id>
+<offset>840</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АЛЕКСЕЙ ЧЕЛЫШЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>10</id>
+<offset>917</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>С СОБЯНИН</value>
+</attribute>
+</entry>
+<entry>
+<id>11</id>
+<offset>991</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ГАЛИНА АВАНЕСОВА</value>
+</attribute>
+</entry>
+<entry>
+<id>12</id>
+<offset>1148</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВАЛЕРИЙ ГОНЧАРОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>13</id>
+<offset>1263</offset>
+<length>19</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АНТОН КУЛЬБАЧЕВСКИЙ</value>
+</attribute>
+</entry>
+<entry>
+<id>14</id>
+<offset>1290</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>А КУЛЬБАЧЕВСКИЙ</value>
+</attribute>
+</entry>
+<entry>
+<id>15</id>
+<offset>1528</offset>
+<length>12</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЛЕОНИД БОЧИН</value>
+</attribute>
+</entry>
+</markup>

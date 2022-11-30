@@ -1,0 +1,232 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>34</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Д МЕДВЕДЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>108</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АНДРЕЙ БЕЛОУСОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>146</offset>
+<length>17</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ДМИТРИЙ МЕДВЕДЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>209</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВЛАДИМИР ПУТИН</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>482</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АЛЕКСЕЙ УЛЮКАЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>584</offset>
+<length>13</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>КСЕНИЯ ЮДАЕВА</value>
+</attribute>
+</entry>
+<entry>
+<id>7</id>
+<offset>602</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>А БЕЛОУСОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>8</id>
+<offset>641</offset>
+<length>13</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ГЕРМАН ГРЕФ</value>
+</attribute>
+</entry>
+<entry>
+<id>9</id>
+<offset>665</offset>
+<length>7</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>В ПУТИН</value>
+</attribute>
+</entry>
+<entry>
+<id>10</id>
+<offset>682</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>А БЕЛОУСОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>11</id>
+<offset>776</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>А БЕЛОУСОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>12</id>
+<offset>881</offset>
+<length>8</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>В ПУТИН</value>
+</attribute>
+</entry>
+<entry>
+<id>13</id>
+<offset>945</offset>
+<length>7</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>В ПУТИН</value>
+</attribute>
+</entry>
+<entry>
+<id>14</id>
+<offset>1000</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Д МЕДВЕДЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>15</id>
+<offset>1018</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>А БЕЛОУСОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>16</id>
+<offset>1086</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>А БЕЛОУСОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>17</id>
+<offset>1345</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Д МЕДВЕДЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>18</id>
+<offset>1357</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>НАТАЛЬЯ ТИМАКОВА</value>
+</attribute>
+</entry>
+<entry>
+<id>19</id>
+<offset>1500</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Д МЕДВЕДЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>20</id>
+<offset>1558</offset>
+<length>17</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АНАТОЛИЙ СЕРДЮКОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>21</id>
+<offset>1594</offset>
+<length>12</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ОЛЕГ ГОВОРУН</value>
+</attribute>
+</entry>
+<entry>
+<id>22</id>
+<offset>1622</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВЛАДИСЛАВ СУРКОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>23</id>
+<offset>1690</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>А БЕЛОУСОВ</value>
+</attribute>
+</entry>
+</markup>

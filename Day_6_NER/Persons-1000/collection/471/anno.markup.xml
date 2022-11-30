@@ -1,0 +1,122 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>0</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>С СОБЯНИН</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>99</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЛЮДМИЛА ШВЕЦОВА</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>283</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АЛЕКСАНДР ПУДИН</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>322</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Л ШВЕЦОВА</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>534</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Л ШВЕЦОВА</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>926</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Л ШВЕЦОВА</value>
+</attribute>
+</entry>
+<entry>
+<id>7</id>
+<offset>1002</offset>
+<length>13</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>СЕРГЕЙ КАПКОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>8</id>
+<offset>1219</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>СЕРГЕЙ СОБЯНИН</value>
+</attribute>
+</entry>
+<entry>
+<id>9</id>
+<offset>1235</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВЛАДИМИР РЕСИН</value>
+</attribute>
+</entry>
+<entry>
+<id>10</id>
+<offset>1311</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Л ШВЕЦОВА</value>
+</attribute>
+</entry>
+<entry>
+<id>11</id>
+<offset>1554</offset>
+<length>12</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЮРИЙ ЛУЖКОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>12</id>
+<offset>1586</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>СЕРГЕЙ СОБЯНИН</value>
+</attribute>
+</entry>
+</markup>

@@ -1,0 +1,32 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>26</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Т ПОЛЕНТИ</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>108</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ТИМ ПОЛЕНТИ</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>428</offset>
+<length>13</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>МИШЕЛЬ БАКМАН</value>
+</attribute>
+</entry>
+</markup>

@@ -1,0 +1,62 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>46</offset>
+<length>13</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Б КОМОРОВСКИЙ</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>135</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЛЕХ КАЧИНЬСКИЙ</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>208</offset>
+<length>21</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>БРОНИСЛАВ КОМОРОВСКИЙ</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>530</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЛЕХ КАЧИНЬСКИЙ</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>637</offset>
+<length>17</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ПЕТР ПАШКОВСКИЙ</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>978</offset>
+<length>12</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Л КАЧИНЬСКИЙ</value>
+</attribute>
+</entry>
+</markup>

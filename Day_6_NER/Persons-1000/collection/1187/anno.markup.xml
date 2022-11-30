@@ -1,0 +1,82 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>17</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВЛАДИМИР ПУТИН</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>200</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВЛАДИМИР ПУТИН</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>281</offset>
+<length>17</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВИТАЛИЙ ГОРСТКИН</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>557</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ГОРСТКИН</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>711</offset>
+<length>17</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВИТАЛИЙ ГОРСТКИН</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>731</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЮЛИЯ БУДАК</value>
+</attribute>
+</entry>
+<entry>
+<id>7</id>
+<offset>890</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЮЛИЯ БУДАК</value>
+</attribute>
+</entry>
+<entry>
+<id>8</id>
+<offset>1135</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЮРИЙ СЛИВА</value>
+</attribute>
+</entry>
+</markup>

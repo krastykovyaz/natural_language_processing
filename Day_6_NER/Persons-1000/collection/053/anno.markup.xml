@@ -1,0 +1,52 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>61</offset>
+<length>12</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЛЕОН ПАНЕТТА</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>246</offset>
+<length>20</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>МОХАММЕД ЭЛЬ-БАРАДЕИ</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>636</offset>
+<length>13</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ХАВЬЕР СОЛАНА</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>813</offset>
+<length>13</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>СЕРГЕЙ РЯБКОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>916</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>САИД ДЖАЛИЛИ</value>
+</attribute>
+</entry>
+</markup>

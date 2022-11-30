@@ -1,0 +1,42 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>382</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ОЛЕГ ОСТАПЕНКО</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>790</offset>
+<length>18</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВИКТОР РЕМИШЕВСКИЙ</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>868</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВЯЧЕСЛАВ ФИЛИН</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>901</offset>
+<length>17</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АНАТОЛИЙ ПЕРМИНОВ</value>
+</attribute>
+</entry>
+</markup>

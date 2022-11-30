@@ -1,0 +1,42 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>0</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>БЕРДЫМУХАМЕДОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>87</offset>
+<length>25</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ГУРБАНГУЛЫ БЕРДЫМУХАМЕДОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>277</offset>
+<length>18</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВЛАДИМИР ГУБАНОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>537</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ИРИНА СТОЛБУНОВА</value>
+</attribute>
+</entry>
+</markup>

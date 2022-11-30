@@ -1,0 +1,62 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>180</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ХОСНИ МУБАРАК</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>322</offset>
+<length>5</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЭШТОН</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>588</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АНГЕЛА МЕРКЕЛЬ</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>797</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Х МУБАРАК</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>1069</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ХОСНИ МУБАРАК</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>1140</offset>
+<length>13</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ОМАР СУЛЕЙМАН</value>
+</attribute>
+</entry>
+</markup>

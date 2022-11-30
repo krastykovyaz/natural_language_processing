@@ -1,0 +1,42 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>44</offset>
+<length>20</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>МОЛДОМУСА КОНГАНТИЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>441</offset>
+<length>12</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ШАМИЛЬ МУРАТ</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>517</offset>
+<length>13</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>М КОНГАНТИЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>662</offset>
+<length>7</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Ш МУРАТ</value>
+</attribute>
+</entry>
+</markup>

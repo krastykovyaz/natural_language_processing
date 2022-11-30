@@ -1,0 +1,92 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>0</offset>
+<length>8</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>В СУРКОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>108</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВЛАДИСЛАВ СУРКОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>185</offset>
+<length>17</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ДМИТРИЙ МЕДВЕДЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>363</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>НАТАЛЬЯ ТИМАКОВА</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>457</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>СЕРГЕЙ НАРЫШКИН</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>620</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>С НАРЫШКИН</value>
+</attribute>
+</entry>
+<entry>
+<id>7</id>
+<offset>724</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>С НАРЫШКИН</value>
+</attribute>
+</entry>
+<entry>
+<id>8</id>
+<offset>1010</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>С НАРЫШКИН</value>
+</attribute>
+</entry>
+<entry>
+<id>9</id>
+<offset>1091</offset>
+<length>13</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>БОРИС ГРЫЗЛОВ</value>
+</attribute>
+</entry>
+</markup>

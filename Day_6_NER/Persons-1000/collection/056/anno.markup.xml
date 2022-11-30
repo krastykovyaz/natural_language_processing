@@ -1,0 +1,62 @@
+﻿<markup>
+<entry>
+<id>6</id>
+<offset>39</offset>
+<length>8</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Н РЕЙЛЛИ</value>
+</attribute>
+</entry>
+<entry>
+<id>1</id>
+<offset>259</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>НИК РЕЙЛЛИ</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>340</offset>
+<length>20</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>КАРЛ-ПЕТЕР ФОСТЕР</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>401</offset>
+<length>8</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Н РЕЙЛЛИ</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>540</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>К-П ФОСТЕР</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>644</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>К-П ФОСТЕР</value>
+</attribute>
+</entry>
+</markup>

@@ -1,0 +1,152 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>346</offset>
+<length>17</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВЛАДИМИР АВЕТИСЯН</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>1022</offset>
+<length>12</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>БОРИС АЛЕШИН</value>
+</attribute>
+</entry>
+<entry>
+<id>19</id>
+<offset>1533</offset>
+<length>8</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Б АЛЕШИН</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>2259</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>КАРЛОС ГОН</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>2310</offset>
+<length>13</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ПАТРИК ПЕЛАТА</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>2326</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ТЬЕРРИ МУЛОНГЕ</value>
+</attribute>
+</entry>
+<entry>
+<id>16</id>
+<offset>2433</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>РУБЕН ВАРДАНЯН</value>
+</attribute>
+</entry>
+<entry>
+<id>8</id>
+<offset>2503</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АЛЕКСЕЙ АЛЕШИН</value>
+</attribute>
+</entry>
+<entry>
+<id>18</id>
+<offset>2546</offset>
+<length>8</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Б АЛЕШИН</value>
+</attribute>
+</entry>
+<entry>
+<id>10</id>
+<offset>2611</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ИГОРЬ ЗАВЬЯЛОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>11</id>
+<offset>2659</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>НИКОЛАЙ КАРАГИН</value>
+</attribute>
+</entry>
+<entry>
+<id>12</id>
+<offset>2720</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>СЕРГЕЙ СКВОРЦОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>13</id>
+<offset>2777</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>СЕРГЕЙ ЧЕМЕЗОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>14</id>
+<offset>2833</offset>
+<length>12</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>РИЧАРД ОГДОН</value>
+</attribute>
+</entry>
+<entry>
+<id>15</id>
+<offset>2876</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВЛАДИМИР АРТЯКОВ</value>
+</attribute>
+</entry>
+</markup>

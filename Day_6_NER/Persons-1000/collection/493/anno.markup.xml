@@ -1,0 +1,112 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>50</offset>
+<length>8</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>В ПУТИН</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>115</offset>
+<length>17</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ДМИТРИЙ ПОНОМАРЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>206</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВЛАДИМИР ПУТИН</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>292</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Д ПОНОМАРЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>434</offset>
+<length>7</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>В ПУТИН</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>546</offset>
+<length>13</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>СЕРГЕЙ ШМАТКО</value>
+</attribute>
+</entry>
+<entry>
+<id>7</id>
+<offset>667</offset>
+<length>8</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>В ПУТИН</value>
+</attribute>
+</entry>
+<entry>
+<id>8</id>
+<offset>992</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЮРИЙ ЖЕЛЯБОВСКИЙ</value>
+</attribute>
+</entry>
+<entry>
+<id>9</id>
+<offset>1141</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ГЕННАДИЙ НИКИТИН</value>
+</attribute>
+</entry>
+<entry>
+<id>10</id>
+<offset>1209</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АЛЕКСАНДР БОБРОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>11</id>
+<offset>1254</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ДМИТРИЙ ГВОЗДЕВ</value>
+</attribute>
+</entry>
+</markup>

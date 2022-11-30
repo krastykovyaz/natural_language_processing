@@ -1,0 +1,242 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>0</offset>
+<length>7</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Ю ЧАЙКА</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>75</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЮРИЙ ЧАЙКА</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>215</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>МАРИНА ГРИДНЕВА</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>270</offset>
+<length>17</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВЛАДИМИР ГЛЕБОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>306</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЭДУАРД КАПЛУН</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>378</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Э КАПЛУН</value>
+</attribute>
+</entry>
+<entry>
+<id>7</id>
+<offset>390</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>В ГЛЕБОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>8</id>
+<offset>663</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ИВАН НАЗАРОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>9</id>
+<offset>1017</offset>
+<length>20</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АЛЕКСАНДР ИГНАТЕНКО</value>
+</attribute>
+</entry>
+<entry>
+<id>10</id>
+<offset>1092</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ДМИТРИЙ УРУМОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>11</id>
+<offset>1110</offset>
+<length>12</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АЛЛА ГУСЕВА</value>
+</attribute>
+</entry>
+<entry>
+<id>12</id>
+<offset>1536</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>И НАЗАРОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>13</id>
+<offset>1622</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АЛЕКСАНДР МОХОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>14</id>
+<offset>1647</offset>
+<length>7</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Ю ЧАЙКА</value>
+</attribute>
+</entry>
+<entry>
+<id>15</id>
+<offset>1731</offset>
+<length>8</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>А МОХОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>16</id>
+<offset>1801</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>А ИГНАТЕНКО</value>
+</attribute>
+</entry>
+<entry>
+<id>17</id>
+<offset>1927</offset>
+<length>8</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Д УРУМОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>18</id>
+<offset>2100</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>И НАЗАРОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>19</id>
+<offset>2323</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>И НАЗАРОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>20</id>
+<offset>2336</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>А ИГНАТЕНКО</value>
+</attribute>
+</entry>
+<entry>
+<id>21</id>
+<offset>2364</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>И НАЗАРОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>22</id>
+<offset>2436</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>А ИГНАТЕНКО</value>
+</attribute>
+</entry>
+<entry>
+<id>23</id>
+<offset>2539</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>И НАЗАРОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>24</id>
+<offset>2664</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>И НАЗАРОВ</value>
+</attribute>
+</entry>
+</markup>

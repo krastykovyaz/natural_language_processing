@@ -1,0 +1,92 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>152</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>СЕРГЕЙ БОЖЕНОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>330</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ОЛЕГ МАТВЕЙЧЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>385</offset>
+<length>20</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АЛЕКСАНДР МЕРКУЛОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>533</offset>
+<length>18</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЕКАТЕРИНА БЕЛОКОНЬ</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>844</offset>
+<length>13</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ОЛЕГ КЕРСАНОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>1054</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>С БОЖЕНОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>7</id>
+<offset>1407</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ДМИТРИЙ МЕДВЕДЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>8</id>
+<offset>1495</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АНАТОЛИЙ БРОВКО</value>
+</attribute>
+</entry>
+<entry>
+<id>9</id>
+<offset>1581</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>С БОЖЕНОВ</value>
+</attribute>
+</entry>
+</markup>

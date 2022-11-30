@@ -1,0 +1,102 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>32</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ИОАХИМ ГАУК</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>92</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ИОАХИМ ГАУК</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>209</offset>
+<length>17</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>НОРБЕРТ ЛАММЕРТ</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>285</offset>
+<length>6</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>И ГАУК</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>474</offset>
+<length>6</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>И ГАУК</value>
+</attribute>
+</entry>
+<entry>
+<id>7</id>
+<offset>598</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>БЕАТЕ КЛАРСФЕЛЬД</value>
+</attribute>
+</entry>
+<entry>
+<id>8</id>
+<offset>699</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АНГЕЛА МЕРКЕЛЬ</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>728</offset>
+<length>7</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>И ГАУК</value>
+</attribute>
+</entry>
+<entry>
+<id>9</id>
+<offset>828</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>КРИСТИАН ВУЛЬФ</value>
+</attribute>
+</entry>
+<entry>
+<id>10</id>
+<offset>893</offset>
+<length>8</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>К ВУЛЬФ</value>
+</attribute>
+</entry>
+</markup>

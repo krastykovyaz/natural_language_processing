@@ -1,0 +1,52 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>40</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>П ТЕПЛУХИН</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>165</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ПАВЕЛ ТЕПЛУХИН</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>365</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>П ТЕПЛУХИН</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>424</offset>
+<length>18</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЖАК ДЕР МЕГРЕДИЧЯН</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>613</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ИГОРЬ САГИРЯН</value>
+</attribute>
+</entry>
+</markup>

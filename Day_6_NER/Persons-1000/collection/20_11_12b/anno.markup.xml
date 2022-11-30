@@ -1,0 +1,182 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>57</offset>
+<length>12</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>А СЕРДЮКОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>128</offset>
+<length>12</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>А СЕРДЮКОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>183</offset>
+<length>17</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АНАТОЛИЙ СЕРДЮКОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>243</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>СЕРГЕЙ ЧЕМЕЗОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>360</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>А СЕРДЮКОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>496</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>С ЧЕМЕЗОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>7</id>
+<offset>581</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>А СЕРДЮКОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>8</id>
+<offset>772</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>С ЧЕМЕЗОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>9</id>
+<offset>847</offset>
+<length>12</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>А СЕРДЮКОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>10</id>
+<offset>1019</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>СЕРГЕЙ ИВАНОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>11</id>
+<offset>1099</offset>
+<length>13</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АЛЕКСЕЙ МУХИН</value>
+</attribute>
+</entry>
+<entry>
+<id>12</id>
+<offset>1155</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>А СЕРДЮКОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>13</id>
+<offset>1356</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ТАТЬЯНА ГОЛИКОВА</value>
+</attribute>
+</entry>
+<entry>
+<id>14</id>
+<offset>1375</offset>
+<length>12</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЮРИЙ ТРУТНЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>15</id>
+<offset>1411</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>С ЧЕМЕЗОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>16</id>
+<offset>1436</offset>
+<length>12</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>А СЕРДЮКОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>17</id>
+<offset>1519</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>А СЕРДЮКОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>18</id>
+<offset>1711</offset>
+<length>7</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>А МУХИН</value>
+</attribute>
+</entry>
+</markup>

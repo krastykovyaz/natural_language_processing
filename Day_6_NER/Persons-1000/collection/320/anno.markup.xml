@@ -1,0 +1,82 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>8</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Д ПЕТРЕУС</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>57</offset>
+<length>13</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ДЭВИД ПЕТРЕУС</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>220</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Д ПЕТРЕУС</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>333</offset>
+<length>13</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЛЕОН ПАНЕТТА</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>426</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>РОБЕРТ ГЕЙТС</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>442</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Д ПЕТРЕУС</value>
+</attribute>
+</entry>
+<entry>
+<id>7</id>
+<offset>552</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Д ПЕТРЕУС</value>
+</attribute>
+</entry>
+<entry>
+<id>8</id>
+<offset>666</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ДЖОН АЛЛЕН</value>
+</attribute>
+</entry>
+</markup>

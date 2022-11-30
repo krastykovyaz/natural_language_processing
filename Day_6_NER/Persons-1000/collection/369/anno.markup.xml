@@ -1,0 +1,122 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>0</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Д МЕДВЕДЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>86</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ДМИТРИЙ МЕДВЕДЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>277</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Д МЕДВЕДЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>418</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>МУСА МЕДОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>534</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>МАГОМЕД ЕВЛОЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>7</id>
+<offset>717</offset>
+<length>17</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>НИКОЛАЙ МАРДАСОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>8</id>
+<offset>891</offset>
+<length>19</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АЛЕКСАНДР МАКАРОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>9</id>
+<offset>1056</offset>
+<length>20</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АЛЕКСАНДР КИРСАНОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>12</id>
+<offset>1175</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ТИМОФЕЙ ПАН</value>
+</attribute>
+</entry>
+<entry>
+<id>10</id>
+<offset>1275</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ДМИТРИЙ СИДОРОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>11</id>
+<offset>1404</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВЛАДИМИР ШЕПЕЛЬ</value>
+</attribute>
+</entry>
+<entry>
+<id>25</id>
+<offset>811</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АЛЕКСАНДР ЯГОДИН</value>
+</attribute>
+</entry>
+</markup>

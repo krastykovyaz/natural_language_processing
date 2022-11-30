@@ -1,0 +1,102 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>75</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>НАОТО КАН</value>
+</attribute>
+</entry>
+<entry>
+<id>10</id>
+<offset>290</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЙОШИТО СЕНГОКУ</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>325</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЮКИО ЭДАНО</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>371</offset>
+<length>12</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>КАОРУ ЙОСАНО</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>563</offset>
+<length>6</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Н КАН</value>
+</attribute>
+</entry>
+<entry>
+<id>9</id>
+<offset>624</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>САТСУКИ ЭДА</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>682</offset>
+<length>13</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>КАНСЕИ НАКАНО</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>830</offset>
+<length>5</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Н КАН</value>
+</attribute>
+</entry>
+<entry>
+<id>7</id>
+<offset>994</offset>
+<length>7</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Н КАН</value>
+</attribute>
+</entry>
+<entry>
+<id>8</id>
+<offset>1499</offset>
+<length>5</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Н КАН</value>
+</attribute>
+</entry>
+</markup>

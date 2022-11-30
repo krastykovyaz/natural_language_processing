@@ -1,0 +1,52 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>23</offset>
+<length>17</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ДЖАЛА НАТХ КХАНАЛ</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>92</offset>
+<length>17</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ДЖАЛА НАТХ КХАНАЛ</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>227</offset>
+<length>17</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>РАМ БАРАН ЯДАВ</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>273</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ДЖ Н КХАНАЛ</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>414</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ДЖ Н КХАНАЛ</value>
+</attribute>
+</entry>
+</markup>

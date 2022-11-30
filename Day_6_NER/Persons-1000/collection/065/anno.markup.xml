@@ -1,0 +1,62 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>137</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ОЛЬГА СЕВРЮКОВА</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>298</offset>
+<length>12</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>О СЕВРЮКОВА</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>366</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВЛАДИМИР РЕСИН</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>450</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>СЕРГЕЙ КУЗНЕЦОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>589</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>С КУЗНЕЦОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>726</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>МИХАИЛ СТОЛБОВ</value>
+</attribute>
+</entry>
+</markup>

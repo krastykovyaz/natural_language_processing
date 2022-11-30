@@ -1,0 +1,52 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>16</offset>
+<length>6</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Х ТАЧИ</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>129</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ХАШИМ ТАЧИ</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>516</offset>
+<length>6</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Х ТАЧИ</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>746</offset>
+<length>6</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Х ТАЧИ</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>905</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВАДЕТЕ ДАКА</value>
+</attribute>
+</entry>
+</markup>

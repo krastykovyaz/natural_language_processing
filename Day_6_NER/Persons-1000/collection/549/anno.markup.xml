@@ -1,0 +1,102 @@
+﻿<markup>
+<entry>
+<id>4</id>
+<offset>150</offset>
+<length>18</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ДАЛЯ ГРИБАУСКАЙТЕ</value>
+</attribute>
+</entry>
+<entry>
+<id>1</id>
+<offset>181</offset>
+<length>18</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АНДРЮС КУБИЛЮС</value>
+</attribute>
+</entry>
+<entry>
+<id>7</id>
+<offset>291</offset>
+<length>20</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>РАЙМОНДАС ПАЛАЙТИС</value>
+</attribute>
+</entry>
+<entry>
+<id>8</id>
+<offset>530</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Р ПАЛАЙТИС</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>638</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>А КУБИЛЮС</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>743</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Д ГРИБАУСКАЙТЕ</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>971</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Д ГРИБАУСКАЙТЕ</value>
+</attribute>
+</entry>
+<entry>
+<id>9</id>
+<offset>1457</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Р ПАЛАЙТИС</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>1586</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>А КУБИЛЮС</value>
+</attribute>
+</entry>
+<entry>
+<id>10</id>
+<offset>1653</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Р ПАЛАЙТИС</value>
+</attribute>
+</entry>
+</markup>

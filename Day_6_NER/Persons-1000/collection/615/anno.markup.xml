@@ -1,0 +1,82 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>0</offset>
+<length>6</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Б АСАД</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>17</offset>
+<length>8</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Х РУХАНИ</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>83</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>БАШАР АСАД</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>130</offset>
+<length>13</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ХАСАН РУХАНИ</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>730</offset>
+<length>8</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Х РУХАНИ</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>740</offset>
+<length>19</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>МАХМУД АХМАДИНЕДЖАД</value>
+</attribute>
+</entry>
+<entry>
+<id>7</id>
+<offset>853</offset>
+<length>8</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Х РУХАНИ</value>
+</attribute>
+</entry>
+<entry>
+<id>8</id>
+<offset>981</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>М АХМАДИНЕЖАД</value>
+</attribute>
+</entry>
+</markup>

@@ -1,0 +1,22 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>65</offset>
+<length>20</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АЛИ АБДЕЛЬ КАРИМ АЛИ</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>654</offset>
+<length>3</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АЛИ</value>
+</attribute>
+</entry>
+</markup>

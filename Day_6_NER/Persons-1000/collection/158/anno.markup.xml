@@ -1,0 +1,22 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>222</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЦУЙ ТЯНЬКАЙ</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>528</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ХУ ЦЗИНЬТАО</value>
+</attribute>
+</entry>
+</markup>

@@ -1,0 +1,182 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>166</offset>
+<length>8</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>РЭЙ ОЗЗИ</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>252</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>СТИВ БАЛМЕР</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>329</offset>
+<length>6</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Р ОЗЗИ</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>454</offset>
+<length>12</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>БИЛЛ ГЕЙТС</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>496</offset>
+<length>6</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Р ОЗЗИ</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>539</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>С БАЛМЕР</value>
+</attribute>
+</entry>
+<entry>
+<id>7</id>
+<offset>597</offset>
+<length>6</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Р ОЗЗИ</value>
+</attribute>
+</entry>
+<entry>
+<id>8</id>
+<offset>664</offset>
+<length>6</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Р ОЗЗИ</value>
+</attribute>
+</entry>
+<entry>
+<id>9</id>
+<offset>741</offset>
+<length>17</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>СТИВЕН СИНОФСКИ</value>
+</attribute>
+</entry>
+<entry>
+<id>10</id>
+<offset>804</offset>
+<length>6</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Р ОЗЗИ</value>
+</attribute>
+</entry>
+<entry>
+<id>11</id>
+<offset>955</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>СТИВЕН ЭЛОП</value>
+</attribute>
+</entry>
+<entry>
+<id>12</id>
+<offset>1029</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>РОББИ БАХ</value>
+</attribute>
+</entry>
+<entry>
+<id>13</id>
+<offset>1087</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ДЖЕЙ АЛЛАРД</value>
+</attribute>
+</entry>
+<entry>
+<id>14</id>
+<offset>1259</offset>
+<length>6</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Р ОЗЗИ</value>
+</attribute>
+</entry>
+<entry>
+<id>15</id>
+<offset>1348</offset>
+<length>6</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Р ОЗЗИ</value>
+</attribute>
+</entry>
+<entry>
+<id>16</id>
+<offset>1441</offset>
+<length>6</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Р ОЗЗИ</value>
+</attribute>
+</entry>
+<entry>
+<id>17</id>
+<offset>1558</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Б ГЕЙТС</value>
+</attribute>
+</entry>
+<entry>
+<id>18</id>
+<offset>1584</offset>
+<length>6</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Р ОЗЗИ</value>
+</attribute>
+</entry>
+</markup>

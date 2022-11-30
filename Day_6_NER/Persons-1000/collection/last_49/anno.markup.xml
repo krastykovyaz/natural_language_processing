@@ -1,0 +1,52 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>532</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АЛЕКСАНДР БАРМИН</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>648</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АНАТОЛИЙ КРЮЧКОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>741</offset>
+<length>17</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВЛАДИМИР ТРОФИМОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>918</offset>
+<length>18</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>НАДЕЖДА КОНДАУРОВА</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>1047</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>МАРИНА БЕСПАЛОВА</value>
+</attribute>
+</entry>
+</markup>

@@ -1,0 +1,92 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>395</offset>
+<length>24</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ДЭВИД ГУРЛ (DAVID GURLE)</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>421</offset>
+<length>32</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>КРИСТОФЕР ДИН (CHRISTOPHER DEAN)</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>455</offset>
+<length>24</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ДОН АЛЬБЕРТ (DON ALBERT)</value>
+</attribute>
+</entry>
+<entry>
+<id>9</id>
+<offset>482</offset>
+<length>20</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>РАСС ШОУ (RUSS SHAW)</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>666</offset>
+<length>25</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ДАГ БЬЮШЕР (DOUG BEWSHER)</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>694</offset>
+<length>29</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЭНН ГИЛЛЕСПИ (ANNE GILLESPIE)</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>787</offset>
+<length>27</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>РАМУ СУНКАРА (RAMU SUNKARA)</value>
+</attribute>
+</entry>
+<entry>
+<id>7</id>
+<offset>817</offset>
+<length>29</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЭЛЛИСОН КАМПА (ALLYSON CAMPA)</value>
+</attribute>
+</entry>
+<entry>
+<id>8</id>
+<offset>953</offset>
+<length>23</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ТОНИ БЕЙТС (TONY BATES)</value>
+</attribute>
+</entry>
+</markup>

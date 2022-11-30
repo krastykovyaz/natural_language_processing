@@ -1,0 +1,72 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>19</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ДЖ БАЙДЕН</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>96</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ДЖО БАЙДЕН</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>251</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ХАМИД КАРЗАЙ</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>390</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ДЖ БАЙДЕН</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>500</offset>
+<length>17</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ДЭВИД ПЕТРЕУС</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>549</offset>
+<length>17</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>КАРЛ ЭЙКЕНБЕРРИ</value>
+</attribute>
+</entry>
+<entry>
+<id>7</id>
+<offset>616</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ДЖ БАЙДЕН</value>
+</attribute>
+</entry>
+</markup>

@@ -1,0 +1,32 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>0</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>С НАРЫШКИН</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>69</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>СЕРГЕЙ НАРЫШКИН</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>536</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>С НАРЫШКИН</value>
+</attribute>
+</entry>
+</markup>

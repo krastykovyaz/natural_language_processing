@@ -1,0 +1,62 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>285</offset>
+<length>18</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АРКАДИЙ ДВОРКОВИЧ</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>783</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВАЛЕНТИН МАКАРОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>1131</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>В МАКАРОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>1191</offset>
+<length>13</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ИГОРЬ КАЛОШИН</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>1954</offset>
+<length>13</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АНДРЕЙ ПРОНИН</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>2199</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АЛЕКСАНДР ЕГОРОВ</value>
+</attribute>
+</entry>
+</markup>

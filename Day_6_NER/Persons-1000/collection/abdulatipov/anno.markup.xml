@@ -1,0 +1,32 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>17</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВЛАДИМИР ПУТИН</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>93</offset>
+<length>21</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>РАМАЗАН АБДУЛАТИПОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>155</offset>
+<length>22</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>МАГОМЕДСАЛАМ МАГОМЕДОВ</value>
+</attribute>
+</entry>
+</markup>

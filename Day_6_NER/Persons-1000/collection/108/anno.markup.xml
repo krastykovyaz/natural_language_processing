@@ -1,0 +1,182 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>0</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>С БОГДАНЧИКОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>247</offset>
+<length>8</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>С ШМАТКО</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>521</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВЛАДИМИР ПУТИН</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>555</offset>
+<length>12</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ИГОРЬ СЕЧИН</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>606</offset>
+<length>19</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ДМИТРИЙ МЕДВЕДЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>780</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВАГИТ АЛЕКПЕРОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>7</id>
+<offset>836</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>В АЛЕКПЕРОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>8</id>
+<offset>995</offset>
+<length>19</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>СЕРГЕЙ БОГДАНЧИКОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>9</id>
+<offset>1050</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Д МЕДВЕДЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>10</id>
+<offset>1082</offset>
+<length>7</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>И СЕЧИН</value>
+</attribute>
+</entry>
+<entry>
+<id>11</id>
+<offset>1229</offset>
+<length>13</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>С БОГДАНЧИКОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>12</id>
+<offset>1434</offset>
+<length>17</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АЛЕКСАНДР РЯЗАНОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>13</id>
+<offset>1462</offset>
+<length>13</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>СЕРГЕЙ ШМАТКО</value>
+</attribute>
+</entry>
+<entry>
+<id>14</id>
+<offset>1490</offset>
+<length>12</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ИГОРЬ СЕЧИН</value>
+</attribute>
+</entry>
+<entry>
+<id>15</id>
+<offset>1562</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ИГОРЬ СЕЧИН</value>
+</attribute>
+</entry>
+<entry>
+<id>16</id>
+<offset>1585</offset>
+<length>21</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>СЕРГЕЙ БОГДАНЧИКОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>17</id>
+<offset>1612</offset>
+<length>19</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АЛЕКСАНДР РЯЗАНОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>18</id>
+<offset>1790</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ДМИТРИЙ АБЗАЛОВ</value>
+</attribute>
+</entry>
+</markup>

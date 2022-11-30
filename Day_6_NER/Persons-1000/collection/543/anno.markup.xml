@@ -1,0 +1,182 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>0</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Д МЕДВЕДЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>59</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ДМИТРИЙ МЕДВЕДЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>121</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>СЕРГЕЙ ДАРЬКИН</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>563</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>С ДАРЬКИН</value>
+</attribute>
+</entry>
+<entry>
+<id>10</id>
+<offset>594</offset>
+<length>12</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ПАВЕЛ ИПАТОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>11</id>
+<offset>626</offset>
+<length>12</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>НИКИТА БЕЛЫХ</value>
+</attribute>
+</entry>
+<entry>
+<id>12</id>
+<offset>656</offset>
+<length>13</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ОЛЕГ ЧИРКУНОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>980</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>С ДАРЬКИН</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>1059</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>С ДАРЬКИН</value>
+</attribute>
+</entry>
+<entry>
+<id>13</id>
+<offset>1306</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВЛАДИМИР ПУТИН</value>
+</attribute>
+</entry>
+<entry>
+<id>9</id>
+<offset>1410</offset>
+<length>17</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ДМИТРИЙ МЕДВЕДЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>7</id>
+<offset>1451</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>С ДАРЬКИН</value>
+</attribute>
+</entry>
+<entry>
+<id>8</id>
+<offset>1608</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>С ДАРЬКИН</value>
+</attribute>
+</entry>
+<entry>
+<id>14</id>
+<offset>1893</offset>
+<length>17</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АЛЕКСАНДР ШЕМЕЛЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>15</id>
+<offset>1995</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>А ШЕМЕЛЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>16</id>
+<offset>2177</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>А ШЕМЕЛЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>17</id>
+<offset>2343</offset>
+<length>7</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ШЕМЕЛЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>18</id>
+<offset>2408</offset>
+<length>17</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВЛАДИМИР ГРИШУКОВ</value>
+</attribute>
+</entry>
+</markup>

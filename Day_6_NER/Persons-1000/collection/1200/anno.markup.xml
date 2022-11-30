@@ -1,0 +1,62 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>183</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>МУХАММЕД МУРСИ</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>308</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>МУХАММЕД МУРСИ</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>444</offset>
+<length>13</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ХИШАМ КАНДИЛЬ</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>564</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>МОХХАМЕД МУРСИ</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>624</offset>
+<length>13</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АНДРЕЙ СТЕНИН</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>812</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>МУХАММЕД МУРСИ</value>
+</attribute>
+</entry>
+</markup>

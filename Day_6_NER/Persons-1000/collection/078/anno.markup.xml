@@ -1,0 +1,52 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>44</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Э УИТАКЕР</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>139</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЭДВАРД УИТАКЕР</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>291</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Э УИТАКЕР</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>395</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ФРИЦ ХЕНДЕРСОН</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>592</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Э УИТАКЕР</value>
+</attribute>
+</entry>
+</markup>

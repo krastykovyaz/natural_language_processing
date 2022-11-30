@@ -1,0 +1,62 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>29</offset>
+<length>19</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>МУХАММЕД КАМЕЛЬ АМР</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>97</offset>
+<length>19</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>МУХАММЕД КАМЕЛЬ АМР</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>262</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>МУХАММЕД ОРАБИ</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>370</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЭССАМ ШАРАФ</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>533</offset>
+<length>7</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Э ШАРАФ</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>762</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Х МУБАРАК</value>
+</attribute>
+</entry>
+</markup>

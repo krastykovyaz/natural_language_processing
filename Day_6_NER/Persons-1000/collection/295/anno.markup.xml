@@ -1,0 +1,202 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>0</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>С ЧЕМЕЗОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>91</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>СЕРГЕЙ ЧЕМЕЗОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>454</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВИТАЛИЙ САВЕЛЬЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>596</offset>
+<length>18</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>СЕРГЕЙ АЛЕКСАШЕНКО</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>636</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>КИРИЛЛ АНДРОСОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>682</offset>
+<length>17</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВЛАДИМИР ДМИТРИЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>7</id>
+<offset>766</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЛЕОНИД ДУШАТИН</value>
+</attribute>
+</entry>
+<entry>
+<id>8</id>
+<offset>824</offset>
+<length>12</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>КИРИЛЛ ЛЕВИН</value>
+</attribute>
+</entry>
+<entry>
+<id>9</id>
+<offset>918</offset>
+<length>12</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ГЛЕБ НИКИТИН</value>
+</attribute>
+</entry>
+<entry>
+<id>10</id>
+<offset>983</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АНДРЕЙ СТОЛЯРОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>11</id>
+<offset>1047</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ИГОРЬ ЛЕВИТИН</value>
+</attribute>
+</entry>
+<entry>
+<id>12</id>
+<offset>1085</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ПАВЕЛ ТЕПЛУХИН</value>
+</attribute>
+</entry>
+<entry>
+<id>13</id>
+<offset>1176</offset>
+<length>18</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВЛАДИМИР АНТОНОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>14</id>
+<offset>1283</offset>
+<length>17</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АЛЕКСАНДР ТИХОНОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>15</id>
+<offset>1376</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ДМИТРИЙ САПРЫКИН</value>
+</attribute>
+</entry>
+<entry>
+<id>16</id>
+<offset>1507</offset>
+<length>17</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АЛЕКСАНДР КАНИЩЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>17</id>
+<offset>1608</offset>
+<length>13</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>БОРИС ЕЛИСЕЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>19</id>
+<offset>1687</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЕВГЕНИЙ БАЧУРИН</value>
+</attribute>
+</entry>
+<entry>
+<id>23</id>
+<offset>2057</offset>
+<length>18</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ДЖОРДЖИО КАЛЛЕГАРИ</value>
+</attribute>
+</entry>
+<entry>
+<id>22</id>
+<offset>2121</offset>
+<length>13</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ИГОРЬ ПАРАХИН</value>
+</attribute>
+</entry>
+</markup>

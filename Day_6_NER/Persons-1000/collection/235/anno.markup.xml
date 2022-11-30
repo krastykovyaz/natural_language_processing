@@ -1,0 +1,22 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>1177</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВЯЧЕСЛАВ ФИЛИН</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>1232</offset>
+<length>20</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВИКТОР РЕМИШЕВСКИЙ</value>
+</attribute>
+</entry>
+</markup>

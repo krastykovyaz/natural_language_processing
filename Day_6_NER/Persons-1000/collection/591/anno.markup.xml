@@ -1,0 +1,122 @@
+﻿<markup>
+<entry>
+<id>2</id>
+<offset>0</offset>
+<length>7</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>В ПУТИН</value>
+</attribute>
+</entry>
+<entry>
+<id>1</id>
+<offset>79</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВЛАДИМИР ПУТИН</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>151</offset>
+<length>17</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВАЛЕРИЙ СЕРДЮКОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>203</offset>
+<length>20</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВЯЧЕСЛАВ НАГОВИЦЫН</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>379</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>В СЕРДЮКОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>397</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>В НАГОВИЦЫН</value>
+</attribute>
+</entry>
+<entry>
+<id>7</id>
+<offset>674</offset>
+<length>20</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АЛЕКСАНДР ДРОЗДЕНКО</value>
+</attribute>
+</entry>
+<entry>
+<id>11</id>
+<offset>804</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ДМИТРИЙ МЕДВЕДЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>9</id>
+<offset>838</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>В СЕРДЮКОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>10</id>
+<offset>976</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>В СЕРДЮКОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>8</id>
+<offset>1129</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>А ДРОЗДЕНКО</value>
+</attribute>
+</entry>
+<entry>
+<id>12</id>
+<offset>1317</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Д МЕДВЕДЕВ</value>
+</attribute>
+</entry>
+</markup>

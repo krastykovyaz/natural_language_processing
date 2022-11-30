@@ -1,0 +1,132 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>0</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Д МЕДВЕДЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>104</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ДМИТРИЙ МЕДВЕДЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>363</offset>
+<length>18</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АЛЕКСАНДР АРТЕМЬЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>457</offset>
+<length>19</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ГЕННАДИЙ БАРКОВСКИЙ</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>553</offset>
+<length>18</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВЛАДИМИР ИОГОЛЕВИЧ</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>648</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВАЛЕРИЙ НАЗАРОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>7</id>
+<offset>750</offset>
+<length>17</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ГРИГОРИЙ СКРИПКИН</value>
+</attribute>
+</entry>
+<entry>
+<id>8</id>
+<offset>786</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Д МЕДВЕДЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>9</id>
+<offset>900</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЮРИЙ БОРОДАСТОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>10</id>
+<offset>992</offset>
+<length>17</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ФАИМ МУХАМЕТШИН</value>
+</attribute>
+</entry>
+<entry>
+<id>11</id>
+<offset>1061</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ХУРШЕД НУМАНОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>12</id>
+<offset>1103</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>МИХАИЛ СЛИЗКОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>13</id>
+<offset>1235</offset>
+<length>13</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЛЕОНИД ХЕЙЛО</value>
+</attribute>
+</entry>
+</markup>

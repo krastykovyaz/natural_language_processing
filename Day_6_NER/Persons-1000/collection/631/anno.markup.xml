@@ -1,0 +1,42 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>64</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВЛАДИМИР КУЛИШОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>679</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>В КУЛИШОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>892</offset>
+<length>19</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВЛАДИМИР ПРОНИЧЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>1101</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>В КУЛИШОВ</value>
+</attribute>
+</entry>
+</markup>

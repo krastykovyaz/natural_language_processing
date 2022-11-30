@@ -1,0 +1,42 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>231</offset>
+<length>12</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ИШЫК КОШАНЕР</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>345</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>НЕДЖДЕТ ОЗЕЛ</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>633</offset>
+<length>26</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>РЕДЖЕП ТАЙИП ЭРДОГАН</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>876</offset>
+<length>12</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ИШЫК КОШАНЕР</value>
+</attribute>
+</entry>
+</markup>

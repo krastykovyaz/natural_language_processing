@@ -1,0 +1,42 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>43</offset>
+<length>12</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>СЕРГЕЙ ШОЙГУ</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>181</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ИГОРЬ БРЫНЦАЛОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>625</offset>
+<length>12</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>СЕРГЕЙ ШОЙГУ</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>884</offset>
+<length>5</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ШОЙГУ</value>
+</attribute>
+</entry>
+</markup>

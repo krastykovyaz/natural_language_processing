@@ -1,0 +1,92 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>20</offset>
+<length>7</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Л ХАСИС</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>154</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЛЕВ ХАСИС</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>341</offset>
+<length>7</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Л ХАСИС</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>472</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ДАГ МАКМИЛЛАН</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>683</offset>
+<length>7</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Л ХАСИС</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>739</offset>
+<length>7</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Л ХАСИС</value>
+</attribute>
+</entry>
+<entry>
+<id>7</id>
+<offset>772</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ДЖОН АДЕН</value>
+</attribute>
+</entry>
+<entry>
+<id>8</id>
+<offset>899</offset>
+<length>7</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Л ХАСИС</value>
+</attribute>
+</entry>
+<entry>
+<id>9</id>
+<offset>1076</offset>
+<length>12</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АНДРЕЙ ГУСЕВ</value>
+</attribute>
+</entry>
+</markup>

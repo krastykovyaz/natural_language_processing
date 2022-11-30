@@ -1,0 +1,132 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>0</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Д МЕДВЕДЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>87</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ДМИТРИЙ МЕДВЕДЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>394</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>НИКОЛАЙ ВАГАНОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>509</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АЛЕКСАНДР ИОНОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>643</offset>
+<length>17</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АЛЕКСАНДР МАЖАРОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>822</offset>
+<length>13</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ДМИТРИЙ ЯШИН</value>
+</attribute>
+</entry>
+<entry>
+<id>7</id>
+<offset>889</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Д МЕДВЕДЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>8</id>
+<offset>948</offset>
+<length>17</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АНАТОЛИЙ СЕРДЮКОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>9</id>
+<offset>1018</offset>
+<length>22</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АЛЕКСАНДР МИРОШНИЧЕНКО</value>
+</attribute>
+</entry>
+<entry>
+<id>10</id>
+<offset>1081</offset>
+<length>13</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ИГОРЬ АФОНИН</value>
+</attribute>
+</entry>
+<entry>
+<id>11</id>
+<offset>1138</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЛЕОНИД МИХОЛАП</value>
+</attribute>
+</entry>
+<entry>
+<id>12</id>
+<offset>1202</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЮРИЙ ПЕТРУШКОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>13</id>
+<offset>1325</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВАЛЕРИЙ КОНУРКИН</value>
+</attribute>
+</entry>
+</markup>

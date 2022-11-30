@@ -1,0 +1,302 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>25</offset>
+<length>7</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>М САФИН</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>34</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>М МАКСАКОВА</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>48</offset>
+<length>8</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>А КАРПОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>86</offset>
+<length>7</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>М САФИН</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>95</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>М МАКСАКОВА</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>109</offset>
+<length>8</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>А КАРПОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>7</id>
+<offset>219</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>МАРИЯ МАКСАКОВА</value>
+</attribute>
+</entry>
+<entry>
+<id>8</id>
+<offset>246</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>МАРАТ САФИН</value>
+</attribute>
+</entry>
+<entry>
+<id>9</id>
+<offset>267</offset>
+<length>17</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>МАРИЯ КОЖЕВНИКОВА</value>
+</attribute>
+</entry>
+<entry>
+<id>10</id>
+<offset>296</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АНАТОЛИЙ КАРПОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>11</id>
+<offset>377</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВЛАДИМИР РЕСИН</value>
+</attribute>
+</entry>
+<entry>
+<id>12</id>
+<offset>394</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЛЮДМИЛА ШВЕЦОВА</value>
+</attribute>
+</entry>
+<entry>
+<id>13</id>
+<offset>422</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВЯЧЕСЛАВ НИКОНОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>14</id>
+<offset>519</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АЛЕКСАНДР ЖУКОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>15</id>
+<offset>575</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>СЕРГЕЙ НАРЫШКИН</value>
+</attribute>
+</entry>
+<entry>
+<id>16</id>
+<offset>680</offset>
+<length>17</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АЛЕКСАНДР БАБАКОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>17</id>
+<offset>731</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>МИХАИЛ СТАРШИНОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>18</id>
+<offset>770</offset>
+<length>19</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ПАВЕЛ КРАШЕНИННИКОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>19</id>
+<offset>791</offset>
+<length>12</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ОЛЕГ МОРОЗОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>20</id>
+<offset>805</offset>
+<length>13</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АЛИНА КАБАЕВА</value>
+</attribute>
+</entry>
+<entry>
+<id>21</id>
+<offset>820</offset>
+<length>18</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>КОНСТАНТИН КОСАЧЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>22</id>
+<offset>840</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>СЕРГЕЙ НЕВЕРОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>23</id>
+<offset>856</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВЛАДИМИР ПЕХТИН</value>
+</attribute>
+</entry>
+<entry>
+<id>24</id>
+<offset>873</offset>
+<length>12</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВАЛЕРИЙ ЯЗЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>25</id>
+<offset>887</offset>
+<length>13</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ОЛЬГА БОРЗОВА</value>
+</attribute>
+</entry>
+<entry>
+<id>26</id>
+<offset>902</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВЛАДИМИР ПЛИГИН</value>
+</attribute>
+</entry>
+<entry>
+<id>27</id>
+<offset>919</offset>
+<length>18</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АЛЕКСАНДР ХИНШТЕЙН</value>
+</attribute>
+</entry>
+<entry>
+<id>28</id>
+<offset>939</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ОТАРИ АРШБА</value>
+</attribute>
+</entry>
+<entry>
+<id>29</id>
+<offset>952</offset>
+<length>12</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АНДРЕЙ ИСАЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>30</id>
+<offset>966</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВЛАДИСЛАВ РЕЗНИК</value>
+</attribute>
+</entry>
+</markup>

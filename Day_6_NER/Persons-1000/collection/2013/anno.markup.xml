@@ -1,0 +1,22 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>474</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>БАРАК ОБАМА</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>818</offset>
+<length>5</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ОБАМА</value>
+</attribute>
+</entry>
+</markup>

@@ -1,0 +1,212 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>40</offset>
+<length>23</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>БРОНИСЛАВ КОМОРОВСКИЙ</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>121</offset>
+<length>23</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>БРОНИСЛАВ КОМОРОВСКИЙ</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>264</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЛЕХ КАЧИНЬСКИЙ</value>
+</attribute>
+</entry>
+<entry>
+<id>21</id>
+<offset>463</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>КОМОРОВСКИЙ</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>567</offset>
+<length>12</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ДОНАЛЬД ТУСК</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>1133</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>МАРИЯ КАЧИНЬСКАЯ</value>
+</attribute>
+</entry>
+<entry>
+<id>18</id>
+<offset>1189</offset>
+<length>18</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>РЫШРАД КАЧОРОВСКИЙ</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>1245</offset>
+<length>12</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЯНУШ КУРТЫКА</value>
+</attribute>
+</entry>
+<entry>
+<id>7</id>
+<offset>1277</offset>
+<length>17</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЕЖИ ШМАЙДЗИНЬСКИЙ</value>
+</attribute>
+</entry>
+<entry>
+<id>19</id>
+<offset>1334</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВЛАДЫСЛАВ СТАСЯК</value>
+</attribute>
+</entry>
+<entry>
+<id>8</id>
+<offset>1389</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АЛЕКСАНДР ЩИГЛО</value>
+</attribute>
+</entry>
+<entry>
+<id>9</id>
+<offset>1439</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ПАВЕЛ ВЫПЫХ</value>
+</attribute>
+</entry>
+<entry>
+<id>10</id>
+<offset>1453</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>МАРИУШ ХАНДЗЛИК</value>
+</attribute>
+</entry>
+<entry>
+<id>11</id>
+<offset>1548</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АНДЖЕЙ ПШЕВОЗНИК</value>
+</attribute>
+</entry>
+<entry>
+<id>12</id>
+<offset>1595</offset>
+<length>13</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АНДЖЕЙ КРЕМЕР</value>
+</attribute>
+</entry>
+<entry>
+<id>13</id>
+<offset>1656</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ФРАНТИШЕК ГОНГОР</value>
+</attribute>
+</entry>
+<entry>
+<id>20</id>
+<offset>1714</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>СЛАВОМИР СКШИПЕК</value>
+</attribute>
+</entry>
+<entry>
+<id>17</id>
+<offset>1757</offset>
+<length>19</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ПШЕМЫСЛАВ ГОСЕВСКИЙ</value>
+</attribute>
+</entry>
+<entry>
+<id>14</id>
+<offset>1778</offset>
+<length>17</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЗБИГНЕВ ВАССЕРМАН</value>
+</attribute>
+</entry>
+<entry>
+<id>16</id>
+<offset>1797</offset>
+<length>21</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ИОЛАНТА ШЫМАНЕК-ДЕРЕШ</value>
+</attribute>
+</entry>
+<entry>
+<id>15</id>
+<offset>1821</offset>
+<length>22</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ИЗАБЕЛЛА ЯРУГА-НОВАЦКА</value>
+</attribute>
+</entry>
+</markup>

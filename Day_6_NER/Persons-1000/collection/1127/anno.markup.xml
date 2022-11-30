@@ -1,0 +1,82 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>271</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ДМИТРИЙ ЛИВАНОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>843</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ДМИТРИЙ МЕДВЕДЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>1077</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВЛАДИМИР ФОРТОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>2071</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Д МЕДВЕДЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>2946</offset>
+<length>8</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>В ФОРТОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>3537</offset>
+<length>8</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>В ФОРТОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>7</id>
+<offset>3570</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ГЕННАДИЙ МЕСЯЦ</value>
+</attribute>
+</entry>
+<entry>
+<id>8</id>
+<offset>3848</offset>
+<length>20</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>КОНСТАНТИН СЕВЕРИНОВ</value>
+</attribute>
+</entry>
+</markup>

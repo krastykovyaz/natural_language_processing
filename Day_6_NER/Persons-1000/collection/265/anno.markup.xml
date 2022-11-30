@@ -1,0 +1,42 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>59</offset>
+<length>24</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>САБАХ АЛЬ-АХМЕД АС-САБАХ</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>115</offset>
+<length>30</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>НАСЕР АЛЬ-МУХАММЕД АС-САБАХ</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>681</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>НАСЕР АС-САБАХ</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>874</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>САБАХ АС-САБАХ</value>
+</attribute>
+</entry>
+</markup>

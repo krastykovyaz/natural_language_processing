@@ -1,0 +1,32 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>0</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>А БАБАКОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>113</offset>
+<length>17</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АЛЕКСАНДР БАБАКОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>494</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>А БАБАКОВ</value>
+</attribute>
+</entry>
+</markup>

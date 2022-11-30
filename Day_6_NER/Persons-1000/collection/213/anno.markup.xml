@@ -1,0 +1,142 @@
+﻿<markup>
+<entry>
+<id>14</id>
+<offset>11</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЦУ ГУТТЕНБЕРГ</value>
+</attribute>
+</entry>
+<entry>
+<id>1</id>
+<offset>54</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ТОМАС ДЕ МЕЗЬЕР</value>
+</attribute>
+</entry>
+<entry>
+<id>15</id>
+<offset>128</offset>
+<length>28</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>КАРЛ-ТЕОДОР ЦУ ГУТТЕНБЕРГ</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>203</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ТОМАС ДЕ МЕЗЬЕР</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>397</offset>
+<length>41</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ХАНС-ПЕТЕР ФРИДРИХ (HANS-PETER FRIEDRICH)</value>
+</attribute>
+</entry>
+<entry>
+<id>16</id>
+<offset>546</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЦУ ГУТТЕНБЕРГ</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>614</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ХОРСТ ЗЕЕХОФЕР</value>
+</attribute>
+</entry>
+<entry>
+<id>7</id>
+<offset>707</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АНГЕЛА МЕРКЕЛЬ</value>
+</attribute>
+</entry>
+<entry>
+<id>8</id>
+<offset>805</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ТОМАС ДЕ МЕЗЬЕР</value>
+</attribute>
+</entry>
+<entry>
+<id>9</id>
+<offset>945</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ДЕ МЕЗЬЕР</value>
+</attribute>
+</entry>
+<entry>
+<id>10</id>
+<offset>1048</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АНГЕЛА МЕРКЕЛЬ</value>
+</attribute>
+</entry>
+<entry>
+<id>11</id>
+<offset>1067</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ДЕ МЕЗЬЕР</value>
+</attribute>
+</entry>
+<entry>
+<id>12</id>
+<offset>1173</offset>
+<length>6</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ТОМАС</value>
+</attribute>
+</entry>
+<entry>
+<id>13</id>
+<offset>1181</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>УЛЬРИХ ДЕ МЕЗЬЕР</value>
+</attribute>
+</entry>
+</markup>

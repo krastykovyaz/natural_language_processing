@@ -1,0 +1,42 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>30</offset>
+<length>20</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВЯЧЕСЛАВ ТЯЖЕЛЬНИКОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>234</offset>
+<length>20</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВЯЧЕСЛАВ ТЯЖЕЛЬНИКОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>377</offset>
+<length>13</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВИКТОР СЕРКОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>460</offset>
+<length>31</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВЯЧЕСЛАВ МИХАЙЛОВИЧ ТЯЖЕЛЬНИКОВ</value>
+</attribute>
+</entry>
+</markup>

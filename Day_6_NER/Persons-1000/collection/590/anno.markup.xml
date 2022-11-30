@@ -1,0 +1,42 @@
+﻿<markup>
+<entry>
+<id>3</id>
+<offset>261</offset>
+<length>24</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЭНДРЮ МОСС (ANDREW MOSS)</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>426</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЭНДРЮ МОСС</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>698</offset>
+<length>31</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ДЖОН МАКФАРЛАН (JOHN MCFARLANE)</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>816</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ДЖОН МАКФАРЛАН</value>
+</attribute>
+</entry>
+</markup>

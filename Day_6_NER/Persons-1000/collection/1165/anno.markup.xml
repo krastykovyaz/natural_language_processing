@@ -1,0 +1,42 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>172</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ТАТЬЯНА ДАНИЛОВА</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>340</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ТАТЬЯНА ДАНИЛОВА</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>510</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ТАТЬЯНА ДАНИЛОВА</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>988</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЕВГЕНИЙ ЛИСИЦЫН</value>
+</attribute>
+</entry>
+</markup>

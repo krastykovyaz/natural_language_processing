@@ -1,0 +1,142 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>0</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>А СИЛУАНОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>75</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АНТОН СИЛУАНОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>315</offset>
+<length>19</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ДМИТРИЙ МЕДВЕДЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>383</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>А СИЛУАНОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>521</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>СЕРГЕЙ СТОРЧАК</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>549</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>А СИЛУАНОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>7</id>
+<offset>612</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АЛЕКСЕЙ КУДРИН</value>
+</attribute>
+</entry>
+<entry>
+<id>8</id>
+<offset>739</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Д МЕДВЕДЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>9</id>
+<offset>776</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>А КУДРИН</value>
+</attribute>
+</entry>
+<entry>
+<id>10</id>
+<offset>831</offset>
+<length>8</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>А КУДРИН</value>
+</attribute>
+</entry>
+<entry>
+<id>11</id>
+<offset>1008</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>А КУДРИН</value>
+</attribute>
+</entry>
+<entry>
+<id>13</id>
+<offset>1133</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>А СИЛУАНОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>14</id>
+<offset>1223</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>А КУДРИН</value>
+</attribute>
+</entry>
+<entry>
+<id>15</id>
+<offset>1285</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>А СИЛУАНОВ</value>
+</attribute>
+</entry>
+</markup>

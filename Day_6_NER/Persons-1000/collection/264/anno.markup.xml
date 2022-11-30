@@ -1,0 +1,112 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>23</offset>
+<length>8</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Л ГБАГБО</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>49</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>А УАТТАРА</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>97</offset>
+<length>12</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЛОРАН ГБАГБО</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>159</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АЛАССАН УАТТАРА</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>308</offset>
+<length>8</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Л ГБАГБО</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>457</offset>
+<length>8</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Л ГБАГБО</value>
+</attribute>
+</entry>
+<entry>
+<id>7</id>
+<offset>577</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>А УАТТАРА</value>
+</attribute>
+</entry>
+<entry>
+<id>8</id>
+<offset>790</offset>
+<length>8</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Л ГБАГБО</value>
+</attribute>
+</entry>
+<entry>
+<id>9</id>
+<offset>802</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>А УАТТАРА</value>
+</attribute>
+</entry>
+<entry>
+<id>10</id>
+<offset>1014</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>А УАТТАРА</value>
+</attribute>
+</entry>
+<entry>
+<id>11</id>
+<offset>1036</offset>
+<length>8</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Л ГБАГБО</value>
+</attribute>
+</entry>
+</markup>

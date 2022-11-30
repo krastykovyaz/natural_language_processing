@@ -1,0 +1,142 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>5</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Д ЛИВАНОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>92</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ИГОРЬ РЕМОРЕНКО</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>198</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>И РЕМОРЕНКО</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>275</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВЕНИАМИН КАГАНОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>673</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВЯЧЕСЛАВ НИКОНОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>724</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>И РЕМОРЕНКО</value>
+</attribute>
+</entry>
+<entry>
+<id>7</id>
+<offset>862</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АНДРЕЙ ФУРСЕНКО</value>
+</attribute>
+</entry>
+<entry>
+<id>8</id>
+<offset>987</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ИГОРЬ МИХАЙЛОВИЧ</value>
+</attribute>
+</entry>
+<entry>
+<id>9</id>
+<offset>1120</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>И РЕМОРЕНКО</value>
+</attribute>
+</entry>
+<entry>
+<id>10</id>
+<offset>1322</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>В КАГАНОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>11</id>
+<offset>1635</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ДМИТРИЙ ЛИВАНОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>12</id>
+<offset>1654</offset>
+<length>13</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ИГОРЬ ФЕДЮКИН</value>
+</attribute>
+</entry>
+<entry>
+<id>13</id>
+<offset>1913</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Д ЛИВАНОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>14</id>
+<offset>1997</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>И ФЕДЮКИН</value>
+</attribute>
+</entry>
+</markup>

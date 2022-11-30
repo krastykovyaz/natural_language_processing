@@ -1,0 +1,52 @@
+﻿<markup>
+<entry>
+<id>3</id>
+<offset>71</offset>
+<length>24</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ХАМАД БЕН ХАЛИФ АЛЬ ТАНИ</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>274</offset>
+<length>6</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ТАМИМ</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>786</offset>
+<length>25</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ХАМАД БЕН ДЖАСЕМ АЛЬ ТАНИ</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>1135</offset>
+<length>24</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ТАМИМ БЕН ХАМАД АЛЬ ТАНИ</value>
+</attribute>
+</entry>
+<entry>
+<id>7</id>
+<offset>1228</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>МОЗА БИНТ НАССЕР</value>
+</attribute>
+</entry>
+</markup>

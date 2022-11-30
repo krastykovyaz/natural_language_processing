@@ -1,0 +1,112 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>47</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ГЕННАДИЙ ГУДКОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>190</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ГЕННАДИЙ ГУДКОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>402</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>СЕРГЕЙ МИТРОХИН</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>428</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ГЕННАДИЙ ГУДКОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>675</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ГЕННАДИЙ ГУДКОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>1176</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ГЕННАДИЙ ГУДКОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>7</id>
+<offset>1266</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ГЕННАДИЙ ГУДКОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>8</id>
+<offset>1336</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>СЕРГЕЙ МИТРОХИН</value>
+</attribute>
+</entry>
+<entry>
+<id>9</id>
+<offset>1715</offset>
+<length>19</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АЛЕКСАНДР РОМАНОВИЧ</value>
+</attribute>
+</entry>
+<entry>
+<id>10</id>
+<offset>1912</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АНДРЕЙ ВОРОБЬЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>11</id>
+<offset>1941</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВОРОБЬЕВ</value>
+</attribute>
+</entry>
+</markup>

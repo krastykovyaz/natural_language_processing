@@ -1,0 +1,42 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>0</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>В МАТВИЕНКО</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>58</offset>
+<length>19</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВАЛЕНТИНА  МАТВИЕНКО</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>385</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>В МАТВИЕНКО</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>638</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>В МАТВИЕНКО</value>
+</attribute>
+</entry>
+</markup>

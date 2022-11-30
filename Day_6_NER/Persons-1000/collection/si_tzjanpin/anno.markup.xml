@@ -1,0 +1,142 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>2</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>СИ ЦЗИНЬПИН</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>73</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>СИ ЦЗИНЬПИН</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>336</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>СИ ЦЗИНЬПИН</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>603</offset>
+<length>8</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЛИ КЭЦЯН</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>624</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>СИ ЦЗИНЬПИН</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>638</offset>
+<length>8</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЛИ КЭЦЯН</value>
+</attribute>
+</entry>
+<entry>
+<id>7</id>
+<offset>702</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>СИ ЦЗИНЬПИН</value>
+</attribute>
+</entry>
+<entry>
+<id>8</id>
+<offset>789</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ХУ ЦЗИНТАО</value>
+</attribute>
+</entry>
+<entry>
+<id>9</id>
+<offset>857</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВАНЬ ЦИШАНЬ</value>
+</attribute>
+</entry>
+<entry>
+<id>10</id>
+<offset>993</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЧЖАН ДЭЦЗЯН</value>
+</attribute>
+</entry>
+<entry>
+<id>11</id>
+<offset>1043</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ДЭН СЯОПИН</value>
+</attribute>
+</entry>
+<entry>
+<id>12</id>
+<offset>1055</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЮЙ ЧЖЭНШЭН</value>
+</attribute>
+</entry>
+<entry>
+<id>13</id>
+<offset>1108</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЛЮ ЮНЬШАНЬ</value>
+</attribute>
+</entry>
+<entry>
+<id>14</id>
+<offset>1181</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЧЖАН ГАОЛИ</value>
+</attribute>
+</entry>
+</markup>

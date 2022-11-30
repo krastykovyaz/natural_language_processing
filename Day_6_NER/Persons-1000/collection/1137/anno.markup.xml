@@ -1,0 +1,52 @@
+﻿<markup>
+<entry>
+<id>5</id>
+<offset>2</offset>
+<length>5</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ПУТИН</value>
+</attribute>
+</entry>
+<entry>
+<id>1</id>
+<offset>234</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АНДРЕЙ ПОТАПОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>368</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВЛАДИМИР ПУТИН</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>384</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АНДРЕЙ ПОТАПОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>517</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АНДРЕЙ ПОТАПОВ</value>
+</attribute>
+</entry>
+</markup>

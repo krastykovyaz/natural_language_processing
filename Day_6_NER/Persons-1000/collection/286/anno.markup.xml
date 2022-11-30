@@ -1,0 +1,72 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>23</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ДЖ ИММЕЛЬТ</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>174</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ДЖЕФФРИ ИММЕЛЬТ</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>366</offset>
+<length>13</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>УИЛЬЯМ ДАДЛИ</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>381</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ДЖ ИММЕЛЬТ</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>468</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ДЖ ИММЕЛЬТ</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>618</offset>
+<length>12</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>БАРАК ОБАМА</value>
+</attribute>
+</entry>
+<entry>
+<id>7</id>
+<offset>686</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ДЖ ИММЕЛЬТ</value>
+</attribute>
+</entry>
+</markup>

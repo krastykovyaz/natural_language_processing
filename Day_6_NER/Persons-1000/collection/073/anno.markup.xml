@@ -1,0 +1,22 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>317</offset>
+<length>25</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЭДРИЕН ПОНЕ (ADRIAN PONE)</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>646</offset>
+<length>4</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ПОНЕ</value>
+</attribute>
+</entry>
+</markup>

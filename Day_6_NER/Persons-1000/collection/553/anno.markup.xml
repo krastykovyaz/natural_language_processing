@@ -1,0 +1,102 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>90</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВАЛЕРИЙ КУЗНЕЦОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>9</id>
+<offset>252</offset>
+<length>17</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АЛЕКСАНДР БУКСМАН</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>375</offset>
+<length>12</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>В КУЗНЕЦОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>10</id>
+<offset>540</offset>
+<length>17</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ДМИТРИЙ МЕДВЕДЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>629</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>В КУЗНЕЦОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>2766</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>В КУЗНЕЦОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>2858</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>В КУЗНЕЦОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>8</id>
+<offset>3001</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВАЛЕРИЙ КУЗНЕЦОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>7</id>
+<offset>3771</offset>
+<length>8</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>КУЗНЕЦОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>3995</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>В КУЗНЕЦОВ</value>
+</attribute>
+</entry>
+</markup>

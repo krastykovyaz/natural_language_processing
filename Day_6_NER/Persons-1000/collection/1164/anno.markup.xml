@@ -1,0 +1,182 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>158</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АНТОНИС САМАРАС</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>376</offset>
+<length>20</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ДИМИТРИС АВРАМОПУЛОС</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>500</offset>
+<length>19</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЭВАНГЕЛОС ВЕНИЗЕЛОС</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>544</offset>
+<length>19</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ПАНОС ПАНАЙОТОПУЛОС</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>645</offset>
+<length>18</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>КИРИАКОС МИЦОТАКИС</value>
+</attribute>
+</entry>
+<entry>
+<id>17</id>
+<offset>696</offset>
+<length>17</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АДОНИС ГЕОРГИАДИС</value>
+</attribute>
+</entry>
+<entry>
+<id>18</id>
+<offset>757</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ИОАННИС МАНИАТИС</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>847</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЯННИС МИХЕЛАКИС</value>
+</attribute>
+</entry>
+<entry>
+<id>7</id>
+<offset>923</offset>
+<length>19</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ХАРАЛАМБОС АТАНАСИУ</value>
+</attribute>
+</entry>
+<entry>
+<id>8</id>
+<offset>1034</offset>
+<length>19</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>МИХАЛИС ХРИСОХОИДИС</value>
+</attribute>
+</entry>
+<entry>
+<id>9</id>
+<offset>1075</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЯННИС СТУРНАРАС</value>
+</attribute>
+</entry>
+<entry>
+<id>10</id>
+<offset>1103</offset>
+<length>17</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ДИМИТРИС СТАМАТИС</value>
+</attribute>
+</entry>
+<entry>
+<id>11</id>
+<offset>1139</offset>
+<length>17</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>КОСТИС ХАДЗИДАКИС</value>
+</attribute>
+</entry>
+<entry>
+<id>12</id>
+<offset>1186</offset>
+<length>18</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АТАНАСИОС ЦАВТАРИС</value>
+</attribute>
+</entry>
+<entry>
+<id>13</id>
+<offset>1248</offset>
+<length>26</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>КОНСТАНТИНОС АРВАНИТОПУЛОС</value>
+</attribute>
+</entry>
+<entry>
+<id>14</id>
+<offset>1292</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ОЛЬГА КЕФАЛОЯННИ</value>
+</attribute>
+</entry>
+<entry>
+<id>15</id>
+<offset>1340</offset>
+<length>13</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>НИКОС ДЕНДИАС</value>
+</attribute>
+</entry>
+<entry>
+<id>16</id>
+<offset>1381</offset>
+<length>12</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЯННИС ВРУЦИС</value>
+</attribute>
+</entry>
+</markup>

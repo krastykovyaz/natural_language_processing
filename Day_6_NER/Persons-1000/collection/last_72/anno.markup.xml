@@ -1,0 +1,52 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>364</offset>
+<length>17</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЛЮДМИЛА ХОХРЯКОВА</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>1005</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ХОХРЯКОВА</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>1139</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>НИКОЛАЙ ИВАНОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>1267</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ОЛЬГА КУСАКИНА</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>1383</offset>
+<length>13</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>МИХАИЛ ЗВЕРЕВ</value>
+</attribute>
+</entry>
+</markup>

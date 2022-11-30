@@ -1,0 +1,92 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>20</offset>
+<length>18</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>СИЛЬВИО БЕРЛУСКОНИ</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>81</offset>
+<length>18</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>СИЛЬВИО БЕРЛУСКОНИ</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>124</offset>
+<length>18</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ДЖОРДЖО НАПОЛИТАНО</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>197</offset>
+<length>12</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>С БЕРЛУСКОНИ</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>380</offset>
+<length>12</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>С БЕРЛУСКОНИ</value>
+</attribute>
+</entry>
+<entry>
+<id>7</id>
+<offset>786</offset>
+<length>12</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>С БЕРЛУСКОНИ</value>
+</attribute>
+</entry>
+<entry>
+<id>8</id>
+<offset>828</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>МАРИО МОНТИ</value>
+</attribute>
+</entry>
+<entry>
+<id>9</id>
+<offset>878</offset>
+<length>7</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>М МОНТИ</value>
+</attribute>
+</entry>
+<entry>
+<id>10</id>
+<offset>991</offset>
+<length>12</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>С БЕРЛУСКОНИ</value>
+</attribute>
+</entry>
+</markup>

@@ -1,0 +1,32 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>594</offset>
+<length>21</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>САПАРМУРАТ НИЯЗОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>656</offset>
+<length>27</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ГУРБАНГУЛЫ БЕРДЫМУХАМЕДОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>1623</offset>
+<length>17</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АКДЖА НУРБЕРДЫЕВА</value>
+</attribute>
+</entry>
+</markup>

@@ -1,0 +1,32 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>76</offset>
+<length>17</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>МАРИАННА КОКУНОВА</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>171</offset>
+<length>17</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>МАРИАННА КОКУНОВА</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>311</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЛИДИЯ АНТОНОВА</value>
+</attribute>
+</entry>
+</markup>

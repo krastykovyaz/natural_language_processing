@@ -1,0 +1,62 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>80</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ДМИТРИЙ МЕДВЕДЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>169</offset>
+<length>19</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВЯЧЕСЛАВ ПОЗГАЛЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>262</offset>
+<length>18</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ОЛЕГ КУВШИННИКОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>417</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>В ПОЗГАЛЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>618</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>В ПОЗГАЛЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>746</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ОЛЕГ КУВШИННИКОВ</value>
+</attribute>
+</entry>
+</markup>

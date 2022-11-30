@@ -1,0 +1,42 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>52</offset>
+<length>13</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Г ПОЛТАВЧЕНКО</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>83</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ДМИТРИЙ МЕДВЕДЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>116</offset>
+<length>19</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВАЛЕНТИНА МАТВИЕНКО</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>209</offset>
+<length>19</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ГЕОРГИЙ ПОЛТАВЧЕНКО</value>
+</attribute>
+</entry>
+</markup>

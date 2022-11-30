@@ -1,0 +1,62 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>0</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>СВЕТЛАНА МУХОМОР</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>144</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>СВЕТЛАНА МУХОМОР</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>268</offset>
+<length>7</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>МУХОМОР</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>349</offset>
+<length>17</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>СЕРГЕЙ КАРПУШЕНКО</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>495</offset>
+<length>19</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АЛЕКСАНДР КОВАЛЕНКО</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>561</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>СВЕТЛАНА МУХОМОР</value>
+</attribute>
+</entry>
+</markup>

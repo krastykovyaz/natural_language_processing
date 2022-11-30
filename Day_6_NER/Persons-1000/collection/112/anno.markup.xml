@@ -1,0 +1,52 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>129</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЧУН ЮЙ СУН</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>306</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЧУН ЮЙ СУН</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>437</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЧУН ЮЙ СУН</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>524</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЧУН ЮЙ СУН</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>613</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЧУН ЮЙ СУН</value>
+</attribute>
+</entry>
+</markup>

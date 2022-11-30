@@ -1,0 +1,102 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>92</offset>
+<length>30</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АНАС АЛЬ-ФИККИ (ANAS AL-FIKKI)</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>167</offset>
+<length>32</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ОСАМА АЛЬ-ШЕЙХ (OSAMA AL-SHEIKH)</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>377</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ХОСНИ МУБАРАК</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>672</offset>
+<length>26</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ФАРУК ХОСНИ (FARUK HOSNI)</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>864</offset>
+<length>30</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ХАБИБ АЛЬ-АДЛИ (HABIB EL-ADLY)</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>919</offset>
+<length>33</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЗУХЕЙР ГАРРАНАХ (ZOHEIR GARRANAH)</value>
+</attribute>
+</entry>
+<entry>
+<id>7</id>
+<offset>996</offset>
+<length>37</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АХМЕД АЛЬ-МАГРАБИ (AHMED AL-MAGHRABI)</value>
+</attribute>
+</entry>
+<entry>
+<id>8</id>
+<offset>1152</offset>
+<length>8</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>МУБАРАК</value>
+</attribute>
+</entry>
+<entry>
+<id>9</id>
+<offset>1200</offset>
+<length>21</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АХМЕД ЭЗЗ (AHMED EZZ)</value>
+</attribute>
+</entry>
+<entry>
+<id>10</id>
+<offset>1226</offset>
+<length>13</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ХОСНИ МУБАРАК</value>
+</attribute>
+</entry>
+</markup>

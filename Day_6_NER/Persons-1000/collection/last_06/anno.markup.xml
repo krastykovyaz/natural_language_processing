@@ -1,0 +1,102 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>189</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>НИКОЛАЙ ПАВЛЕНКО</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>441</offset>
+<length>18</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЕВГЕНИЙ ПОЛТАВЦЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>522</offset>
+<length>19</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АЛЕКСАНДР МЕЛАНИЧ</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>703</offset>
+<length>18</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЕВГЕНИЙ ПОЛТАВЦЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>745</offset>
+<length>19</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АЛЕКСАНДР МЕЛАНИЧ</value>
+</attribute>
+</entry>
+<entry>
+<id>10</id>
+<offset>766</offset>
+<length>7</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>МЕЛАНИЧ</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>1016</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>НИКОЛАЙ ПАВЛЕНКО</value>
+</attribute>
+</entry>
+<entry>
+<id>7</id>
+<offset>1963</offset>
+<length>18</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АЛЕКСАНДР БАЛДЫНЮК</value>
+</attribute>
+</entry>
+<entry>
+<id>8</id>
+<offset>2498</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>СЕРГЕЙ ПЕТУХОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>9</id>
+<offset>2880</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВЛАДИМИР ПУТИН</value>
+</attribute>
+</entry>
+</markup>

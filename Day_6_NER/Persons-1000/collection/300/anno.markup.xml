@@ -1,0 +1,122 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>0</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>СЕРГЕЙ МИРОНОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>102</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>СЕРГЕЙ МИРОНОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>12</id>
+<offset>242</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>С МИРОНОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>403</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>С МИРОНОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>599</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>С МИРОНОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>641</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЕЛЕНА ВТОРЫГИНА</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>754</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ГЕННАДИЙ ГУДКОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>7</id>
+<offset>782</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Е ВТОРЫГИНА</value>
+</attribute>
+</entry>
+<entry>
+<id>8</id>
+<offset>825</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>С МИРОНОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>9</id>
+<offset>1406</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВАДИМ ТЮЛЬПАНОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>10</id>
+<offset>1430</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>С МИРОНОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>11</id>
+<offset>1493</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>В ТЮЛЬПАНОВ</value>
+</attribute>
+</entry>
+</markup>

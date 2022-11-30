@@ -1,0 +1,42 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>0</offset>
+<length>8</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ДЖ КЕРРИ</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>93</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ДЖОН КЕРРИ</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>640</offset>
+<length>8</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ДЖ КЕРРИ</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>698</offset>
+<length>13</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ХАМИД КАРЗАЙ</value>
+</attribute>
+</entry>
+</markup>

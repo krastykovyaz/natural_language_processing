@@ -1,0 +1,82 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>1052</offset>
+<length>20</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>КОНСТАНТИН ЧЕРЕМИСОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>1213</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ОЛЬГА ОГИЕВСКАЯ</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>1373</offset>
+<length>17</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АЛЕКСАНДР ФЕДУЛОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>1392</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>МАКСИМ ШИНГАРКИН</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>1610</offset>
+<length>12</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ГЛЕБ ФЕТИСОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>1700</offset>
+<length>21</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АЛЕКСАНДР РОМАНОВИЧ</value>
+</attribute>
+</entry>
+<entry>
+<id>7</id>
+<offset>1823</offset>
+<length>12</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>СЕРГЕЙ ШОЙГУ</value>
+</attribute>
+</entry>
+<entry>
+<id>8</id>
+<offset>1929</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АНДРЕЙ ВОРОБЬЕВ</value>
+</attribute>
+</entry>
+</markup>

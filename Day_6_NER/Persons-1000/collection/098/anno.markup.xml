@@ -1,0 +1,82 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>0</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Д МЕДВЕДЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>70</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ДМИТРИЙ МЕДВЕДЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>109</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>НАДЕЖДА СИНИКОВА</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>313</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Н СИНИКОВА</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>345</offset>
+<length>17</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВИКТОР ЧЕРКЕСОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>458</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Н СИНИКОВА</value>
+</attribute>
+</entry>
+<entry>
+<id>7</id>
+<offset>614</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Н СИНИКОВА</value>
+</attribute>
+</entry>
+<entry>
+<id>8</id>
+<offset>808</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВИКТОР ЧЕРКЕСОВ</value>
+</attribute>
+</entry>
+</markup>

@@ -1,0 +1,92 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>12</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>А ПИМАНОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>231</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АЛЕКСЕЙ ПИМАНОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>375</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>А ПИМАНОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>444</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АНАТОЛИЙ СОБЧАК</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>461</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЛЮДМИЛА НАРУСОВА</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>600</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>А ПИМАНОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>7</id>
+<offset>690</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>А ПИМАНОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>8</id>
+<offset>827</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>А ПИМАНОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>9</id>
+<offset>1219</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>А ПИМАНОВ</value>
+</attribute>
+</entry>
+</markup>

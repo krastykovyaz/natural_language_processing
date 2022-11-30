@@ -1,0 +1,142 @@
+﻿<markup>
+<entry>
+<id>2</id>
+<offset>0</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>С ЯСТРЕБОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>1</id>
+<offset>152</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>СЕРГЕЙ ЯСТРЕБОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>210</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>С ЯСТРЕБОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>7</id>
+<offset>293</offset>
+<length>19</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ДМИТРИЙ МЕДВЕДЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>10</id>
+<offset>496</offset>
+<length>17</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АЛЕКСАНДР РУСАКОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>11</id>
+<offset>530</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЮРИЙ БОЙКО</value>
+</attribute>
+</entry>
+<entry>
+<id>12</id>
+<offset>584</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>СЕРГЕЙ ВАХРУКОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>8</id>
+<offset>642</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Д МЕДВЕДЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>769</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>С ЯСТРЕБОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>13</id>
+<offset>781</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>С ВАХРУКОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>9</id>
+<offset>895</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Д МЕДВЕДЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>14</id>
+<offset>1014</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>С ВАХРУКОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>1278</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>С ЯСТРЕБОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>1480</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>С ЯСТРЕБОВ</value>
+</attribute>
+</entry>
+</markup>

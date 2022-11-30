@@ -1,0 +1,22 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>151</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ФЕЛИПЕ КАЛЬДЕРОН</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>386</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Ф КАЛЬДЕРОН</value>
+</attribute>
+</entry>
+</markup>

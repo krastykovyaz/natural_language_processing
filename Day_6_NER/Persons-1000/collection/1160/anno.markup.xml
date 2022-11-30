@@ -1,0 +1,72 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>41</offset>
+<length>26</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АБДАЛЛА БЕН НАСЕР АЛЬ ТАНИ</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>105</offset>
+<length>24</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ТАМИМ БЕН ХАМАД АЛЬ ТАНИ</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>271</offset>
+<length>26</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АБДАЛЛА БЕН НАСЕР АЛЬ ТАНИ</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>391</offset>
+<length>24</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ТАМИМ БЕН ХАМАД АЛЬ ТАНИ</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>460</offset>
+<length>26</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ХАМАД БЕН ХАЛИФА АЛЬ ТАНИ</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>787</offset>
+<length>25</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ХАМАД БЕН ДЖАСЕМ АЛЬ ТАНИ</value>
+</attribute>
+</entry>
+<entry>
+<id>7</id>
+<offset>852</offset>
+<length>30</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АХМЕД БЕН АБДАЛЛА АЛЬ МАХМУД</value>
+</attribute>
+</entry>
+</markup>

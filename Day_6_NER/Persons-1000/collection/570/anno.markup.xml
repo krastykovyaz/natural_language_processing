@@ -1,0 +1,122 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>105</offset>
+<length>18</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>СЕРГЕЙ АНТУФЬЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>261</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>С АНТУФЬЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>896</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>С АНТУФЬЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>1110</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>С АНТУФЬЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>1464</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>НИКОЛАЙ ПАНКОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>1499</offset>
+<length>13</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ИГОРЬ ЛЕВИТИН</value>
+</attribute>
+</entry>
+<entry>
+<id>7</id>
+<offset>1561</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>МАКСИМ БЫСТРОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>8</id>
+<offset>1714</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>СЕРГЕЙ ВАХРУКОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>9</id>
+<offset>1732</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>СЕРГЕЙ АНТУФЬЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>10</id>
+<offset>1830</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>СЕРГЕЙ НЕВЕРОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>11</id>
+<offset>1966</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>С ВАХРУКОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>12</id>
+<offset>2114</offset>
+<length>19</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>НИКОЛАЙ ВИНОГРАДОВ</value>
+</attribute>
+</entry>
+</markup>

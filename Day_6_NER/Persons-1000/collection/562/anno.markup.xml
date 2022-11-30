@@ -1,0 +1,122 @@
+﻿<markup>
+<entry>
+<id>2</id>
+<offset>0</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Д МЕДВЕДЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>1</id>
+<offset>83</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ДМИТРИЙ МЕДВЕДЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>181</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ИГОРЬ СЛЮНЯЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>243</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>И СЛЮНЯЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>9</id>
+<offset>384</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>СЕРГЕЙ СИТНИКОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>425</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>И СЛЮНЯЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>753</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>И СЛЮНЯЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>7</id>
+<offset>1042</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>И СЛЮНЯЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>8</id>
+<offset>1167</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>И СЛЮНЯЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>10</id>
+<offset>1244</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>С СИТНИКОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>11</id>
+<offset>1966</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>С СИТНИКОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>12</id>
+<offset>2216</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>С СИТНИКОВ</value>
+</attribute>
+</entry>
+</markup>

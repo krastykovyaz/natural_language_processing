@@ -1,0 +1,132 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>0</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Д МЕДВЕДЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>67</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ДМИТРИЙ МЕДВЕДЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>138</offset>
+<length>17</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВИКТОР БОНДАРЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>306</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>В БОНДАРЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>436</offset>
+<length>19</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВЛАДИМИР ВЫСОЦКИЙ</value>
+</attribute>
+</entry>
+<entry>
+<id>8</id>
+<offset>581</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВИКТОР ЧИРКОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>9</id>
+<offset>649</offset>
+<length>8</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>В ЧИРКОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>7</id>
+<offset>1462</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>В ВЫСОЦКИЙ</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>1793</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Д МЕДВЕДЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>10</id>
+<offset>1859</offset>
+<length>17</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АЛЕКСАНДР ЗЕЛИН</value>
+</attribute>
+</entry>
+<entry>
+<id>11</id>
+<offset>1934</offset>
+<length>7</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>А ЗЕЛИН</value>
+</attribute>
+</entry>
+<entry>
+<id>12</id>
+<offset>2017</offset>
+<length>8</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>А ЗЕЛИН</value>
+</attribute>
+</entry>
+<entry>
+<id>13</id>
+<offset>2073</offset>
+<length>7</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>А ЗЕЛИН</value>
+</attribute>
+</entry>
+</markup>

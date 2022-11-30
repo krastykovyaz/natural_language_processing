@@ -1,0 +1,72 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>37</offset>
+<length>5</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>КОЗАК</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>120</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АЛЕНА МЕЙТА</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>166</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВЛАДИМИР КОЗАК</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>389</offset>
+<length>28</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВЛАДИМИР ВАСИЛЬЕВИЧ КОЗАК</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>675</offset>
+<length>17</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>НИКОЛАЙ АЗАРОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>732</offset>
+<length>18</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>БОРИС КОЛЕСНИКОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>7</id>
+<offset>812</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВЛАДИМИР КОЗАК</value>
+</attribute>
+</entry>
+</markup>

@@ -1,0 +1,163 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>255</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЮРИЙ ЧАЙКА</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>352</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Ю СИНДЕЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>425</offset>
+<length>7</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Ю ЧАЙКА</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>696</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Ю СИНДЕЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>773</offset>
+<length>8</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Ю ЧАЙКА</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>922</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Ю СИНДЕЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>8</id>
+<offset>1040</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Ю СИНДЕЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>9</id>
+<offset>1110</offset>
+<length>8</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Ю ЧАЙКА</value>
+</attribute>
+</entry>
+<entry>
+<id>10</id>
+<offset>1369</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Ю СИНДЕЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>11</id>
+<offset>1452</offset>
+<length>18</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>СТАНИСЛАВ БУЯНСКИЙ</value>
+</attribute>
+</entry>
+<entry>
+<id>12</id>
+<offset>1519</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Д МЕДВЕДЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>13</id>
+<offset>1900</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Ю СИНДЕЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>14</id>
+<offset>1927</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>С БУЯНСКИЙ</value>
+</attribute>
+</entry>
+<entry>
+<id>15</id>
+<offset>1984</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Ю СИНДЕЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>16</id>
+<offset>2061</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АНДРЕЙ НЕКРАСОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>25</id>
+<offset>141</offset>
+<length>12</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЮРИЙ СИНДЕЕВ</value>
+</attribute>
+</entry>
+
+</markup>

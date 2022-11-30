@@ -1,0 +1,22 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>22</offset>
+<length>7</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>П НЕЧАС</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>94</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ПЕТР НЕЧАС</value>
+</attribute>
+</entry>
+</markup>

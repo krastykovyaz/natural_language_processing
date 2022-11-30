@@ -1,0 +1,22 @@
+﻿<markup>
+<entry>
+<id>3</id>
+<offset>147</offset>
+<length>29</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ПЕРРИ ОСТИНГ (PERRY OOSTING)</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>253</offset>
+<length>7</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ОСТИНГ</value>
+</attribute>
+</entry>
+</markup>

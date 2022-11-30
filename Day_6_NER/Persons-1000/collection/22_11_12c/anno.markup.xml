@@ -1,0 +1,202 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>0</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>А СЕРДЮКОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>57</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>А СЕРДЮКОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>231</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ДЕНИС МАНТУРОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>291</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВЛАДИМИР ПУТИН</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>361</offset>
+<length>18</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АНАТОЛИЙ СЕРДЮКОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>450</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>А СЕРДЮКОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>7</id>
+<offset>502</offset>
+<length>12</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>СЕРГЕЙ ШОЙГУ</value>
+</attribute>
+</entry>
+<entry>
+<id>8</id>
+<offset>558</offset>
+<length>17</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>СЕРГЕЙ КОМИССАРОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>9</id>
+<offset>577</offset>
+<length>18</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЭЛЬВИРА НАБИУЛЛИНА</value>
+</attribute>
+</entry>
+<entry>
+<id>10</id>
+<offset>598</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>СЕРГЕЙ ПРИХОДЬКО</value>
+</attribute>
+</entry>
+<entry>
+<id>11</id>
+<offset>726</offset>
+<length>13</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АНДРЕЙ КЛЕПАЧ</value>
+</attribute>
+</entry>
+<entry>
+<id>12</id>
+<offset>823</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЛАРИСА БРЫНЧЕВА</value>
+</attribute>
+</entry>
+<entry>
+<id>20</id>
+<offset>889</offset>
+<length>19</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АЛЕКСАНДРА ЛЕВИЦКАЯ</value>
+</attribute>
+</entry>
+<entry>
+<id>13</id>
+<offset>971</offset>
+<length>20</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЛЮДМИЛА ТЯЖЕЛЬНИКОВА</value>
+</attribute>
+</entry>
+<entry>
+<id>14</id>
+<offset>996</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>А СЕРДЮКОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>15</id>
+<offset>1094</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>А СЕРДЮКОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>16</id>
+<offset>1424</offset>
+<length>7</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>В ПУТИН</value>
+</attribute>
+</entry>
+<entry>
+<id>17</id>
+<offset>1457</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>А СЕРДЮКОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>18</id>
+<offset>1658</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>А СЕРДЮКОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>19</id>
+<offset>1890</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>А СЕРДЮКОВ</value>
+</attribute>
+</entry>
+</markup>

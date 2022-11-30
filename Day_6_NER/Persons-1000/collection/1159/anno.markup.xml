@@ -1,0 +1,122 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>115</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ДЖУЛИЯ ГИЛЛАРД</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>180</offset>
+<length>12</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>КЕВИН РАДД</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>288</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ДЖ ГИЛЛАРД</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>357</offset>
+<length>6</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>К РАДД</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>539</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ДЖ ГИЛЛАРД</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>719</offset>
+<length>7</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>К РАДД</value>
+</attribute>
+</entry>
+<entry>
+<id>7</id>
+<offset>745</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>УЭЙН СУОН</value>
+</attribute>
+</entry>
+<entry>
+<id>8</id>
+<offset>778</offset>
+<length>13</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>СТИВЕН КОНРОЙ</value>
+</attribute>
+</entry>
+<entry>
+<id>9</id>
+<offset>888</offset>
+<length>6</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>К РАДД</value>
+</attribute>
+</entry>
+<entry>
+<id>10</id>
+<offset>957</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ДЖ ГИЛЛАРД</value>
+</attribute>
+</entry>
+<entry>
+<id>11</id>
+<offset>1096</offset>
+<length>7</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>К РАДД</value>
+</attribute>
+</entry>
+<entry>
+<id>12</id>
+<offset>1310</offset>
+<length>12</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ТОНИ АББОТ</value>
+</attribute>
+</entry>
+</markup>

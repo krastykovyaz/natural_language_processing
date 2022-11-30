@@ -1,0 +1,72 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>24</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Э СНОУДЕН</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>114</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЭДВАРД СНОУДЕН</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>292</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ТОМ ДОНИЛОН</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>442</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Т ДОНИЛОН</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>993</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Э СНОУДЕН</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>1323</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Э СНОУДЕН</value>
+</attribute>
+</entry>
+<entry>
+<id>7</id>
+<offset>1557</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Э СНОУДЕН</value>
+</attribute>
+</entry>
+</markup>

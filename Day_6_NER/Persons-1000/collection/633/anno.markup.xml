@@ -1,0 +1,92 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>185</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АНДРЕЙ МОГУЧИЙ</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>392</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>А МОГУЧИЙ</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>445</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ТЕМУР ЧХЕИДЗЕ</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>524</offset>
+<length>20</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВЛАДИМИР МЕДИНСКИЙ</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>686</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Т ЧХЕИДЗЕ</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>800</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ОЛЕГ БАСИЛАШВИЛИ</value>
+</attribute>
+</entry>
+<entry>
+<id>7</id>
+<offset>885</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Т ЧХЕИДЗЕ</value>
+</attribute>
+</entry>
+<entry>
+<id>8</id>
+<offset>1374</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Т ЧХЕИДЗЕ</value>
+</attribute>
+</entry>
+<entry>
+<id>9</id>
+<offset>1411</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>А МОГУЧИЙ</value>
+</attribute>
+</entry>
+</markup>

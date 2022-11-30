@@ -1,0 +1,92 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>153</offset>
+<length>19</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ГЕОРГИЙ ПОЛТАВЧЕНКО</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>303</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ОЛЕГ НИЛОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>1416</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВИТАЛИЙ МИЛОНОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>1545</offset>
+<length>19</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ГЕОРГИЙ ПОЛТАВЧЕНКО</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>1661</offset>
+<length>13</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Г ПОЛТАВЧЕНКО</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>1960</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>В МИЛОНОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>7</id>
+<offset>2009</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ДМИТРИЙ МЕДВЕДЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>8</id>
+<offset>2089</offset>
+<length>19</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВАЛЕНТИНА МАТВИЕНКО</value>
+</attribute>
+</entry>
+<entry>
+<id>9</id>
+<offset>2218</offset>
+<length>19</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ГЕОРГИЙ ПОЛТАВЧЕНКО</value>
+</attribute>
+</entry>
+</markup>

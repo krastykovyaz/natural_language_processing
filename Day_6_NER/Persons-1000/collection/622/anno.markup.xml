@@ -1,0 +1,92 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>10</offset>
+<length>8</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Д САБЛИН</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>134</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ДМИТРИЙ САБЛИН</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>473</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Д САБЛИН</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>576</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Д САБЛИН</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>611</offset>
+<length>8</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Д САБЛИН</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>701</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>БОРИС ГРОМОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>7</id>
+<offset>977</offset>
+<length>8</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Д САБЛИН</value>
+</attribute>
+</entry>
+<entry>
+<id>8</id>
+<offset>1287</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Д САБЛИН</value>
+</attribute>
+</entry>
+<entry>
+<id>9</id>
+<offset>1365</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Д САБЛИН</value>
+</attribute>
+</entry>
+</markup>

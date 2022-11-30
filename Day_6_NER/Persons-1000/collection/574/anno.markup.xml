@@ -1,0 +1,72 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>105</offset>
+<length>13</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ПИТЕР СЛИППЕР</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>232</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>П СЛИППЕР</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>306</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>П СЛИППЕР</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>410</offset>
+<length>12</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ДЖЕЙМС ЭШБИ</value>
+</attribute>
+</entry>
+<entry>
+<id>7</id>
+<offset>632</offset>
+<length>7</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ДЖ ЭШБИ</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>954</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>П СЛИППЕР</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>1032</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>П СЛИППЕР</value>
+</attribute>
+</entry>
+</markup>

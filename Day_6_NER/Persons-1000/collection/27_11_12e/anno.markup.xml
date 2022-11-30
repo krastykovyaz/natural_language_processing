@@ -1,0 +1,112 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>10</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ОЛЕГ КАШИН</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>56</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ОЛЕГ КАШИН</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>104</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ОЛЕГ КАШИН</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>304</offset>
+<length>7</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>О КАШИН</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>441</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ОЛЕГ КАШИН</value>
+</attribute>
+</entry>
+<entry>
+<id>7</id>
+<offset>649</offset>
+<length>7</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>О КАШИН</value>
+</attribute>
+</entry>
+<entry>
+<id>8</id>
+<offset>902</offset>
+<length>12</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВИКТОР ЛОШАК</value>
+</attribute>
+</entry>
+<entry>
+<id>9</id>
+<offset>1059</offset>
+<length>8</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>В ЛОШАК</value>
+</attribute>
+</entry>
+<entry>
+<id>10</id>
+<offset>1068</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>СЕРГЕЙ АГАФОНОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>11</id>
+<offset>1115</offset>
+<length>7</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>В ЛОШАК</value>
+</attribute>
+</entry>
+<entry>
+<id>12</id>
+<offset>1252</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>КСЕНИЯ СОБЧАК</value>
+</attribute>
+</entry>
+</markup>

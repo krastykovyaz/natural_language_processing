@@ -1,0 +1,232 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>189</offset>
+<length>19</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>РАМАЗАН АБДУЛАТИПОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>361</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АНАТОЛИЙ КАРИБОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>405</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>РАМАЗАН ДЖАФАРОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>436</offset>
+<length>18</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АЛЕКСАНДР ЕРМОШКИН</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>511</offset>
+<length>24</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>МАГОМЕДГУСЕН НАСРУТДИНОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>537</offset>
+<length>18</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АБУСУПЬЯН ХАРХАРОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>7</id>
+<offset>557</offset>
+<length>18</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АЛЕКСАНДР ХАРЧЕНКО</value>
+</attribute>
+</entry>
+<entry>
+<id>8</id>
+<offset>578</offset>
+<length>13</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ШАРИП ШАРИПОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>9</id>
+<offset>664</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>СЕФЕР АЛИЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>10</id>
+<offset>721</offset>
+<length>13</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>МАЛИК БАГЛИЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>11</id>
+<offset>747</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЗАРЕМА БАТАЕВА</value>
+</attribute>
+</entry>
+<entry>
+<id>12</id>
+<offset>788</offset>
+<length>17</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>УМАРОСМАН ГАДЖИЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>13</id>
+<offset>850</offset>
+<length>20</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>РИЗВАН ГАЗИМАГОМЕДОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>14</id>
+<offset>902</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АРТУР ДАЛГАТОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>15</id>
+<offset>950</offset>
+<length>17</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АБУСУПЬЯН ГАСАНОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>16</id>
+<offset>997</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ТАНКА ИБРАГИМОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>17</id>
+<offset>1033</offset>
+<length>17</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АНТОНИНА ИДРИСОВА</value>
+</attribute>
+</entry>
+<entry>
+<id>18</id>
+<offset>1112</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>СЕЙФУЛАХ ИСАКОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>19</id>
+<offset>1179</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЮСУП УМАВОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>20</id>
+<offset>1234</offset>
+<length>13</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>РАЮДИН ЮСУФОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>21</id>
+<offset>1320</offset>
+<length>19</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>РАМАЗАН АБДУЛАТИПОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>22</id>
+<offset>1499</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АНАТОЛИЙ КАРИБОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>23</id>
+<offset>1614</offset>
+<length>17</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АБДУСАМАД ГАМИДОВ</value>
+</attribute>
+</entry>
+</markup>

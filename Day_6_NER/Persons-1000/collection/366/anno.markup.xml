@@ -1,0 +1,52 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>0</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Т ГОЛИКОВА</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>102</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ТАТЬЯНА ГОЛИКОВА</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>281</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>НИКОЛАЙ ВОЛОДИН</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>1087</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Н ВОЛОДИН</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>1177</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Т ГОЛИКОВА</value>
+</attribute>
+</entry>
+</markup>

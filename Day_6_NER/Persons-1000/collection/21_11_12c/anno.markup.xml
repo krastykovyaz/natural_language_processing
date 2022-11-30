@@ -1,0 +1,82 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>0</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>С СОБЯНИН</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>61</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>С СОБЯНИН</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>152</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>СЕРГЕЙ СОБЯНИН</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>201</offset>
+<length>19</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АЛЕКСАНДР СОЛДАТКИН</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>424</offset>
+<length>12</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>А СОЛДАТКИН</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>645</offset>
+<length>12</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>А СОЛДАТКИН</value>
+</attribute>
+</entry>
+<entry>
+<id>7</id>
+<offset>750</offset>
+<length>20</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВИКТОРИЯ КАЛИНИЧЕНКО</value>
+</attribute>
+</entry>
+<entry>
+<id>8</id>
+<offset>893</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>А СОЛДАТКИН</value>
+</attribute>
+</entry>
+</markup>

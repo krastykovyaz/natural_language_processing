@@ -1,0 +1,142 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>19</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ПАВЕЛ БОРОДИН</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>122</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ГРИГОРИЙ РАПОТА</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>145</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ПАВЕЛ БОРОДИН</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>259</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ДМИТРИЙ МЕДВЕДЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>278</offset>
+<length>19</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АЛЕКСАНДР ЛУКАШЕНКО</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>363</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>П БОРОДИН</value>
+</attribute>
+</entry>
+<entry>
+<id>7</id>
+<offset>496</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>П БОРОДИН</value>
+</attribute>
+</entry>
+<entry>
+<id>8</id>
+<offset>565</offset>
+<length>8</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Г РАПОТА</value>
+</attribute>
+</entry>
+<entry>
+<id>9</id>
+<offset>683</offset>
+<length>8</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Г РАПОТА</value>
+</attribute>
+</entry>
+<entry>
+<id>10</id>
+<offset>980</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>П БОРОДИН</value>
+</attribute>
+</entry>
+<entry>
+<id>11</id>
+<offset>1163</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>П БОРОДИН</value>
+</attribute>
+</entry>
+<entry>
+<id>12</id>
+<offset>1361</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>А ЛУКАШЕНКО</value>
+</attribute>
+</entry>
+<entry>
+<id>13</id>
+<offset>1490</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>А ЛУКАШЕНКО</value>
+</attribute>
+</entry>
+<entry>
+<id>14</id>
+<offset>1569</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>П БОРОДИН</value>
+</attribute>
+</entry>
+</markup>

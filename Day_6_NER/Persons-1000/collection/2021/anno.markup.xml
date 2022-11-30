@@ -1,0 +1,42 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>1426</offset>
+<length>17</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АЛЕКСАНДР ЖИГУНОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>1482</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВАСИЛИЙ БУДАРИН</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>1499</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЯКОВ РОЖНОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>1546</offset>
+<length>13</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЮРИЙ ГАПЕЕНКО</value>
+</attribute>
+</entry>
+</markup>

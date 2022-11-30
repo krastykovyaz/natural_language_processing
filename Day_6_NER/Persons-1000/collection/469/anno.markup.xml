@@ -1,0 +1,62 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>103</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АЛИШЕР УСМАНОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>327</offset>
+<length>17</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>МАКСИМ КОВАЛЬСКИЙ</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>665</offset>
+<length>13</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АНДРЕЙ ГАЛИЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>747</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ДЕМЬЯН КУДРЯВЦЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>848</offset>
+<length>18</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ДЕМЬЯН КУДРЯВЦЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>1348</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>А УСМАНОВ</value>
+</attribute>
+</entry>
+</markup>

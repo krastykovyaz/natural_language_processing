@@ -1,0 +1,182 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>372</offset>
+<length>17</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АЛЕКСАНДР НОВИКОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>490</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>А НОВИКОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>703</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>А НОВИКОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>1005</offset>
+<length>19</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВЛАДИСЛАВ РОДИТЕЛЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>1026</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>А НОВИКОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>2355</offset>
+<length>19</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АЛЕКСАНДР ИНОЗЕМЦЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>7</id>
+<offset>2389</offset>
+<length>17</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АЛЕКСАНДР ВАТАГИН</value>
+</attribute>
+</entry>
+<entry>
+<id>8</id>
+<offset>2419</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЮРИЙ ДУДКИН</value>
+</attribute>
+</entry>
+<entry>
+<id>9</id>
+<offset>2495</offset>
+<length>17</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АЛЕКСАНДР АРТЮХОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>10</id>
+<offset>2599</offset>
+<length>12</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ИЛЬЯ ФЕДОРОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>11</id>
+<offset>2666</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЮРИЙ ЛАСТОЧКИН</value>
+</attribute>
+</entry>
+<entry>
+<id>12</id>
+<offset>2779</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Ю ЛАСТОЧКИН</value>
+</attribute>
+</entry>
+<entry>
+<id>13</id>
+<offset>2901</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ИГОРЬ ШИТАРЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>14</id>
+<offset>2923</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>НИКОЛАЙ НИКИТИН</value>
+</attribute>
+</entry>
+<entry>
+<id>15</id>
+<offset>3011</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>МИХАИЛ ДИЧЕСКУЛ</value>
+</attribute>
+</entry>
+<entry>
+<id>16</id>
+<offset>3100</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АЛЕКСЕЙ МИХАЛЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>17</id>
+<offset>3251</offset>
+<length>19</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>КОНСТАНТИН МАКИЕНКО</value>
+</attribute>
+</entry>
+<entry>
+<id>18</id>
+<offset>3291</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>А НОВИКОВ</value>
+</attribute>
+</entry>
+</markup>

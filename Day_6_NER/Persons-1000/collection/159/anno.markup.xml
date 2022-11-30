@@ -1,0 +1,32 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>118</offset>
+<length>8</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ОЛЛИ РЕН</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>522</offset>
+<length>5</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>О РЕН</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>827</offset>
+<length>5</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>О РЕН</value>
+</attribute>
+</entry>
+</markup>

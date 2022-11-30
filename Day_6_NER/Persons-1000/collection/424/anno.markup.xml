@@ -1,0 +1,52 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>0</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>М ПРОХОРОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>93</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Р ШАЙХУТДИНОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>139</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>МИХАИЛ ПРОХОРОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>213</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АНДРЕЙ ДУНАЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>281</offset>
+<length>19</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>РИФАТ ШАЙХУТДИНОВ</value>
+</attribute>
+</entry>
+</markup>

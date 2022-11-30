@@ -1,0 +1,52 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>462</offset>
+<length>5</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>МУРСИ</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>744</offset>
+<length>19</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>МОХАМЕД АБДЕЛЬ АЗИЗ</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>833</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ХАЛЕД ДАУД</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>1424</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АБДЕЛЬ АЗИЗ</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>2340</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>МУХАММЕД МУРСИ</value>
+</attribute>
+</entry>
+</markup>

@@ -1,0 +1,62 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>22</offset>
+<length>7</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>П НЕЧАС</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>75</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ПЕТР НЕЧАС</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>338</offset>
+<length>7</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>П НЕЧАС</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>571</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>МИЛОШ ЗЕМАН</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>932</offset>
+<length>8</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>П НЕЧАС</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>941</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЯНА НАДЕВА</value>
+</attribute>
+</entry>
+</markup>

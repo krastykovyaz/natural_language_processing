@@ -1,0 +1,132 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>0</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Д МЕДВЕДЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>85</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ДМИТРИЙ МЕДВЕДЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>139</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>НИКОЛАЙ БОРИСОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>7</id>
+<offset>349</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Н БОРИСОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>8</id>
+<offset>475</offset>
+<length>17</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АЛЕКСАНДР ДЕРЯВКО</value>
+</attribute>
+</entry>
+<entry>
+<id>9</id>
+<offset>678</offset>
+<length>20</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АЛЕКСАНДР КАСЬЯНЕНКО</value>
+</attribute>
+</entry>
+<entry>
+<id>10</id>
+<offset>841</offset>
+<length>17</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АЛЕКСАНДР СИВАЧЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>12</id>
+<offset>1015</offset>
+<length>17</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВАЛЕРИЙ ТАРАЗЕВИЧ</value>
+</attribute>
+</entry>
+<entry>
+<id>13</id>
+<offset>1131</offset>
+<length>13</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ИВАН КУЗИЧКИН</value>
+</attribute>
+</entry>
+<entry>
+<id>14</id>
+<offset>1216</offset>
+<length>17</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВИКТОР ЛИЗВИНСКИЙ</value>
+</attribute>
+</entry>
+<entry>
+<id>15</id>
+<offset>1402</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АНДРЕЙ ЛОГИНОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>16</id>
+<offset>1470</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АНДРЕЙ МОРДВИЧЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>19</id>
+<offset>1542</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АЛЕКСАНДР НОВКИН</value>
+</attribute>
+</entry>
+</markup>

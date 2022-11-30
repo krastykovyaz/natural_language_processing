@@ -1,0 +1,102 @@
+﻿<markup>
+<entry>
+<id>10</id>
+<offset>25</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Т МОКРИДЖ</value>
+</attribute>
+</entry>
+<entry>
+<id>11</id>
+<offset>80</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Т МОКРИДЖ</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>174</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ТОМ МОКРИДЖ</value>
+</attribute>
+</entry>
+<entry>
+<id>1</id>
+<offset>356</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>РУПЕРТ МЕРДОК</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>439</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Т МОКРИДЖ</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>606</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Т МОКРИДЖ</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>685</offset>
+<length>13</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>РЕБЕККА БРУКС</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>1073</offset>
+<length>12</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>МИЛЛИ ДАУЛЕР</value>
+</attribute>
+</entry>
+<entry>
+<id>7</id>
+<offset>1395</offset>
+<length>7</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Р БРУКС</value>
+</attribute>
+</entry>
+<entry>
+<id>8</id>
+<offset>1425</offset>
+<length>13</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ПОЛ СТИВЕНСОН</value>
+</attribute>
+</entry>
+</markup>

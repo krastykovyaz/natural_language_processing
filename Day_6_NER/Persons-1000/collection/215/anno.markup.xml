@@ -1,0 +1,92 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>34</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Е ПРИМАКОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>97</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>СЕРГЕЙ КАТЫРИН</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>159</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Е ПРИМАКОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>415</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>С КАТЫРИН</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>559</offset>
+<length>13</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ИГОРЬ ЖАРИНОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>8</id>
+<offset>731</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>СЕРГЕЙ КАТЫРИН</value>
+</attribute>
+</entry>
+<entry>
+<id>9</id>
+<offset>781</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВИКТОР ХРИСТЕНКО</value>
+</attribute>
+</entry>
+<entry>
+<id>10</id>
+<offset>870</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ГРИГОРИЙ РАПОТА</value>
+</attribute>
+</entry>
+<entry>
+<id>11</id>
+<offset>890</offset>
+<length>25</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>СЕРГЕЙ НИКОЛАЕВИЧ КАТЫРИН</value>
+</attribute>
+</entry>
+</markup>

@@ -1,0 +1,82 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>0</offset>
+<length>7</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Б ОБАМА</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>30</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>М МАКФОЛ</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>88</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>БАРАК ОБАМА</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>122</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>МАЙКЛ МАКФОЛ</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>279</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>М МАКФОЛ</value>
+</attribute>
+</entry>
+<entry>
+<id>7</id>
+<offset>341</offset>
+<length>12</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ДЖОН БАЭРЛИ</value>
+</attribute>
+</entry>
+<entry>
+<id>8</id>
+<offset>427</offset>
+<length>12</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>МАЙКЛ МАКФОЛ</value>
+</attribute>
+</entry>
+<entry>
+<id>9</id>
+<offset>467</offset>
+<length>7</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Б ОБАМА</value>
+</attribute>
+</entry>
+</markup>

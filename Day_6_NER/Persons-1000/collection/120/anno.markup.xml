@@ -1,0 +1,372 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>0</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>С СОБЯНИН</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>82</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ДМИТРИЙ МЕДВЕДЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>133</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>СЕРГЕЙ СОБЯНИН</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>337</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>С СОБЯНИН</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>684</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АНДРЕЙ КЛЫЧКОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>1072</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>С СОБЯНИН</value>
+</attribute>
+</entry>
+<entry>
+<id>7</id>
+<offset>1355</offset>
+<length>13</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ИГОРЬ ЛЕБЕДЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>8</id>
+<offset>1549</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>И ЛЕБЕДЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>9</id>
+<offset>1831</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>С СОБЯНИН</value>
+</attribute>
+</entry>
+<entry>
+<id>10</id>
+<offset>2074</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>И ЛЕБЕДЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>11</id>
+<offset>2183</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>СЕРГЕЙ МИТРОХИН</value>
+</attribute>
+</entry>
+<entry>
+<id>35</id>
+<offset>2344</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>С МИТРОХИН</value>
+</attribute>
+</entry>
+<entry>
+<id>36</id>
+<offset>2368</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>С СОБЯНИН</value>
+</attribute>
+</entry>
+<entry>
+<id>37</id>
+<offset>2453</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Д МЕДВЕДЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>38</id>
+<offset>2548</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Д МЕДВЕДЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>39</id>
+<offset>2592</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>С СОБЯНИН</value>
+</attribute>
+</entry>
+<entry>
+<id>12</id>
+<offset>2768</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>С МИТРОХИН</value>
+</attribute>
+</entry>
+<entry>
+<id>13</id>
+<offset>2793</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>С СОБЯНИН</value>
+</attribute>
+</entry>
+<entry>
+<id>14</id>
+<offset>2979</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>С СОБЯНИН</value>
+</attribute>
+</entry>
+<entry>
+<id>15</id>
+<offset>3190</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ГЕННАДИЙ ГУДКОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>16</id>
+<offset>3244</offset>
+<length>12</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Д МЕДВЕДЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>17</id>
+<offset>3375</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>С СОБЯНИН</value>
+</attribute>
+</entry>
+<entry>
+<id>18</id>
+<offset>3483</offset>
+<length>8</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Г ГУДКОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>19</id>
+<offset>3523</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>СЕРГЕЙ СОБЯНИН</value>
+</attribute>
+</entry>
+<entry>
+<id>20</id>
+<offset>3561</offset>
+<length>12</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЮРИЙ ЛУЖКОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>21</id>
+<offset>3647</offset>
+<length>8</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Г ГУДКОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>22</id>
+<offset>3672</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>С СОБЯНИН</value>
+</attribute>
+</entry>
+<entry>
+<id>23</id>
+<offset>3774</offset>
+<length>8</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Ю ЛУЖКОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>24</id>
+<offset>3854</offset>
+<length>8</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Г ГУДКОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>25</id>
+<offset>3958</offset>
+<length>17</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВАЛЕРИЙ РЯЗАНСКИЙ</value>
+</attribute>
+</entry>
+<entry>
+<id>26</id>
+<offset>4033</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>СЕРГЕЙ СОБЯНИН</value>
+</attribute>
+</entry>
+<entry>
+<id>28</id>
+<offset>4206</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>В РЯЗАНСКИЙ</value>
+</attribute>
+</entry>
+<entry>
+<id>29</id>
+<offset>4542</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>В РЯЗАНСКИЙ</value>
+</attribute>
+</entry>
+<entry>
+<id>31</id>
+<offset>4909</offset>
+<length>13</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>БОРИС ГРЫЗЛОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>32</id>
+<offset>4945</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>СЕРГЕЙ СОБЯНИН</value>
+</attribute>
+</entry>
+<entry>
+<id>33</id>
+<offset>5038</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>СЕРГЕЙ СОБЯНИН</value>
+</attribute>
+</entry>
+<entry>
+<id>34</id>
+<offset>5117</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Б ГРЫЗЛОВ</value>
+</attribute>
+</entry>
+</markup>

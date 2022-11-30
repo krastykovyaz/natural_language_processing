@@ -1,0 +1,92 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>268</offset>
+<length>13</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>НАУМ МАРДЕР</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>314</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>МИХАИЛ ШАМОЛИН</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>356</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЕЛЕНА ШМАТОВА</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>397</offset>
+<length>19</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>СЕРГЕЙ СОЛДАТЕНКОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>596</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Н МАРДЕР</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>1061</offset>
+<length>13</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ИГОРЬ ЩЕГОЛЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>7</id>
+<offset>1157</offset>
+<length>17</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ДМИТРИЙ МЕДВЕДЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>8</id>
+<offset>1503</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ПЕТР ЛИДОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>9</id>
+<offset>1532</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Д МЕДВЕДЕВ</value>
+</attribute>
+</entry>
+</markup>

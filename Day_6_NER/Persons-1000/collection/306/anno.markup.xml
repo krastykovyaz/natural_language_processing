@@ -1,0 +1,102 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>55</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>С МИРОНОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>246</offset>
+<length>17</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>СЕРГЕЙ МИРОНОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>329</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>С МИРОНОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>414</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>МИХАИЛ ЕМЕЛЬЯНОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>471</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ОКСАНА ДМИТРИЕВА</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>709</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>С МИРОНОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>7</id>
+<offset>857</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>С МИРОНОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>8</id>
+<offset>908</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЕЛЕНА МИЗУЛИНА</value>
+</attribute>
+</entry>
+<entry>
+<id>9</id>
+<offset>955</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>НИКОЛАЙ ЛЕВИЧЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>10</id>
+<offset>982</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>С МИРОНОВ</value>
+</attribute>
+</entry>
+</markup>

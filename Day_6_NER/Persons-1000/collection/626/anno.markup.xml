@@ -1,0 +1,102 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>54</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>О БУДАРГИН</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>198</offset>
+<length>13</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ОЛЕГ БУДАРГИН</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>300</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>О БУДАРГИН</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>543</offset>
+<length>12</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>НИКОЛАЙ ШВЕЦ</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>672</offset>
+<length>12</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АНДРЕЙ МУРОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>701</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>О БУДАРГИН</value>
+</attribute>
+</entry>
+<entry>
+<id>7</id>
+<offset>769</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>О БУДАРГИН</value>
+</attribute>
+</entry>
+<entry>
+<id>8</id>
+<offset>1184</offset>
+<length>12</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АНДРЕЙ ДЕМИН</value>
+</attribute>
+</entry>
+<entry>
+<id>9</id>
+<offset>1254</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АЛЕКСЕЙ ДЕМИДОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>10</id>
+<offset>1497</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>РОМАН БЕРДНИКОВ</value>
+</attribute>
+</entry>
+</markup>

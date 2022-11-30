@@ -1,0 +1,322 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>24</offset>
+<length>8</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>В СУРКОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>178</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВЛАДИСЛАВ СУРКОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>218</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВЯЧЕСЛАВ ВОЛОДИН</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>332</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ИГОРЬ БУНИН</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>412</offset>
+<length>8</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>В ПУТИН</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>438</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Д МЕДВЕДЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>7</id>
+<offset>456</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Д МЕДВЕДЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>8</id>
+<offset>512</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>В СУРКОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>9</id>
+<offset>587</offset>
+<length>7</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>В ПУТИН</value>
+</attribute>
+</entry>
+<entry>
+<id>10</id>
+<offset>597</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>В СУРКОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>12</id>
+<offset>692</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>МИХАИЛ ТУЛЬСКИЙ</value>
+</attribute>
+</entry>
+<entry>
+<id>13</id>
+<offset>735</offset>
+<length>8</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>В СУРКОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>14</id>
+<offset>1215</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>М ТУЛЬСКИЙ</value>
+</attribute>
+</entry>
+<entry>
+<id>15</id>
+<offset>1360</offset>
+<length>17</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВЛАДИСЛАВ ЮРЬЕВИЧ</value>
+</attribute>
+</entry>
+<entry>
+<id>16</id>
+<offset>1448</offset>
+<length>13</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АЛЕКСЕЙ МУХИН</value>
+</attribute>
+</entry>
+<entry>
+<id>17</id>
+<offset>1485</offset>
+<length>8</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>В СУРКОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>18</id>
+<offset>1711</offset>
+<length>8</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>В СУРКОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>19</id>
+<offset>1887</offset>
+<length>7</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>А МУХИН</value>
+</attribute>
+</entry>
+<entry>
+<id>20</id>
+<offset>2199</offset>
+<length>8</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>В СУРКОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>21</id>
+<offset>2224</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВЯЧЕСЛАВ ВОЛОДИН</value>
+</attribute>
+</entry>
+<entry>
+<id>22</id>
+<offset>2245</offset>
+<length>7</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>А МУХИН</value>
+</attribute>
+</entry>
+<entry>
+<id>23</id>
+<offset>2267</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>В ВОЛОДИН</value>
+</attribute>
+</entry>
+<entry>
+<id>24</id>
+<offset>2433</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>В ВОЛОДИН</value>
+</attribute>
+</entry>
+<entry>
+<id>25</id>
+<offset>2459</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВЛАДИМИР ПУТИН</value>
+</attribute>
+</entry>
+<entry>
+<id>26</id>
+<offset>2489</offset>
+<length>7</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>А МУХИН</value>
+</attribute>
+</entry>
+<entry>
+<id>27</id>
+<offset>2502</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>В ВОЛОДИН</value>
+</attribute>
+</entry>
+<entry>
+<id>28</id>
+<offset>2533</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>В СУРКОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>29</id>
+<offset>2658</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>В ВОЛОДИН</value>
+</attribute>
+</entry>
+<entry>
+<id>30</id>
+<offset>2708</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>В СУРКОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>31</id>
+<offset>2778</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>В ВОЛОДИН</value>
+</attribute>
+</entry>
+<entry>
+<id>32</id>
+<offset>2812</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>В СУРКОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>33</id>
+<offset>2928</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>М ТУЛЬСКИЙ</value>
+</attribute>
+</entry>
+</markup>

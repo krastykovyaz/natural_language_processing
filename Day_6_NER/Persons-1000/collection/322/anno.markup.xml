@@ -1,0 +1,82 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>0</offset>
+<length>8</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>К ЛАГАРД</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>63</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>КРИСТИН ЛАГАРД</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>252</offset>
+<length>8</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>К ЛАГАРД</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>320</offset>
+<length>8</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>К ЛАГАРД</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>464</offset>
+<length>18</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ДОМИНИК СТРОСС-КАН</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>633</offset>
+<length>8</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>К ЛАГАРД</value>
+</attribute>
+</entry>
+<entry>
+<id>7</id>
+<offset>706</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АГУСТИН КАРСТЕНС</value>
+</attribute>
+</entry>
+<entry>
+<id>8</id>
+<offset>855</offset>
+<length>8</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>К ЛАГАРД</value>
+</attribute>
+</entry>
+</markup>

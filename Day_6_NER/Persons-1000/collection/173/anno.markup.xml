@@ -1,0 +1,32 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>402</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АНДРЕЙ БИРЮКОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>1059</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>А БИРЮКОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>1351</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>А БИРЮКОВ</value>
+</attribute>
+</entry>
+</markup>

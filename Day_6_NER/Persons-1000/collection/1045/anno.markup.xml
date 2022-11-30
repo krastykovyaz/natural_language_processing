@@ -1,0 +1,72 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>97</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ПАК КЫН ХЕ</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>229</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ПАК КЫН ХЕ</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>597</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ПАК КЫН ХЕ</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>658</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЛИ ЧЖОН ХЁН</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>870</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ПАК КЫН ХЕ</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>1271</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВОН СЕЙ ХУН</value>
+</attribute>
+</entry>
+<entry>
+<id>7</id>
+<offset>1488</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>МУН ЧЖЕ ИНА</value>
+</attribute>
+</entry>
+</markup>

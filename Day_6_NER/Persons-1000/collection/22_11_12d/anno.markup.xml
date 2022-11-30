@@ -1,0 +1,82 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>21</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АНДРЕЙ ВОРОБЬЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>259</offset>
+<length>12</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>СЕРГЕЙ ШОЙГУ</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>314</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АНДРЕЙ ВОРОБЬЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>747</offset>
+<length>12</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>СЕРГЕЙ ШОЙГУ</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>962</offset>
+<length>12</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АНДРЕЙ ШАРОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>979</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АНДРЕЙ ВОРОБЬЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>7</id>
+<offset>1075</offset>
+<length>12</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>СЕРГЕЙ ШОЙГУ</value>
+</attribute>
+</entry>
+<entry>
+<id>8</id>
+<offset>1141</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВЛАДИМИР ПУТИН</value>
+</attribute>
+</entry>
+</markup>

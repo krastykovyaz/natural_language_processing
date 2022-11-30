@@ -1,0 +1,92 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>0</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АРАМ ГАБРЕЛЯНОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>86</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>СЕРГЕЙ СОКОЛОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>140</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АРАМ ГАБРЕЛЯНОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>265</offset>
+<length>17</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АРАМ ГАБРЕЛЯНОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>372</offset>
+<length>17</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЕЛЕНА БЕЛОШИСТОВА</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>475</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ОКСАНА РАЗУМОВА</value>
+</attribute>
+</entry>
+<entry>
+<id>7</id>
+<offset>517</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ГАБРЕЛЯНОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>9</id>
+<offset>575</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>СЕРГЕЙ СОКОЛОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>8</id>
+<offset>856</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>СЕРГЕЙ ДОРЕНКО</value>
+</attribute>
+</entry>
+</markup>

@@ -1,0 +1,102 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>114</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>СЕРГЕЙ АНТУФЬЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>199</offset>
+<length>17</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ДМИТРИЙ МЕДВЕДЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>472</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АЛЕКСЕЙ КАЗАКОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>649</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>С АНТУФЬЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>765</offset>
+<length>13</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВИКТОР МАСЛОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>1311</offset>
+<length>13</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ПАВЕЛ ИПАТОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>7</id>
+<offset>1380</offset>
+<length>17</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЛЕОНИД ПОЛЕЖАЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>8</id>
+<offset>1425</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВИКТОР НАЗАРОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>9</id>
+<offset>1634</offset>
+<length>12</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Д МЕДВЕДЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>10</id>
+<offset>1817</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВЛАДИМИР ПУТИН</value>
+</attribute>
+</entry>
+</markup>

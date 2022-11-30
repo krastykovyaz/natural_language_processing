@@ -1,0 +1,42 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>51</offset>
+<length>12</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>В ТЮЛЬПАНОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>129</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВЯЧЕСЛАВ МАКАРОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>175</offset>
+<length>17</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВАДИМ ТЮЛЬПАНОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>479</offset>
+<length>12</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>В ТЮЛЬПАНОВ</value>
+</attribute>
+</entry>
+</markup>

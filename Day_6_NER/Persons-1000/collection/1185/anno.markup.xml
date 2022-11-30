@@ -1,0 +1,72 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>21</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>СЕРГЕЙ ГУЛАКОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>94</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВЛАДИМИР ПУТИН</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>342</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>СЕРГЕЙ ГУЛАКОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>467</offset>
+<length>27</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>СЕРГЕЙ НИКОЛАЕВИЧ ГУЛАКОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>656</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>СЕРГЕЙ ГУЛАКОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>1095</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>С Н ГУЛАКОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>7</id>
+<offset>1265</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>СЕРГЕЙ ГУЛАКОВ</value>
+</attribute>
+</entry>
+</markup>

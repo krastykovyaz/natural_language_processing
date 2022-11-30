@@ -1,0 +1,142 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>0</offset>
+<length>7</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Б ОБАМА</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>80</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>БАРАК ОБАМА</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>124</offset>
+<length>13</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ТОМ ДОНИЛОН</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>248</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ДЖЕЙМС ДЖОНС</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>411</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ДЖ ДЖОНС</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>527</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Т ДОНИЛОН</value>
+</attribute>
+</entry>
+<entry>
+<id>7</id>
+<offset>669</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ДЖО БАЙДЕН</value>
+</attribute>
+</entry>
+<entry>
+<id>8</id>
+<offset>687</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Т ДОНИЛОН</value>
+</attribute>
+</entry>
+<entry>
+<id>9</id>
+<offset>698</offset>
+<length>5</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>МАЙКЛ</value>
+</attribute>
+</entry>
+<entry>
+<id>10</id>
+<offset>762</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Т ДОНИЛОН</value>
+</attribute>
+</entry>
+<entry>
+<id>11</id>
+<offset>916</offset>
+<length>8</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ДЖ ДЖОНС</value>
+</attribute>
+</entry>
+<entry>
+<id>12</id>
+<offset>1254</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Р ЭМАНУЭЛЬ</value>
+</attribute>
+</entry>
+<entry>
+<id>13</id>
+<offset>1501</offset>
+<length>13</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>РИЧАРД ДЭЙЛИ</value>
+</attribute>
+</entry>
+<entry>
+<id>14</id>
+<offset>1611</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ПИТ РАУС</value>
+</attribute>
+</entry>
+</markup>

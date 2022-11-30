@@ -1,0 +1,32 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>105</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВАСИЛИЙ КОЛТАШОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>285</offset>
+<length>18</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АЛЕКСАНДР ГАЛУШКА</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>790</offset>
+<length>8</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>КОЛТАШОВ</value>
+</attribute>
+</entry>
+</markup>

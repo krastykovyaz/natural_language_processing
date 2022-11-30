@@ -1,0 +1,42 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>77</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВАСИЛИЙ ДЖАРТЫ</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>141</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВИОЛЕТТА ЛИСИНА</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>192</offset>
+<length>8</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>В ЛИСИНА</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>292</offset>
+<length>8</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>В ДЖАРТЫ</value>
+</attribute>
+</entry>
+</markup>

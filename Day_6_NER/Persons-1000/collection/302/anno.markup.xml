@@ -1,0 +1,142 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>0</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Д МЕДВЕДЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>64</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ДМИТРИЙ МЕДВЕДЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>253</offset>
+<length>23</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВЛАДИСЛАВ ПИОТРОВСКИЙ</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>322</offset>
+<length>19</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>МИХАИЛ СУХОДОЛЬСКИЙ</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>463</offset>
+<length>17</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АЛЕКСАНДР ГОРОВОЙ</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>618</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЕВГЕНИЙ ШКОЛОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>7</id>
+<offset>676</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АЛЕКСЕЙ АНИЧИН</value>
+</attribute>
+</entry>
+<entry>
+<id>8</id>
+<offset>718</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВАЛЕРИЙ КОЖОКАРЬ</value>
+</attribute>
+</entry>
+<entry>
+<id>9</id>
+<offset>815</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Д МЕДВЕДЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>10</id>
+<offset>872</offset>
+<length>17</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>СЕРГЕЙ ГЕРАСИМОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>11</id>
+<offset>891</offset>
+<length>17</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВИКТОР КИРЬЯНОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>12</id>
+<offset>911</offset>
+<length>19</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АЛЕКСАНДР СМИРНЫЙ</value>
+</attribute>
+</entry>
+<entry>
+<id>13</id>
+<offset>987</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>СЕРГЕЙ БУЛАВИН</value>
+</attribute>
+</entry>
+<entry>
+<id>14</id>
+<offset>1125</offset>
+<length>12</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ИГОРЬ АЛЕШИН</value>
+</attribute>
+</entry>
+</markup>

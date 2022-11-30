@@ -1,0 +1,32 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>64</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>А КОРСИК</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>220</offset>
+<length>18</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АЛЕКСАНДР КОРСИК</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>323</offset>
+<length>17</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВИКТОР ХОРОШАВЦЕВ</value>
+</attribute>
+</entry>
+</markup>

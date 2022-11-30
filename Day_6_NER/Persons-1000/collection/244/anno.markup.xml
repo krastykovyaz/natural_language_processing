@@ -1,0 +1,82 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>80</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>БЕДЖЕТ ПАКОЛЛИ</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>387</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Б ПАКОЛЛИ</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>604</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Б ПАКОЛЛИ</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>882</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ХАШИМ ТАЧИ</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>928</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Б ПАКОЛЛИ</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>972</offset>
+<length>6</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Х ТАЧИ</value>
+</attribute>
+</entry>
+<entry>
+<id>7</id>
+<offset>1022</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Б ПАКОЛЛИ</value>
+</attribute>
+</entry>
+<entry>
+<id>8</id>
+<offset>1076</offset>
+<length>9</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Б ПАКОЛЛИ</value>
+</attribute>
+</entry>
+</markup>

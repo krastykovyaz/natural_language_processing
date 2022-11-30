@@ -1,0 +1,122 @@
+﻿<markup>
+<entry>
+<id>2</id>
+<offset>121</offset>
+<length>13</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>МАРИНА КОВТУН</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>303</offset>
+<length>8</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>М КОВТУН</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>862</offset>
+<length>8</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>М КОВТУН</value>
+</attribute>
+</entry>
+<entry>
+<id>1</id>
+<offset>1133</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ДМИТРИЙ МЕДВЕДЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>1157</offset>
+<length>8</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>М КОВТУН</value>
+</attribute>
+</entry>
+<entry>
+<id>10</id>
+<offset>1286</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ПАВЕЛ БОГУШЕВИЧ</value>
+</attribute>
+</entry>
+<entry>
+<id>11</id>
+<offset>1365</offset>
+<length>18</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВЛАДИМИР СОКОЛОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>12</id>
+<offset>1415</offset>
+<length>18</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ДМИТРИЙ ДМИТРИЕНКО</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>1539</offset>
+<length>8</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>М КОВТУН</value>
+</attribute>
+</entry>
+<entry>
+<id>7</id>
+<offset>1573</offset>
+<length>8</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>М КОВТУН</value>
+</attribute>
+</entry>
+<entry>
+<id>8</id>
+<offset>1851</offset>
+<length>8</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>М КОВТУН</value>
+</attribute>
+</entry>
+<entry>
+<id>9</id>
+<offset>2066</offset>
+<length>8</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>М КОВТУН</value>
+</attribute>
+</entry>
+</markup>

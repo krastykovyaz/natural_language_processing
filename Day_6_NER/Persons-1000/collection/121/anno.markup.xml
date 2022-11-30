@@ -1,0 +1,22 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>142</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>МАРИНА МЕДВЕДЕВА</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>393</offset>
+<length>20</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>КОНСТАНТИН КОРИЩЕНКО</value>
+</attribute>
+</entry>
+</markup>

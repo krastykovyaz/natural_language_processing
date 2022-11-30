@@ -1,0 +1,92 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>93</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЕВГЕНИЙ ШЕВЧУК</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>146</offset>
+<length>17</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ТАТЬЯНА ТУРАНСКАЯ</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>440</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВИТАЛИЙ УЛИТКА</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>546</offset>
+<length>18</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АЛЕКСАНДР КИСНИЧАН</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>566</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЕВГЕНИЙ ШЕВЧУК</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>641</offset>
+<length>17</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ВАСИЛИЙ ГУМЕННЫЙ</value>
+</attribute>
+</entry>
+<entry>
+<id>7</id>
+<offset>720</offset>
+<length>13</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЮРИЙ ГЕРВАЗЮК</value>
+</attribute>
+</entry>
+<entry>
+<id>8</id>
+<offset>823</offset>
+<length>10</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЯН ВЕРЕЩАК</value>
+</attribute>
+</entry>
+<entry>
+<id>9</id>
+<offset>977</offset>
+<length>17</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ТАТЬЯНА ТУРАНСКАЯ</value>
+</attribute>
+</entry>
+</markup>

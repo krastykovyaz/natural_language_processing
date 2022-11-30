@@ -1,0 +1,72 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>9</offset>
+<length>7</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>МЕРКЕЛЬ</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>121</offset>
+<length>48</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>КРИСТИАН ФОН БЕТТИХЕР (CHRISTIAN VON BOETTICHER)</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>584</offset>
+<length>12</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ФОН БЕТТИХЕР</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>872</offset>
+<length>12</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ФОН БЕТТИХЕР</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>1194</offset>
+<length>23</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>КРИСТИАН ФОН БЕТТИХЕР</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>1524</offset>
+<length>13</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ФОН БЕТТИХЕР</value>
+</attribute>
+</entry>
+<entry>
+<id>7</id>
+<offset>1615</offset>
+<length>28</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЙОСТ ДЕ ЯГЕР (JOST DE JAGER)</value>
+</attribute>
+</entry>
+</markup>

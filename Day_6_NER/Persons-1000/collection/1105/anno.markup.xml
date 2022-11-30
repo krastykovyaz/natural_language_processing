@@ -1,0 +1,22 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>114</offset>
+<length>15</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ГАЛИНА САДЫКОВА</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>306</offset>
+<length>26</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ГАЛИНА МИХАЙЛОВНА САДЫКОВА</value>
+</attribute>
+</entry>
+</markup>

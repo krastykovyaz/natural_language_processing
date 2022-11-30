@@ -1,0 +1,62 @@
+﻿<markup>
+<entry>
+<id>1</id>
+<offset>75</offset>
+<length>16</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ДМИТРИЙ МЕДВЕДЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>2</id>
+<offset>281</offset>
+<length>13</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЮРИЙ КОРЧАГИН</value>
+</attribute>
+</entry>
+<entry>
+<id>3</id>
+<offset>416</offset>
+<length>18</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>АЛЕКСАНДР КУЗНЕЦОВ</value>
+</attribute>
+</entry>
+<entry>
+<id>4</id>
+<offset>522</offset>
+<length>14</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>МИХАИЛ БЕЛЫЙ</value>
+</attribute>
+</entry>
+<entry>
+<id>5</id>
+<offset>600</offset>
+<length>17</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>ЕВГЕНИЙ АФАНАСЬЕВ</value>
+</attribute>
+</entry>
+<entry>
+<id>6</id>
+<offset>622</offset>
+<length>11</length>
+<class>AAA_Estimate_Person</class>
+<attribute>
+<name>Canonical</name>
+<value>Е АФАНАСЬЕВ</value>
+</attribute>
+</entry>
+</markup>
